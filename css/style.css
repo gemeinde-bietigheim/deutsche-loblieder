@@ -13,6 +13,16 @@ body {
     min-height: 100vh;
 }
 
+.logo-img{
+    display:block;
+    margin: 0 auto 16px auto;
+    width:120px;
+    height: 120px;
+    object-fit:cover;
+    border-radius: 50%;
+    box-shadow: 0 2px 8 px rgba(0,0,0,0.1);
+}
+
 header {
     background: rgba(255, 255, 255, 0.95);
     text-align: center;
