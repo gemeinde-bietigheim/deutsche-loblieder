@@ -4,12 +4,22 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" type="image/png" href="../assets/logo.png">
-    <title>[NUMBER] [GREEK TITLE IN LATIN LETTERS] - Greek Hymns</title>
+    <link rel="apple-touch-icon" href="../assets/logo.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="../assets/logo.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="../assets/logo.png">
+    
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="[NUMBER]. [GREEK TITLE IN LATIN LETTERS]">
+    <meta name="theme-color" content="#5c371f">
+    
+    <title>[NUMBER]. [GREEK TITLE IN LATIN LETTERS] - Greek Hymns</title>
     <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="../css/print.css" media="print">
 </head>
 <body>
     <div class="song-page">
-        <a href="../index.html" class="back-button">← Back to Index</a>
+        <a href="../index.html" class="back-button no-print">← Back to Index</a>
         
         <div class="song-header">
             <h1>[NUMBER] [GREEK TITLE IN LATIN LETTERS]</h1>
@@ -36,12 +46,11 @@
         </div>
 
         <!-- Media Section -->
-        <div class="media-section">
+        <div class="media-section no-print">
             <div class="media-header">
                 <h3>🎵 Listen to this Hymn</h3>
             </div>
             <div class="media-content">
-                <!-- Option 1: YouTube Video Embed -->
                 <div class="video-container">
                     <iframe 
                         src="https://www.youtube.com/embed/YOUR_VIDEO_ID" 
@@ -51,19 +60,17 @@
                         allowfullscreen>
                     </iframe>
                 </div>
-                
-                <!-- Option 2: Direct YouTube Link (uncomment if no embed) -->
-                <!-- <div class="youtube-link">
-                    <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" target="_blank" rel="noopener noreferrer" class="media-button">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
-                            <path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/>
-                        </svg>
-                        Watch on YouTube
-                    </a>
-                </div> -->
             </div>
             
             <div class="media-actions">
+                <button class="action-btn print-btn" onclick="printHymn()">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <polyline points="6 9 6 2 18 2 18 9"></polyline>
+                        <path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path>
+                        <rect x="6" y="14" width="12" height="8"></rect>
+                    </svg>
+                    Print PDF
+                </button>
                 <button class="action-btn share-btn" onclick="shareHymn()">
                     <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                         <circle cx="18" cy="5" r="3"></circle>
@@ -79,19 +86,16 @@
     </div>
 
     <script src="../js/media.js"></script>
+    <script src="../js/dynamic-manifest.js"></script>
 </body>
 </html>
 
 <!-- 
 INSTRUCTIONS FOR FILLING IN:
-1. Replace YOUR_VIDEO_ID with actual YouTube video ID
-   Example: If URL is https://www.youtube.com/watch?v=dQw4w9WgXcQ
-   Then VIDEO_ID is: dQw4w9WgXcQ
-
-2. To get YouTube video ID:
-   - Go to the YouTube video
-   - Copy the URL
-   - Extract the part after "v=" or after "youtu.be/"
-   
-3. For audio files, uncomment audio player section and add MP3 file path
+1. Replace [NUMBER] with hymn number (e.g., 254)
+2. Replace [GREEK TITLE IN LATIN LETTERS] with transliterated Greek title
+3. Replace [ENGLISH TRANSLATION OF TITLE] with English translation
+4. Fill in verse content with Greek transliteration and English translations
+5. Replace YOUR_VIDEO_ID with actual YouTube video ID
+6. The manifest will be generated dynamically from the hymn title
 -->
