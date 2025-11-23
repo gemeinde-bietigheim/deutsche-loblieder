@@ -99,7 +99,7 @@
                 <!-- Option 1: YouTube Video Embed -->
                 <div class="video-container">
                     <iframe 
-                        src="https://www.youtube.com/watch?v=NYvLsMKJRg0&list=RDNYvLsMKJRg0&start_radio=1" 
+                        src="https://www.youtube.com/embed/NYvLsMKJRg0" 
                         title="255 My cross you carried - Greek Hymn"
                         frameborder="0" 
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
@@ -132,5 +132,21 @@
             </div>
         </div>
     </div>
+
+    <script src="../js/media.js"></script>
+    <script>
+        // Inline fallback if media.js doesn't load
+        if (typeof window.shareHymn === 'undefined') {
+            window.shareHymn = function() {
+                const title = document.querySelector('.song-header h1')?.textContent || 'Hymn';
+                const url = window.location.href;
+                if (navigator.share) {
+                    navigator.share({ title: title, url: url }).catch(() => {});
+                } else if (navigator.clipboard) {
+                    navigator.clipboard.writeText(url).then(() => alert('Link copied!'));
+                }
+            };
+        }
+    </script>
 </body>
 </html>
