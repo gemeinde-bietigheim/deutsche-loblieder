@@ -1,0 +1,24 @@
+{
+  "name": "Loblieder-der-Gemeinde",
+  "short_name": "Hymns",
+  "description": "Eine Sammlung von lobliedern der Gemeinde",
+  "start_url": "/deutsche-loblieder/",
+  "display": "standalone",
+  "background_color": "#ffecb3",
+  "theme_color": "#5c371f",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "assets/logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
