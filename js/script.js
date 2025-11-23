@@ -14,15 +14,7 @@ function toggleCategory(categoryId) {
   }
 }
 
-// Initialize - keep first section expanded
+// Initialize - language-specific expansion handled by i18n.js
 document.addEventListener('DOMContentLoaded', () => {
-  const firstSongList = document.getElementById('deutsche-lieder');
-  if (firstSongList) {
-    firstSongList.classList.remove('collapsed');
-    firstSongList.classList.add('expanded');
-    const firstIcon = firstSongList.previousElementSibling.querySelector('.toggle-icon');
-    if (firstIcon) {
-      firstIcon.textContent = '▲';
-    }
-  }
+  console.log('Script.js loaded - categories will be adjusted by i18n.js');
 });
