@@ -1,0 +1,31 @@
+{
+  "name": "Loblieder der Gemeinde",
+  "short_name": "255 My Cross you carried",
+  "description": "Eine Sammlung von lobliedern der Gemeinde",
+  "start_url": "./english-hymns/255-my-cross-you-carried.html",
+  "scope": "./english-hymns/255-my-cross-you-carried.html",
+  "display": "standalone",
+  "background_color": "#ffecb3",
+  "theme_color": "#5c371f",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "assets/logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/logo.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
