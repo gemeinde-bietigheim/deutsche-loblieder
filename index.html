@@ -1,32 +1,34 @@
 <!DOCTYPE html>
 <html lang="de">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" type="image/png" href="assets/logo.png">
     <!-- Apple Touch Icon (iOS homescreen) -->
-  <link rel="apple-touch-icon" href="assets/logo.png">
-  <link rel="apple-touch-icon" sizes="180x180" href="assets/logo.png">
-  
-  <!-- Standard icon for Android/other platforms -->
-  <link rel="icon" type="image/png" sizes="192x192" href="assets/logo.png">
-  
-  <!-- Web App Manifest for PWA -->
-  <link rel="manifest" href="manifest.json">
-  
-  <!-- iOS Web App Meta Tags -->
-  <meta name="apple-mobile-web-app-capable" content="yes">
-  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-  <meta name="apple-mobile-web-app-title" content="Hymns">
-  
-  <!-- Theme color -->
-  <meta name="theme-color" content="#5c371f">
-  
+    <link rel="apple-touch-icon" href="assets/logo.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/logo.png">
 
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!-- Standard icon for Android/other platforms -->
+    <link rel="icon" type="image/png" sizes="192x192" href="assets/logo.png">
+
+    <!-- Web App Manifest for PWA -->
+    <link rel="manifest" href="manifest.json">
+
+    <!-- iOS Web App Meta Tags -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="Hymns">
+
+    <!-- Theme color -->
+    <meta name="theme-color" content="#5c371f">
+
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <title data-i18n="title">Loblieder - Gemeinde Bietigheim</title>
     <link rel="stylesheet" href="css/style.css">
 </head>
+
 <body>
     <header>
         <img src="assets/logo.png" alt="Logo" class="logo-img">
@@ -47,10 +49,10 @@
             <!-- German Songs Section -->
             <section class="category" id="german-songs-section">
                 <div class="category-header" onclick="toggleCategory('deutsche-lieder')">
-                    <h2 data-i18n="german-songs-title">Deutsche Loblieder (45)</h2>
+                    <h2 data-i18n="german-songs-title">Deutsche Loblieder</h2>
                     <span class="toggle-icon">▼</span>
                 </div>
-                <div id="deutsche-lieder" class="song-list">
+                <div id="deutsche-lieder" class="song-list collapsed">
                     <!-- Beispiel-Lieder - diese werden Sie durch Ihre echten Lieder ersetzen -->
                     <a href="deutsche-lieder/001-du-grosser-gott.html" class="song-item">
                         <span class="song-number">001</span>
@@ -237,9 +239,10 @@
                 </div>
             </section>
 
+            <!-- Greek Songs Section -->
             <section class="category" id="greek-songs-section">
                 <div class="category-header" onclick="toggleCategory('griechische-lieder')">
-                    <h2 data-i18n="greek-songs-title">Griechische Loblieder (667)</h2>
+                    <h2 data-i18n="greek-songs-title">Griechische Loblieder</h2>
                     <span class="toggle-icon">▼</span>
                 </div>
                 <div id="griechische-lieder" class="song-list collapsed">
@@ -277,9 +280,9 @@
                 </div>
                 <div id="english-songs" class="song-list collapsed">
                     <!-- ENGLISH_TOC_START -->
-                     <a href="english-hymns/254-ti-evlgimeni-i-pigi.html" class="song-item">
+                    <a href="english-hymns/254-ti-evlogimeni-i-pigi.html" class="song-item">
                         <span class="song-number">254</span>
-                        <span class="song-title">Ti evlogimeni i pigi <em>(My Cross You Carried)</em></span>
+                        <span class="song-title">Ti Evlogimeni I Pigi <em>(What a Blessed Fountain)</em></span>
                     </a>
                     <a href="english-hymns/255-my-cross-you-carried.html" class="song-item">
                         <span class="song-number">255</span>
