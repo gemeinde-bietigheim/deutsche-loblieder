@@ -251,3 +251,42 @@ footer {
     transform: translateY(-2px);
     box-shadow: 0 4px 15px rgba(0,0,0,0.2);
 }
+
+.language-switcher {
+    margin-top: 15px;
+}
+
+.lang-btn {
+    padding: 8px 20px;
+    margin: 0 5px;
+    border: 2px solid #fff;
+    background: transparent;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: all 0.3s ease;
+}
+
+.lang-btn:hover {
+    background: #fff;
+    color: #2c3e50;
+}
+
+.lang-btn.active {
+    background: #fff;
+    color: #2c3e50;
+}
+
+.translation {
+    color: #7f8c8d;
+    font-style: italic;
+    font-size: 0.9em;
+    margin-top: 2px;
+}
+
+.greek-line {
+    color: #2c3e50;
+    line-height: 1.8;
+    margin-bottom: 5px;
+}

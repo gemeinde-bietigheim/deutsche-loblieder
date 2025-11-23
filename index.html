@@ -4,37 +4,37 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" type="image/png" href="assets/logo.png">
-    <title>Loblieder - Gemeinde Bietigheim</title>
+    <title data-i18n="title">Loblieder - Gemeinde Bietigheim</title>
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
     <header>
         <img src="assets/logo.png" alt="Logo" class="logo-img">
-        <h1>Loblieder der Gemeinde</h1>
-        <p>Sammlung deutscher und griechischer Loblieder</p>
+        <h1 data-i18n="header-title">Loblieder der Gemeinde</h1>
+        <p data-i18n="header-subtitle">Sammlung deutscher und griechischer Loblieder</p>
+        <div class="language-switcher">
+            <button onclick="switchLanguage('de')" class="lang-btn" id="lang-de">DE</button>
+            <button onclick="switchLanguage('en')" class="lang-btn" id="lang-en">EN</button>
+        </div>
     </header>
 
     <main>
         <div class="search-container">
-            <input type="text" id="searchInput" placeholder="Suche nach Liedtitel..." />
+            <input type="text" id="searchInput" placeholder="Suche nach Liedtitel..." data-i18n-placeholder="search-placeholder" />
         </div>
 
         <div class="categories">
             <section class="category">
-                <h2>Deutsche Loblieder (45)</h2>
+                <h2 data-i18n="german-songs-title">Deutsche Loblieder (45)</h2>
                 <div id="deutsche-lieder" class="song-list">
-                    <!-- Beispiel-Lieder - diese werden Sie durch Ihre echten Lieder ersetzen -->
+                    <!-- ...existing code... -->
                     <a href="deutsche-lieder/001-du-grosser-gott.html" class="song-item">
                         <span class="song-number">001</span>
                         <span class="song-title">Du großer Gott wenn ich die Welt betrachte</span>
                     </a>
                     <a href="deutsche-lieder/002-ins-wasser-faellt-ein-stein.html" class="song-item">
-                        <span class="song-number">002</span>
-                        <span class="song-title">Ins Wasser fällt ein Stein</span>
                     </a>
                     <a href="deutsche-lieder/003-welch-ein-freund-ist-unser-jesus.html" class="song-item">
-                        <span class="song-number">003</span>
-                        <span class="song-title">Welch ein Freund ist unser Jesus</span>
                     </a>
                     <a href="deutsche-lieder/004-sing-mit-mir-ein-halleluja.html" class="song-item">
                         <span class="song-number">004</span>
@@ -192,7 +192,7 @@
                         <span class="song-number">042</span>
                         <span class="song-title">Du starbst für mich</span>
                     </a>
-                     </a>
+                    </a>
                     <a href="deutsche-lieder/043-jesus-geh-voran.html" class="song-item">
                         <span class="song-number">043</span>
                         <span class="song-title">Jesus geh voran</span>
@@ -215,7 +215,8 @@
                     <!-- Beispiel griechischer Lieder mit Transliteration -->
                     <a href="griechische-lieder/001-agios-agios-agios-kirios-sabaoth.html" class="song-item">
                         <span class="song-number">001</span>
-                        <span class="song-title">Agios, Agios, Agios, Kyrios Sabaoth <em>(Heilig Heilig Heilig, der Herr Zebaoth)</em></span>
+                        <span class="song-title">Agios, Agios, Agios, Kyrios Sabaoth <em>(Heilig Heilig Heilig, der Herr
+                                Zebaoth)</em></span>
                     </a>
                     <a href="griechische-lieder/002-ainoume-i-pisti.html" class="song-item">
                         <span class="song-number">002</span>
@@ -228,27 +229,41 @@
 
                     <a href="griechische-lieder/054-eki-sto-golgotha.html" class="song-item">
                         <span class="song-number">054</span>
-                        <span class="song-title">Eki sto Goglotha <em>(Dort auf )</em></span>
+                        <span class="song-title">Eki sto Goglotha <em>(Dort auf Golgatha)</em></span>
+                    </a>
+
+                    <a href="griechische-lieder/055-i-kardia-mu-pros-ese.html" class="song-item">
+                        <span class="song-number">055</span>
+                        <span class="song-title">Eki sto Goglotha <em>(Mein Herz zu Dir)</em></span>
                     </a>
                     <!-- Hier fügen Sie weitere griechische Lieder hinzu -->
                 </div>
             </section>
             <section class="song-section">
-                    <!--<h2>Griechische Lieder</h2>-->
-                    <div class="song-list">
-                        <!-- GREEK_TOC_START -->
-                        <!-- wird per scripts/generateGreekToc.js befüllt -->
-                        <!-- GREEK_TOC_END -->
-                    </div>
-                </section>
+                <!--<h2>Griechische Lieder</h2>-->
+                <div class="song-list">
+                    <!-- GREEK_TOC_START -->
+                    <!-- wird per scripts/generateGreekToc.js befüllt -->
+                    <!-- GREEK_TOC_END -->
+                </div>
+            </section>
+            <section class="category">
+                <h2 data-i18n="greek-songs-title">Griechische Loblieder (667)</h2>
+                <div id="griechische-lieder" class="song-list">
+                    <!-- GREEK_TOC_START -->
+                    <!-- GREEK_TOC_END -->
+                </div>
+            </section>
         </div>
     </main>
 
     <footer>
-        <p>&copy; 2025 Gemeinde Bietigheim - Erstellt für den Gottesdienst</p>
+        <p data-i18n="footer">&copy; 2025 Gemeinde Bietigheim - Erstellt für den Gottesdienst</p>
     </footer>
 
+    <script src="js/i18n.js"></script>
     <script src="js/search.js"></script>
     <script src="js/generateGreekToc.js"></script>
 </body>
+
 </html>
