@@ -1,48 +1,74 @@
-/* eslint-disable no-console */
-const fs = require('fs');
-const path = require('path');
+const translations = {
+  de: {
+    'title': 'Loblieder - Gemeinde Bietigheim',
+    'header-title': 'Loblieder der Gemeinde',
+    'header-subtitle': 'Sammlung deutscher und griechischer Loblieder',
+    'search-placeholder': 'Suche nach Liedtitel...',
+    'german-songs-title': 'Deutsche Loblieder (45)',
+    'greek-songs-title': 'Griechische Loblieder (667)',
+    'english-songs-title': 'Englische Hymnen (Griechisch Transliteration)',
+    'footer': '© 2025 Gemeinde Bietigheim - Erstellt für den Gottesdienst',
+    'back-button': '← Zurück zum Inhaltsverzeichnis'
+  },
+  en: {
+    'title': 'Hymns - Bietigheim Church',
+    'header-title': 'Church Hymns',
+    'header-subtitle': 'Collection of German and Greek Hymns',
+    'search-placeholder': 'Search for hymn title...',
+    'german-songs-title': 'German Hymns (45)',
+    'greek-songs-title': 'Greek Hymns (667)',
+    'english-songs-title': 'English Hymns (Greek Transliteration)',
+    'footer': '© 2025 Bietigheim Church - Created for worship',
+    'back-button': '← Back to Index'
+  }
+};
 
-const rootDir = path.join(__dirname, '..');
-const songsDir = path.join(rootDir, 'english-songs');
-const indexPath = path.join(rootDir, 'index.html');
+let currentLanguage = localStorage.getItem('language') || detectLanguage();
 
-const START = '<!-- GREEK_TOC_START -->';
-const END = '<!-- GREEK_TOC_END -->';
-
-// Create english-songs directory if it doesn't exist
-if (!fs.existsSync(songsDir)) {
-  fs.mkdirSync(songsDir, { recursive: true });
+function detectLanguage() {
+  const browserLang = navigator.language || navigator.userLanguage;
+  return browserLang.startsWith('en') ? 'en' : 'de';
 }
 
-const files = fs.readdirSync(songsDir)
-  .filter((name) => name.endsWith('.html') && name !== 'index.html' && !name.startsWith('template'));
+function switchLanguage(lang) {
+  currentLanguage = lang;
+  localStorage.setItem('language', lang);
+  document.documentElement.lang = lang;
+  updateContent();
+  updateActiveButton();
+}
 
-const songs = files.map((file) => {
-  const content = fs.readFileSync(path.join(songsDir, file), 'utf8');
-  const h1Match = content.match(/<h1>\s*([\d]+\s+[^<]+)<\/h1>/i);
-  if (!h1Match) throw new Error(`No <h1> found in ${file}`);
+function updateContent() {
+  document.querySelectorAll('[data-i18n]').forEach(elem => {
+    const key = elem.getAttribute('data-i18n');
+    if (translations[currentLanguage][key]) {
+      elem.textContent = translations[currentLanguage][key];
+    }
+  });
 
-  const fullTitle = h1Match[1].trim();
-  const [number, ...titleParts] = fullTitle.split(' ');
-  const title = titleParts.join(' ').trim();
+  document.querySelectorAll('[data-i18n-placeholder]').forEach(elem => {
+    const key = elem.getAttribute('data-i18n-placeholder');
+    if (translations[currentLanguage][key]) {
+      elem.placeholder = translations[currentLanguage][key];
+    }
+  });
 
-  const translationMatch = content.match(/Greek Hymns\s*-\s*No\.\s*\d+\s*\|\s*"([^"]+)"/i);
-  const translation = translationMatch ? translationMatch[1].trim() : '';
+  if (document.title) {
+    document.title = translations[currentLanguage]['title'];
+  }
+}
 
-  return {
-    number: Number(number),
-    title,
-    translation,
-    href: `english-songs/${file}`,
-  };
-}).sort((a, b) => a.number - b.number);
+function updateActiveButton() {
+  document.querySelectorAll('.lang-btn').forEach(btn => {
+    btn.classList.remove('active');
+  });
+  const activeBtn = document.getElementById(`lang-${currentLanguage}`);
+  if (activeBtn) {
+    activeBtn.classList.add('active');
+  }
+}
 
-const listMarkup = songs.map(({ number, title, translation, href }) => {
-  const translationPart = translation ? ` <em>(${translation})</em>` : '';
-  return `                        <a href="${href}" class="song-item">
-                            <span class="song-number">${String(number).padStart(3, '0')}</span>
-                            <span class="song-title">${title}${translationPart}</span>
-                        </a>`;
-}).join('\n');
-
-console.log(`English Greek hymns table of contents generated with ${songs.length} entries.`);
+// Initialize on page load
+document.addEventListener('DOMContentLoaded', () => {
+  switchLanguage(currentLanguage);
+});

@@ -43,8 +43,12 @@
         </div>
 
         <div class="categories">
-            <section class="category">
-                <h2 data-i18n="german-songs-title">Deutsche Loblieder (45)</h2>
+            <!-- German Songs Section -->
+            <section class="category" id="german-songs-section">
+                <div class="category-header" onclick="toggleCategory('deutsche-lieder')">
+                    <h2 data-i18n="german-songs-title">Deutsche Loblieder (45)</h2>
+                    <span class="toggle-icon">▼</span>
+                </div>
                 <div id="deutsche-lieder" class="song-list">
                     <!-- Beispiel-Lieder - diese werden Sie durch Ihre echten Lieder ersetzen -->
                     <a href="deutsche-lieder/001-du-grosser-gott.html" class="song-item">
@@ -232,10 +236,12 @@
                 </div>
             </section>
 
-            <section class="category">
-                <h2>Griechische Loblieder (667)</h2>
-                <div id="griechische-lieder" class="song-list">
-                    <!-- Beispiel griechischer Lieder mit Transliteration -->
+            <section class="category" id="greek-songs-section">
+                <div class="category-header" onclick="toggleCategory('griechische-lieder')">
+                    <h2 data-i18n="greek-songs-title">Griechische Loblieder (667)</h2>
+                    <span class="toggle-icon">▼</span>
+                </div>
+                <div id="griechische-lieder" class="song-list collapsed">
                     <a href="griechische-lieder/001-agios-agios-agios-kirios-sabaoth.html" class="song-item">
                         <span class="song-number">001</span>
                         <span class="song-title">Agios, Agios, Agios, Kyrios Sabaoth <em>(Heilig Heilig Heilig, der Herr
@@ -262,15 +268,19 @@
                     <!-- Hier fügen Sie weitere griechische Lieder hinzu -->
                 </div>
             </section>
-           <section class="category" id="english-songs-section" style="display: none;">
-                <h2 data-i18n="english-songs-title">English Hymns (Greek Transliteration)</h2>
-                <div id="english-songs" class="song-list">
+            <!-- English Songs Section -->
+            <section class="category" id="english-songs-section">
+                <div class="category-header" onclick="toggleCategory('english-songs')">
+                    <h2 data-i18n="english-songs-title">English Hymns (Greek Transliteration)</h2>
+                    <span class="toggle-icon">▼</span>
+                </div>
+                <div id="english-songs" class="song-list collapsed">
                     <!-- ENGLISH_TOC_START -->
                     <a href="english-songs/255-to-diko-mou-stavro.html" class="song-item">
                         <span class="song-number">255</span>
                         <span class="song-title">To Diko Mou Stavro <em>(My Cross You Carried)</em></span>
                     </a>
-                    <!-- ENGLISH_TOC_END  -->
+                    <!-- ENGLISH_TOC_END -->
                 </div>
             </section>
         </div>
@@ -282,6 +292,7 @@
     </footer>
 
     <script src="js/i18n.js"></script>
+    <script src="js/script.js"></script>
     <script src="js/search.js"></script>
     <script src="js/generateGreekToc.js"></script>
 </body>
