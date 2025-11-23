@@ -1,9 +1,30 @@
-iosifgogolos/Desktop/Zoom Eaep Bietigheim/deutsche-loblieder/js/media.js
 // Media functionality for hymn pages
 (function() {
     'use strict';
 
     console.log('Media.js loaded successfully');
+
+    // Print functionality
+    window.printHymn = function() {
+        console.log('printHymn() called');
+        
+        // Optional: Add print-specific modifications before printing
+        const title = document.querySelector('.song-header h1')?.textContent || 'Hymn';
+        
+        // Set document title for PDF filename
+        const originalTitle = document.title;
+        document.title = title.replace(/[^a-z0-9]/gi, '-').toLowerCase();
+        
+        // Trigger print dialog
+        window.print();
+        
+        // Restore original title after print dialog closes
+        setTimeout(() => {
+            document.title = originalTitle;
+        }, 100);
+        
+        console.log('Print dialog opened');
+    };
 
     // Share functionality - Make it globally accessible
     window.shareHymn = function() {
@@ -123,6 +144,15 @@ iosifgogolos/Desktop/Zoom Eaep Bietigheim/deutsche-loblieder/js/media.js
         }, 3000);
     }
 
+    // Keyboard shortcuts
+    document.addEventListener('keydown', function(event) {
+        // Ctrl/Cmd + P for print
+        if ((event.ctrlKey || event.metaKey) && event.key === 'p') {
+            event.preventDefault();
+            printHymn();
+        }
+    });
+
     // Lazy load YouTube iframe
     document.addEventListener('DOMContentLoaded', function() {
         console.log('DOM loaded, initializing media features');
@@ -154,7 +184,6 @@ iosifgogolos/Desktop/Zoom Eaep Bietigheim/deutsche-loblieder/js/media.js
                         
                         if (src && !iframe.hasAttribute('data-loaded')) {
                             iframe.setAttribute('data-loaded', 'true');
-                            // Force reload to ensure proper loading
                             iframe.src = src;
                             console.log('Video iframe loaded');
                         }
@@ -185,7 +214,8 @@ iosifgogolos/Desktop/Zoom Eaep Bietigheim/deutsche-loblieder/js/media.js
         });
     }
 
-    // Test share button on load
+    // Test functions on load
+    console.log('Print function available:', typeof window.printHymn);
     console.log('Share function available:', typeof window.shareHymn);
 
 })();

@@ -666,3 +666,180 @@ footer {
         max-width: 90%;
     }
 }
+
+/* Print-specific styles for hymn pages */
+
+@media print {
+    /* Reset and base styles */
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+    body {
+        font-family: 'Times New Roman', serif;
+        font-size: 12pt;
+        line-height: 1.6;
+        color: #000;
+        background: white;
+        margin: 0;
+        padding: 0;
+    }
+
+    /* Hide non-printable elements */
+    .no-print,
+    .back-button,
+    .media-section,
+    .media-actions,
+    .action-btn,
+    .share-notification,
+    header,
+    footer,
+    nav,
+    .search-container,
+    .language-switcher,
+    iframe,
+    video {
+        display: none !important;
+    }
+
+    /* Page setup */
+    @page {
+        size: A4;
+        margin: 2cm 1.5cm;
+    }
+
+    /* Song page container */
+    .song-page {
+        max-width: 100%;
+        margin: 0;
+        padding: 0;
+        background: white;
+    }
+
+    /* Header styling */
+    .song-header {
+        margin-bottom: 1.5cm;
+        padding-bottom: 0.5cm;
+        border-bottom: 2pt solid #000;
+        page-break-after: avoid;
+    }
+
+    .song-header h1 {
+        font-size: 20pt;
+        font-weight: bold;
+        margin: 0 0 0.3cm 0;
+        color: #000;
+        text-align: center;
+    }
+
+    .song-meta {
+        font-size: 11pt;
+        color: #333;
+        text-align: center;
+        font-style: italic;
+    }
+
+    /* Verse styling */
+    .verse {
+        margin-bottom: 1.2cm;
+        page-break-inside: avoid;
+    }
+
+    .verse-title {
+        font-size: 13pt;
+        font-weight: bold;
+        margin-bottom: 0.3cm;
+        color: #000;
+        text-transform: uppercase;
+        letter-spacing: 0.5pt;
+    }
+
+    .verse-content {
+        margin-left: 0.5cm;
+    }
+
+    /* Greek text */
+    .greek-line {
+        font-size: 12pt;
+        font-weight: 600;
+        line-height: 1.8;
+        margin-bottom: 0.2cm;
+        color: #000;
+    }
+
+    /* Translation text */
+    .translation {
+        font-size: 10pt;
+        font-style: italic;
+        color: #444;
+        margin-bottom: 0.4cm;
+        margin-left: 0.5cm;
+        line-height: 1.4;
+    }
+
+    /* Prevent widows and orphans */
+    p, .verse-content {
+        orphans: 3;
+        widows: 3;
+    }
+
+    h1, h2, h3, h4, .verse-title {
+        page-break-after: avoid;
+        orphans: 4;
+        widows: 4;
+    }
+
+    /* Add footer with page number */
+    @page {
+        @bottom-right {
+            content: counter(page);
+            font-size: 10pt;
+        }
+    }
+
+    /* Ensure proper spacing */
+    .verse:last-of-type {
+        margin-bottom: 0;
+    }
+
+    /* Links */
+    a {
+        color: #000;
+        text-decoration: none;
+    }
+
+    a[href]:after {
+        content: none !important;
+    }
+
+    /* Optimize for PDF generation */
+    body {
+        -webkit-print-color-adjust: exact;
+        print-color-adjust: exact;
+    }
+}
+
+/* Print button styling */
+.print-btn {
+    background: white;
+    color: #301D10;
+    border-color: #301D10;
+}
+
+.print-btn:hover {
+    background: #301D10;
+    color: white;
+    border-color: #301D10;
+}
+
+/* Media actions layout */
+.media-actions {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin-top: 1.5rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid rgba(92, 55, 31, 0.1);
+    flex-wrap: wrap;
+}
