@@ -357,6 +357,204 @@ footer {
     transition: opacity 0.3s ease, transform 0.3s ease;
 }
 
+/* Media Section Styling */
+.media-section {
+    margin-top: 3rem;
+    padding: 2rem;
+    background: linear-gradient(135deg, rgba(92, 55, 31, 0.03) 0%, rgba(48, 29, 16, 0.05) 100%);
+    border-radius: 15px;
+    border: 1px solid rgba(92, 55, 31, 0.1);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+}
+
+.media-header {
+    text-align: center;
+    margin-bottom: 1.5rem;
+}
+
+.media-header h3 {
+    color: #301D10;
+    font-size: 1.4rem;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+}
+
+.media-content {
+    margin-bottom: 1rem;
+}
+
+/* Video Container - Responsive 16:9 aspect ratio */
+.video-container {
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%; /* 16:9 aspect ratio */
+    height: 0;
+    overflow: hidden;
+    border-radius: 12px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    background: #000;
+}
+
+.video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: none;
+    border-radius: 12px;
+}
+
+/* YouTube Link Button */
+.youtube-link {
+    text-align: center;
+    margin: 1rem 0;
+}
+
+.media-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 1rem 2rem;
+    background: #FF0000;
+    color: white;
+    text-decoration: none;
+    border-radius: 50px;
+    font-weight: 600;
+    font-size: 1.1rem;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 15px rgba(255, 0, 0, 0.3);
+}
+
+.media-button:hover {
+    background: #CC0000;
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(255, 0, 0, 0.4);
+}
+
+.media-button svg {
+    width: 24px;
+    height: 24px;
+}
+
+/* Audio Player */
+.audio-player {
+    margin: 1.5rem 0;
+    text-align: center;
+}
+
+.audio-player audio {
+    width: 100%;
+    max-width: 600px;
+    border-radius: 50px;
+    outline: none;
+}
+
+.audio-player audio::-webkit-media-controls-panel {
+    background: linear-gradient(135deg, #301D10 0%, #5c371f 100%);
+}
+
+/* Media Actions */
+.media-actions {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin-top: 1.5rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid rgba(92, 55, 31, 0.1);
+}
+
+.action-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.75rem 1.5rem;
+    background: white;
+    color: #301D10;
+    border: 2px solid #301D10;
+    border-radius: 25px;
+    font-weight: 600;
+    font-size: 0.95rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.action-btn:hover {
+    background: #301D10;
+    color: white;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.action-btn svg {
+    width: 16px;
+    height: 16px;
+}
+
+.share-btn:hover {
+    background: #3498db;
+    border-color: #3498db;
+}
+
+.download-btn:hover {
+    background: #27ae60;
+    border-color: #27ae60;
+}
+
+/* Responsive Design for Media Section */
+@media (max-width: 767px) {
+    .media-section {
+        padding: 1.5rem;
+        margin-top: 2rem;
+    }
+    
+    .media-header h3 {
+        font-size: 1.2rem;
+    }
+    
+    .media-button {
+        padding: 0.875rem 1.5rem;
+        font-size: 1rem;
+    }
+    
+    .action-btn {
+        padding: 0.65rem 1.25rem;
+        font-size: 0.9rem;
+    }
+    
+    .media-actions {
+        flex-wrap: wrap;
+    }
+}
+
+/* Loading state for video */
+.video-container::before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 50px;
+    height: 50px;
+    border: 3px solid rgba(255, 255, 255, 0.3);
+    border-top-color: white;
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+    z-index: 1;
+}
+
+.video-container iframe {
+    z-index: 2;
+}
+
+@keyframes spin {
+    to { transform: translate(-50%, -50%) rotate(360deg); }
+}
+
 /* Search highlight styling */
 .search-highlight {
     background-color: #ffd700;
