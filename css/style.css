@@ -283,56 +283,102 @@ footer {
 
 /* Song List States */
 .song-list {
-    max-height: 2000px;
-    overflow: hidden;
+    max-height: 600px;
+    overflow-y: auto;
+    overflow-x: hidden;
     transition: max-height 0.5s ease-in-out, opacity 0.3s ease;
     opacity: 1;
+    scrollbar-width: thin;
+    scrollbar-color: #5c371f rgba(92, 55, 31, 0.1);
+}
+
+/* Custom Scrollbar for Webkit browsers */
+.song-list::-webkit-scrollbar {
+    width: 8px;
+}
+
+.song-list::-webkit-scrollbar-track {
+    background: rgba(92, 55, 31, 0.1);
+    border-radius: 10px;
+}
+
+.song-list::-webkit-scrollbar-thumb {
+    background: #5c371f;
+    border-radius: 10px;
+}
+
+.song-list::-webkit-scrollbar-thumb:hover {
+    background: #301D10;
 }
 
 .song-list.collapsed {
     max-height: 0;
     opacity: 0;
     margin-top: 0;
+    overflow: hidden;
 }
 
 .song-list.expanded {
-    max-height: 10000px;
+    max-height: 600px;
     opacity: 1;
     margin-top: 1rem;
 }
 
 /* Language Switcher */
 .language-switcher {
-    margin-top: 15px;
+    margin-top: 20px;
     display: flex;
     justify-content: center;
-    gap: 10px;
+    gap: 0;
+    background: rgba(255, 255, 255, 0.2);
+    
+    padding: 4px;
+    border-radius: 50px;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    backdrop-filter: blur(10px);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
 }
 
 .lang-btn {
-    padding: 10px 24px;
-    border: 2px solid #fff;
+    padding: 12px 32px;
+    border: none;
     background: transparent;
-    color: #fff;
+    color:  black;;
     cursor: pointer;
-    border-radius: 8px;
-    font-weight: bold;
-    font-size: 1rem;
-    transition: all 0.3s ease;
+    border-radius: 50px;
+    font-weight: 600;
+    font-size: 1.1rem;
+    transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    position: relative;
+    min-width: 80px;
+    letter-spacing: 0.5px;
 }
 
 .lang-btn:hover {
-    background: #fff;
-    color: #2c3e50;
-    transform: translateY(-2px);
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    background: rgba(255, 255, 255, 0.3);
+    transform: scale(1.05);
 }
 
 .lang-btn.active {
     background: #fff;
     color: #5c371f;
-    font-weight: bold;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+    font-weight: 700;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+    transform: scale(1);
+}
+
+.lang-btn.active::before {
+    content: '';
+    position: absolute;
+    bottom: 8px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 24px;
+    height: 3px;
+    background: #5c371f;
+    border-radius: 2px;
 }
 
 /* Translation styling */

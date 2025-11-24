@@ -70,27 +70,40 @@ function updateActiveButton() {
 }
 
 function adjustCategoriesForLanguage(lang) {
-  const deutscheSection = document.getElementById('deutsche-lieder');
-  const griechischeSection = document.getElementById('griechische-lieder');
-  const englishSection = document.getElementById('english-songs');
+  const germanSection = document.getElementById('german-songs-section');
+  const greekSection = document.getElementById('greek-songs-section');
+  const englishSection = document.getElementById('english-songs-section');
   
-  if (!deutscheSection || !griechischeSection || !englishSection) {
-    console.warn('Some category sections not found');
-    return;
-  }
-
   if (lang === 'en') {
-    // Collapse German and Greek sections
-    collapseCategorySection(deutscheSection);
-    collapseCategorySection(griechischeSection);
-    
-    // Expand English section
-    expandCategorySection(englishSection);
+    // Show: German Hymns (for EN speakers) and English Greek transliterations
+    if (germanSection) {
+      germanSection.style.display = 'block';
+      const deutscheList = document.getElementById('deutsche-lieder');
+      if (deutscheList) expandCategorySection(deutscheList);
+    }
+    if (greekSection) {
+      greekSection.style.display = 'none';
+    }
+    if (englishSection) {
+      englishSection.style.display = 'block';
+      const englishList = document.getElementById('english-songs');
+      if (englishList) expandCategorySection(englishList);
+    }
   } else {
-    // Expand German section, collapse others (default DE behavior)
-    expandCategorySection(deutscheSection);
-    collapseCategorySection(griechischeSection);
-    collapseCategorySection(englishSection);
+    // DE: Show German and Greek (with German transliterations)
+    if (germanSection) {
+      germanSection.style.display = 'block';
+      const deutscheList = document.getElementById('deutsche-lieder');
+      if (deutscheList) expandCategorySection(deutscheList);
+    }
+    if (greekSection) {
+      greekSection.style.display = 'block';
+      const griechischeList = document.getElementById('griechische-lieder');
+      if (griechischeList) collapseCategorySection(griechischeList);
+    }
+    if (englishSection) {
+      englishSection.style.display = 'none';
+    }
   }
 }
 
