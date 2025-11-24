@@ -2431,3 +2431,138 @@
         <span class="song-title">GIA SENA ThA ZISO <em>(FÜR DICH WERDE ICH LEBEN)</em></span>
     </a>
     <a href="german-transliterations/609-eimai-christe-moy.html" class="song-item">
+        <span class="song-number">609</span>
+        <span class="song-title">EIMAI, ChRISTE MOY <em>(ICH BIN, MEIN CHRISTUS)</em></span>
+    </a>
+    <a href="german-transliterations/610-ein-enas-ilios.html" class="song-item">
+        <span class="song-number">610</span>
+        <span class="song-title">EIN' ENAS ILIOS <em>(ES IST EINE SONNE)</em></span>
+    </a>
+    <a href="german-transliterations/611-eis-de-to-vasilea-ton-aionon.html" class="song-item">
+        <span class="song-number">611</span>
+        <span class="song-title">EIS DE TO VASILEA TON AIONON <em>(DU BIST DER KÖNIG DER ZEITALTER)</em></span>
+    </a>
+    <a href="german-transliterations/612-eisai-sy-to-fos.html" class="song-item">
+        <span class="song-number">612</span>
+        <span class="song-title">EISAI SY TO FOS <em>(DU BIST DAS LICHT)</em></span>
+    </a>
+    <a href="german-transliterations/613-ela-min-argeis.html" class="song-item">
+        <span class="song-number">613</span>
+        <span class="song-title">ELA, MIN ARGEIS <em>(Kommen Sie, kommen Sie nicht zu spät)</em></span>
+    </a>
+    <a href="german-transliterations/614-ela-tapeinosoy.html" class="song-item">
+        <span class="song-number">614</span>
+        <span class="song-title">ELA, TAPEINOSOY <em>(Komm, demütige)</em></span>
+    </a>
+    <a href="german-transliterations/615-enan-ilio-echo-stin-kardia.html" class="song-item">
+        <span class="song-number">615</span>
+        <span class="song-title">ENAN ILIO EChO STIN KARDIA <em>(ICH HABE EINE SONNE IN MEINEM HERZEN)</em></span>
+    </a>
+    <a href="german-transliterations/616-erchontai-stigmes.html" class="song-item">
+        <span class="song-number">616</span>
+        <span class="song-title">ERChONTAI STIGMES <em>(MOMENTE KOMMEN)</em></span>
+    </a>
+    <a href="german-transliterations/617-zeis-kai-exoysiazeis-tis-kardies-mas.html" class="song-item">
+        <span class="song-number">617</span>
+        <span class="song-title">ZEIS! KAI EXOYSIAZEIS TIS KARDIES MAS <em>(DU lebst! UND SIE BESITZEN UNSERE HERZEN)</em></span>
+    </a>
+    <a href="german-transliterations/618-zitas-chara.html" class="song-item">
+        <span class="song-number">618</span>
+        <span class="song-title">ZITAS ChARA <em>(DU WILLST FREUDE)</em></span>
+    </a>
+    <a href="german-transliterations/619-zo-giati-zei-o-lytrotis-moy.html" class="song-item">
+        <span class="song-number">619</span>
+        <span class="song-title">ZO, GIATI ZEI O LYTROTIS MOY <em>(Ich lebe, weil mein Erlöser lebt)</em></span>
+    </a>
+    <a href="german-transliterations/620-tha-ithela-na-imoyna-sti-gi.html" class="song-item">
+        <span class="song-number">620</span>
+        <span class="song-title">ThA IThELA NA IMOYNA STI GI <em>(Ich wünschte, ich wäre auf der Erde)</em></span>
+    </a>
+    <a href="german-transliterations/621-tha-thela-na-soy-po.html" class="song-item">
+        <span class="song-number">621</span>
+        <span class="song-title">ThA 'ThELA NA SOY PO <em>(Ich würde es Ihnen gerne sagen)</em></span>
+    </a>
+    <a href="german-transliterations/622-iisoy-moy-dipso.html" class="song-item">
+        <span class="song-number">622</span>
+        <span class="song-title">IISOY MOY, DIPsO <em>(Jesus, ich habe Durst)</em></span>
+    </a>
+    <a href="german-transliterations/623-iisoy-s-agapo.html" class="song-item">
+        <span class="song-number">623</span>
+        <span class="song-title">IISOY S' AGAPO <em>(JESUS, ICH LIEBE DICH)</em></span>
+    </a>
+    <a href="german-transliterations/624-iisoy-eisai-agapitos.html" class="song-item">
+        <span class="song-number">624</span>
+        <span class="song-title">IISOY, EISAI AGAPITOS <em>(JESUS, DU BIST SCHÖN)</em></span>
+    </a>
+    <a href="german-transliterations/625-kane-me-organo.html" class="song-item">
+        <span class="song-number">625</span>
+        <span class="song-title">KANE ME ORGANO <em>(Mach mich zu einem Instrument)</em></span>
+    </a>
+    <a href="german-transliterations/626-kapoy-pio-psila.html" class="song-item">
+        <span class="song-number">626</span>
+        <span class="song-title">KAPOY PIO PsILA <em>(Irgendwo höher)</em></span>
+    </a>
+    <a href="german-transliterations/627-kati-an-echo-poly-akrivo.html" class="song-item">
+        <span class="song-number">627</span>
+        <span class="song-title">KATI AN EChO POLY AKRIVO <em>(ETWAS, WENN ICH ZU TEUER HABE)</em></span>
+    </a>
+    <a href="german-transliterations/628-kyrie-i-psychi-moy.html" class="song-item">
+        <span class="song-number">628</span>
+        <span class="song-title">KYRIE, I PsYChI MOY <em>(HERR, MEINE SEELE)</em></span>
+    </a>
+    <a href="german-transliterations/629-lytromenoi-toy-christoy.html" class="song-item">
+        <span class="song-number">629</span>
+        <span class="song-title">LYTROMENOI TOY ChRISTOY <em>(Von Christus erlöst)</em></span>
+    </a>
+    <a href="german-transliterations/630-me-dynami-erchetai.html" class="song-item">
+        <span class="song-number">630</span>
+        <span class="song-title">ME DYNAMI ERChETAI <em>(ER KOMMT MIT KRAFT)</em></span>
+    </a>
+    <a href="german-transliterations/631-me-tin-eschati-salpigga.html" class="song-item">
+        <span class="song-number">631</span>
+        <span class="song-title">ME TIN ESChATI SALPIGGA <em>(MIT DER ULTIMATIVEN TROMPETE)</em></span>
+    </a>
+    <a href="german-transliterations/632-mes-stin-kardia-moy-lampei-fos.html" class="song-item">
+        <span class="song-number">632</span>
+        <span class="song-title">MES STIN KARDIA MOY LAMPEI FOS <em>(IN MEINEM HERZEN LEUCHTET EIN LICHT)</em></span>
+    </a>
+    <a href="german-transliterations/633-mprosta-sti-doxa-soy.html" class="song-item">
+        <span class="song-number">633</span>
+        <span class="song-title">MPROSTA STI DOXA SOY <em>(VOR DEINER RUHE)</em></span>
+    </a>
+    <a href="german-transliterations/634-o-theos-mas-einai-dynatos.html" class="song-item">
+        <span class="song-number">634</span>
+        <span class="song-title">O ThEOS MAS EINAI DYNATOS <em>(Unser Gott ist stark)</em></span>
+    </a>
+    <a href="german-transliterations/635-o-iisoys-einai-i-elpida-mas.html" class="song-item">
+        <span class="song-number">635</span>
+        <span class="song-title">O IISOYS EINAI I ELPIDA MAS <em>(JESUS ​​​​IST UNSERE HOFFNUNG)</em></span>
+    </a>
+    <a href="german-transliterations/636-o-kyrios-edo-sti-gi.html" class="song-item">
+        <span class="song-number">636</span>
+        <span class="song-title">O KYRIOS EDO STI GI <em>(DER HERR HIER AUF ERDE)</em></span>
+    </a>
+    <a href="german-transliterations/637-o-kyrios-einai-i-dynami-moy.html" class="song-item">
+        <span class="song-number">637</span>
+        <span class="song-title">O KYRIOS EINAI I DYNAMI MOY <em>(Der Herr ist meine Stärke)</em></span>
+    </a>
+    <a href="german-transliterations/638-o-kyrios-tha-mpei-mes-sti-psychi-moy.html" class="song-item">
+        <span class="song-number">638</span>
+        <span class="song-title">O KYRIOS ThA MPEI MES STI PsYChI MOY <em>(DER HERR WIRD IN MEINE SEELE KOMMEN)</em></span>
+    </a>
+    <a href="german-transliterations/639-o-kyrios-moy-chara-kai-fos-moy.html" class="song-item">
+        <span class="song-number">639</span>
+        <span class="song-title">O KYRIOS MOY, ChARA KAI FOS MOY <em>(MEIN HERR, MEINE FREUDE UND LICHT)</em></span>
+    </a>
+    <a href="german-transliterations/640-opos-to-loyloydi.html" class="song-item">
+        <span class="song-number">640</span>
+        <span class="song-title">OPOS TO LOYLOYDI <em>(WIE DIE BLUME)</em></span>
+    </a>
+    <a href="german-transliterations/641-otan-o-ilios-payei-na-lampei.html" class="song-item">
+        <span class="song-number">641</span>
+        <span class="song-title">OTAN O ILIOS PAYEI NA LAMPEI <em>(WENN DIE SONNE AUFHÖRT ZU SCHEINEN)</em></span>
+    </a>
+    <a href="german-transliterations/642-pantes-oi-laoi.html" class="song-item">
+        <span class="song-number">642</span>
+        <span class="song-title">PANTES OI LAOI <em>(IMMER DIE MENSCHEN)</em></span>
+    </a>
