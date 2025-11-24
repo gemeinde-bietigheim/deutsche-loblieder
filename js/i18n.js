@@ -6,7 +6,7 @@ const translations = {
     'search-placeholder': 'Suche nach Liedtitel...',
     'german-songs-title': 'Deutsche Loblieder',
     'greek-songs-title': 'Griechische Loblieder',
-    'english-songs-title': 'Englische Hymnen (Griechisch Transliteration)',
+    'english-songs-title': 'Griechische Hymnen (Englische Transliteration)',
     'footer': '© 2025 Gemeinde Bietigheim - Erstellt für den Gottesdienst',
     'back-button': '← Zurück zum Inhaltsverzeichnis'
   },
@@ -17,7 +17,7 @@ const translations = {
     'search-placeholder': 'Search for hymn title...',
     'german-songs-title': 'German Hymns',
     'greek-songs-title': 'Greek Hymns',
-    'english-songs-title': 'English Hymns (Greek Transliteration)',
+    'english-songs-title': 'Greek Hymns (English Transliteration)',
     'footer': '© 2025 Bietigheim Church - Created for worship',
     'back-button': '← Back to Index'
   }

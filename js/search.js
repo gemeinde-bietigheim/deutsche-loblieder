@@ -199,7 +199,7 @@
         const englishHeader = document.querySelector('[data-i18n="english-songs-title"]');
         if (englishHeader && stats.english > 0) {
             const currentLang = localStorage.getItem('language') || 'de';
-            const label = currentLang === 'en' ? 'English Hymns (Greek Transliteration)' : 'Englische Hymnen (Griechisch Transliteration)';
+            const label = currentLang === 'en' ? 'Greek Hymns (English Transliteration)' : 'Griechische Loblieder (Englische Transliteration)';
             englishHeader.textContent = `${label} (${stats.english})`;
         }
 
