@@ -1210,3 +1210,413 @@
         <span class="song-number">303</span>
         <span class="song-title">ANAGKI EChO SOY <em>(ICH BRAUCHE DICH)</em></span>
     </a>
+    <a href="german-transliterations/304-anisychos-einai-o-kosmos.html" class="song-item">
+        <span class="song-number">304</span>
+        <span class="song-title">ANISYChOS EINAI O KOSMOS <em>(DIE WELT IST SORGEN)</em></span>
+    </a>
+    <a href="german-transliterations/305-voithise-me-n-anevo.html" class="song-item">
+        <span class="song-number">305</span>
+        <span class="song-title">VOIThISE ME N' ANEVO <em>(Hilf mir aufzustehen)</em></span>
+    </a>
+    <a href="german-transliterations/306-gi-alli-mia-fora.html" class="song-item">
+        <span class="song-number">306</span>
+        <span class="song-title">GI' ALLI MIA FORA <em>(NOCH EINMAL)</em></span>
+    </a>
+    <a href="german-transliterations/307-gia-ti-megali-soy-agapi.html" class="song-item">
+        <span class="song-number">307</span>
+        <span class="song-title">GIA TI MEGALI SOY AGAPI <em>(FÜR DEINE GROßE LIEBE)</em></span>
+    </a>
+    <a href="german-transliterations/308-glykeia-ora-proseychis.html" class="song-item">
+        <span class="song-number">308</span>
+        <span class="song-title">GLYKEIA ORA PROSEYChIS <em>(SÜSSE GEBETSZEIT)</em></span>
+    </a>
+    <a href="german-transliterations/309-deichne-moy-kyrie.html" class="song-item">
+        <span class="song-number">309</span>
+        <span class="song-title">DEIChNE MOY, KYRIE <em>(ZEIG ES MIR, HERR)</em></span>
+    </a>
+    <a href="german-transliterations/310-dos-moy-agapi-thee-moy.html" class="song-item">
+        <span class="song-number">310</span>
+        <span class="song-title">DOS' MOY AGAPI, ThEE MOY <em>(Gib mir Liebe, Gott)</em></span>
+    </a>
+    <a href="german-transliterations/311-dos-moy-sotira.html" class="song-item">
+        <span class="song-number">311</span>
+        <span class="song-title">DOS' MOY, SOTIRA <em>(Gib mir, Retter)</em></span>
+    </a>
+    <a href="german-transliterations/312-eithe-na-eschizes-thee.html" class="song-item">
+        <span class="song-number">312</span>
+        <span class="song-title">EIThE NA ESChIZES, ThEE <em>(Mögest du arbeiten, Gott)</em></span>
+    </a>
+    <a href="german-transliterations/313-eim-adynatos-thee.html" class="song-item">
+        <span class="song-number">313</span>
+        <span class="song-title">EIM' ADYNATOS, ThEE <em>(Ich bin schwach, Gott)</em></span>
+    </a>
+    <a href="german-transliterations/314-ein-i-kardia-moy.html" class="song-item">
+        <span class="song-number">314</span>
+        <span class="song-title">EIN' I KARDIA MOY <em>(ES IST MEIN HERZ)</em></span>
+    </a>
+    <a href="german-transliterations/315-etoimi-thee-moy.html" class="song-item">
+        <span class="song-number">315</span>
+        <span class="song-title">ETOIMI, ThEE MOY <em>(BEREIT, OH MEIN GOTT)</em></span>
+    </a>
+    <a href="german-transliterations/316-i-elpida-sti-zoi-moy.html" class="song-item">
+        <span class="song-number">316</span>
+        <span class="song-title">I ELPIDA STI ZOI MOY <em>(DIE HOFFNUNG IN MEINEM LEBEN)</em></span>
+    </a>
+    <a href="german-transliterations/317-i-pisti-moy-se-se.html" class="song-item">
+        <span class="song-number">317</span>
+        <span class="song-title">I PISTI MOY SE SE <em>(MEIN GLAUBE IST IN DIR)</em></span>
+    </a>
+    <a href="german-transliterations/318-thelo-christe-moy.html" class="song-item">
+        <span class="song-number">318</span>
+        <span class="song-title">ThELO, ChRISTE MOY <em>(ICH WILL, MEIN CHRISTUS)</em></span>
+    </a>
+    <a href="german-transliterations/319-thymamai-christe-moy.html" class="song-item">
+        <span class="song-number">319</span>
+        <span class="song-title">ThYMAMAI, ChRISTE MOY <em>(ICH ERINNERE SICH, MEIN CHRISTUS)</em></span>
+    </a>
+    <a href="german-transliterations/320-iisoy-moy-dioxe-to-fovo.html" class="song-item">
+        <span class="song-number">320</span>
+        <span class="song-title">IISOY MOY, DIOXE TO FOVO <em>(JESUS, vertreibe die Angst)</em></span>
+    </a>
+    <a href="german-transliterations/321-kapoia-mera.html" class="song-item">
+        <span class="song-number">321</span>
+        <span class="song-title">KAPOIA MERA <em>(EINES TAGES)</em></span>
+    </a>
+    <a href="german-transliterations/322-kardia-kathari.html" class="song-item">
+        <span class="song-number">322</span>
+        <span class="song-title">KARDIA KAThARI <em>(REINES HERZ)</em></span>
+    </a>
+    <a href="german-transliterations/323-kyrie-afino-tin-kardia-moy.html" class="song-item">
+        <span class="song-number">323</span>
+        <span class="song-title">KYRIE, AFINO TIN KARDIA MOY <em>(Herr, ich verlasse mein Herz)</em></span>
+    </a>
+    <a href="german-transliterations/324-kyrie-sy-me-eirinin.html" class="song-item">
+        <span class="song-number">324</span>
+        <span class="song-title">KYRIE, SY ME EIRININ <em>(Herr, Du hast mir Frieden gegeben)</em></span>
+    </a>
+    <a href="german-transliterations/325-me-ta-cheria-psila.html" class="song-item">
+        <span class="song-number">325</span>
+        <span class="song-title">ME TA ChERIA PsILA <em>(HÄNDE HOCH)</em></span>
+    </a>
+    <a href="german-transliterations/326-mono-i-skepsi-moy-se-se.html" class="song-item">
+        <span class="song-number">326</span>
+        <span class="song-title">MONO I SKEPsI MOY SE SE <em>(NUR MEIN GEDANKE AN DICH)</em></span>
+    </a>
+    <a href="german-transliterations/327-mpros-sto-stayro-soy.html" class="song-item">
+        <span class="song-number">327</span>
+        <span class="song-title">MPROS STO STAYRO SOY <em>(VORWÄRTS ZU DEINEM KREUZ)</em></span>
+    </a>
+    <a href="german-transliterations/328-nychta-skepase-kai-pali.html" class="song-item">
+        <span class="song-number">328</span>
+        <span class="song-title">NYChTA SKEPASE KAI PALI <em>(NACHT WIEDER ABGEDECKT)</em></span>
+    </a>
+    <a href="german-transliterations/329-xero-kyrie-eis-eleimon.html" class="song-item">
+        <span class="song-number">329</span>
+        <span class="song-title">XERO KYRIE EIS' ELEIMON <em>(Ich weiß, dass der Herr Barmherzigkeit hat)</em></span>
+    </a>
+    <a href="german-transliterations/330-otan-elthei-i-nychta.html" class="song-item">
+        <span class="song-number">330</span>
+        <span class="song-title">OTAN ELThEI I NYChTA <em>(WENN DIE NACHT KOMMT)</em></span>
+    </a>
+    <a href="german-transliterations/331-otan-noiotho-koyrasmenos.html" class="song-item">
+        <span class="song-number">331</span>
+        <span class="song-title">OTAN NOIOThO KOYRASMENOS <em>(WENN ICH MÜDE FÜHLE)</em></span>
+    </a>
+    <a href="german-transliterations/332-otan-oi-trikymies-elthoyn.html" class="song-item">
+        <span class="song-number">332</span>
+        <span class="song-title">OTAN OI TRIKYMIES ELThOYN <em>(WENN Stürme kommen)</em></span>
+    </a>
+    <a href="german-transliterations/333-panta-as-echo-kathari.html" class="song-item">
+        <span class="song-number">333</span>
+        <span class="song-title">PANTA AS EChO KAThARI <em>(Lass mich immer sauber sein)</em></span>
+    </a>
+    <a href="german-transliterations/334-panta-sto-pleyro-konta-moy.html" class="song-item">
+        <span class="song-number">334</span>
+        <span class="song-title">PANTA STO PLEYRO KONTA MOY <em>(IMMER AN MEINER SEITE)</em></span>
+    </a>
+    <a href="german-transliterations/335-patera-pantokrator.html" class="song-item">
+        <span class="song-number">335</span>
+        <span class="song-title">PATERA PANTOKRATOR <em>(VATER PANTOKRATOR)</em></span>
+    </a>
+    <a href="german-transliterations/336-pote-m-alliloyia.html" class="song-item">
+        <span class="song-number">336</span>
+        <span class="song-title">POTE M' «ALLILOYIA!» <em>(NIEMALS „HALLELUYAH!“)</em></span>
+    </a>
+    <a href="german-transliterations/337-s-agapo-christe.html" class="song-item">
+        <span class="song-number">337</span>
+        <span class="song-title">S' AGAPO, ChRISTE <em>(Ich LIEBE DICH, CHRISTUS)</em></span>
+    </a>
+    <a href="german-transliterations/338-san-ayra-glykia.html" class="song-item">
+        <span class="song-number">338</span>
+        <span class="song-title">SAN AYRA GLYKIA <em>(So süß wie ein Kinderspiel)</em></span>
+    </a>
+    <a href="german-transliterations/339-stin-kardia-christe.html" class="song-item">
+        <span class="song-number">339</span>
+        <span class="song-title">STIN KARDIA, ChRISTE <em>(IM HERZEN, CHRISTUS)</em></span>
+    </a>
+    <a href="german-transliterations/340-stis-thlipseis-stoys-ponoys.html" class="song-item">
+        <span class="song-number">340</span>
+        <span class="song-title">STIS ThLIPsEIS, STOYS PONOYS <em>(IN SORGEN, IN SCHMERZEN)</em></span>
+    </a>
+    <a href="german-transliterations/341-ston-endoxo-soy-throno.html" class="song-item">
+        <span class="song-number">341</span>
+        <span class="song-title">STON ENDOXO SOY ThRONO <em>(AUF DEINEM HERRLICHEN THRON)</em></span>
+    </a>
+    <a href="german-transliterations/342-sy-poy-kosmoys-kyvernas.html" class="song-item">
+        <span class="song-number">342</span>
+        <span class="song-title">SY POY KOSMOYS KYVERNAS <em>(DU, DER WELTEN BEHERRSCHT)</em></span>
+    </a>
+    <a href="german-transliterations/343-t-onoma-soy-latreyo.html" class="song-item">
+        <span class="song-number">343</span>
+        <span class="song-title">T' ONOMA SOY LATREYO <em>(Ich LIEBE DEINEN NAMEN)</em></span>
+    </a>
+    <a href="german-transliterations/344-ta-kalytera-logia-moy.html" class="song-item">
+        <span class="song-number">344</span>
+        <span class="song-title">TA KALYTERA LOGIA MOY <em>(MEINE BESTEN WORTE)</em></span>
+    </a>
+    <a href="german-transliterations/345-ta-matia-moy-psila-ypsono.html" class="song-item">
+        <span class="song-number">345</span>
+        <span class="song-title">TA MATIA MOY PsILA YPsONO <em>(Meine Augen sind hoch und ich erhebe mich)</em></span>
+    </a>
+    <a href="german-transliterations/346-ti-ki-an-ta-cheria-soy.html" class="song-item">
+        <span class="song-number">346</span>
+        <span class="song-title">TI KI AN TA ChERIA SOY <em>(Was wäre, wenn Ihre Hände)</em></span>
+    </a>
+    <a href="german-transliterations/347-ti-mystirio.html" class="song-item">
+        <span class="song-number">347</span>
+        <span class="song-title">TI MYSTIRIO <em>(Was für ein Geheimnis)</em></span>
+    </a>
+    <a href="german-transliterations/348-tis-vroches-tis-eylogias.html" class="song-item">
+        <span class="song-number">348</span>
+        <span class="song-title">TIS VROChES TIS EYLOGIAS <em>(DER REGEN DES SEGENS)</em></span>
+    </a>
+    <a href="german-transliterations/349-to-ergo-soy-thee.html" class="song-item">
+        <span class="song-number">349</span>
+        <span class="song-title">TO ERGO SOY, ThEE <em>(DEINE ARBEIT, GOTT)</em></span>
+    </a>
+    <a href="german-transliterations/350-to-xero-einai-i-chari-soy.html" class="song-item">
+        <span class="song-number">350</span>
+        <span class="song-title">TO XERO, EINAI I ChARI SOY <em>(Ich weiß, es ist deine Gnade)</em></span>
+    </a>
+    <a href="german-transliterations/351-ypsose-me-yperano.html" class="song-item">
+        <span class="song-number">351</span>
+        <span class="song-title">YPsOSE ME YPERANO <em>(Hebe mich hoch)</em></span>
+    </a>
+    <a href="german-transliterations/352-fos-tis-psychis-moy.html" class="song-item">
+        <span class="song-number">352</span>
+        <span class="song-title">FOS TIS PsYChIS MOY <em>(LICHT MEINER SEELE)</em></span>
+    </a>
+    <a href="german-transliterations/353-christe-moy-san-syllogisto.html" class="song-item">
+        <span class="song-number">353</span>
+        <span class="song-title">ChRISTE MOY, SAN SYLLOGISTO <em>(CHRISTUS MICH, WIE ICH DENKE)</em></span>
+    </a>
+    <a href="german-transliterations/354-o-thee-tin-proseychi-moy.html" class="song-item">
+        <span class="song-number">354</span>
+        <span class="song-title">O ThEE, TIN PROSEYChI MOY <em>(OH GOTT, MEIN GEBET)</em></span>
+    </a>
+    <a href="german-transliterations/355-o-kyrie-moy-sy-kai-thee-moy.html" class="song-item">
+        <span class="song-number">355</span>
+        <span class="song-title">O KYRIE MOY, SY, KAI ThEE MOY <em>(OH MEIN HERR, DU UND MEIN GOTT)</em></span>
+    </a>
+    <a href="german-transliterations/356-o-pater-imon.html" class="song-item">
+        <span class="song-number">356</span>
+        <span class="song-title">O PATER IMON <em>(O UNSER VATER)</em></span>
+    </a>
+    <a href="german-transliterations/357-o-tin-kardia-moy.html" class="song-item">
+        <span class="song-number">357</span>
+        <span class="song-title">O! TIN KARDIA MOY <em>(Oh! MEIN HERZ)</em></span>
+    </a>
+    <a href="german-transliterations/358-o-skepsi-glykeia.html" class="song-item">
+        <span class="song-number">358</span>
+        <span class="song-title">O SKEPsI GLYKEIA <em>(OH SÜSSE GEDACHT)</em></span>
+    </a>
+    <a href="german-transliterations/359-o-ti-chara-o-kyrios-me-akoyse.html" class="song-item">
+        <span class="song-number">359</span>
+        <span class="song-title">O TI ChARA! O KYRIOS ME AKOYSE <em>(OH WAS FÜR EINE FREUDE! DER HERR HÖRTE MICH)</em></span>
+    </a>
+    <a href="german-transliterations/360-akoyse-ti-legei-o-kyrios-moy.html" class="song-item">
+        <span class="song-number">360</span>
+        <span class="song-title">AKOYSE TI LEGEI O KYRIOS MOY <em>(HÖRE AUF MEINEN HERRN)</em></span>
+    </a>
+    <a href="german-transliterations/361-anaggeilate-pantoy.html" class="song-item">
+        <span class="song-number">361</span>
+        <span class="song-title">ANAGGEILATE PANTOY <em>(ÜBERALL WERBEN)</em></span>
+    </a>
+    <a href="german-transliterations/362-aperantos-kampos.html" class="song-item">
+        <span class="song-number">362</span>
+        <span class="song-title">APERANTOS KAMPOS <em>(ENDLOSE EBENE)</em></span>
+    </a>
+    <a href="german-transliterations/363-apo-tis-groilandias.html" class="song-item">
+        <span class="song-number">363</span>
+        <span class="song-title">APO TIS GROILANDIAS <em>(AUS GRÖNLAND)</em></span>
+    </a>
+    <a href="german-transliterations/364-dipsaei-i-psychi-moy.html" class="song-item">
+        <span class="song-number">364</span>
+        <span class="song-title">DIPsAEI I PsYChI MOY <em>(MEINE SEELE DURST)</em></span>
+    </a>
+    <a href="german-transliterations/365-eis-to-ergo-to-theio.html" class="song-item">
+        <span class="song-number">365</span>
+        <span class="song-title">EIS TO ERGO TO ThEIO <em>(DU BIST DAS WERK, DAS GÖTTLICHE)</em></span>
+    </a>
+    <a href="german-transliterations/366-itan-mia-mera-o-iisoys.html" class="song-item">
+        <span class="song-number">366</span>
+        <span class="song-title">ITAN MIA MERA O IISOYS <em>(Es war einmal Jesus)</em></span>
+    </a>
+    <a href="german-transliterations/367-mia-foni-akoygetai.html" class="song-item">
+        <span class="song-number">367</span>
+        <span class="song-title">MIA FONI AKOYGETAI <em>(EINE STIMME IST ZU HÖREN)</em></span>
+    </a>
+    <a href="german-transliterations/368-nai-tha-ergasto.html" class="song-item">
+        <span class="song-number">368</span>
+        <span class="song-title">NAI, ThA ERGASTO <em>(JA, ich werde arbeiten)</em></span>
+    </a>
+    <a href="german-transliterations/369-otan-fthaso-eis-tin-doxa.html" class="song-item">
+        <span class="song-number">369</span>
+        <span class="song-title">OTAN FThASO EIS TIN DOXA <em>(WENN ICH IN HERRLICHKEIT ANKOMME)</em></span>
+    </a>
+    <a href="german-transliterations/370-pirame-sta-cheria.html" class="song-item">
+        <span class="song-number">370</span>
+        <span class="song-title">PIRAME STA ChERIA <em>(Wir halten uns an den Händen)</em></span>
+    </a>
+    <a href="german-transliterations/371-pos-mporo-na-synantiso.html" class="song-item">
+        <span class="song-number">371</span>
+        <span class="song-title">POS MPORO NA SYNANTISO <em>(WIE KANN ICH TREFFEN)</em></span>
+    </a>
+    <a href="german-transliterations/372-s-opoion-topo-to-ichnos.html" class="song-item">
+        <span class="song-number">372</span>
+        <span class="song-title">S' OPOION TOPO TO IChNOS <em>(An jedem Ort die Spur)</em></span>
+    </a>
+    <a href="german-transliterations/373-speire-tin-proia.html" class="song-item">
+        <span class="song-number">373</span>
+        <span class="song-title">SPEIRE TIN PROIA <em>(SÄEN SIE DEN MORGEN)</em></span>
+    </a>
+    <a href="german-transliterations/374-sy-poy-vrikes-tin-eirini.html" class="song-item">
+        <span class="song-number">374</span>
+        <span class="song-title">SY POY VRIKES TIN EIRINI <em>(DU, DER DU DEN FRIEDEN GEFUNDEN HAST)</em></span>
+    </a>
+    <a href="german-transliterations/375-sose-ton-paschonta.html" class="song-item">
+        <span class="song-number">375</span>
+        <span class="song-title">SOSE TON PASChONTA <em>(RETTE DEN PATIENTEN)</em></span>
+    </a>
+    <a href="german-transliterations/376-to-kirygma-toy-logoy.html" class="song-item">
+        <span class="song-number">376</span>
+        <span class="song-title">TO KIRYGMA TOY LOGOY <em>(Die Predigt des Wortes)</em></span>
+    </a>
+    <a href="german-transliterations/377-christiane-ergasoy.html" class="song-item">
+        <span class="song-number">377</span>
+        <span class="song-title">ChRISTIANE, ERGASOY <em>(CHRISTIAN, ARBEIT)</em></span>
+    </a>
+    <a href="german-transliterations/378-psallate-seis-to-endoxo.html" class="song-item">
+        <span class="song-number">378</span>
+        <span class="song-title">PsALLATE SEIS TO ENDOXO <em>(SINGE DIE HERRLICHKEIT)</em></span>
+    </a>
+    <a href="german-transliterations/379-o-poios-makria.html" class="song-item">
+        <span class="song-number">379</span>
+        <span class="song-title">O! POIOS MAKRIA <em>(Oh! WER WEG)</em></span>
+    </a>
+    <a href="german-transliterations/380-akoysa-polles-fores.html" class="song-item">
+        <span class="song-number">380</span>
+        <span class="song-title">AKOYSA POLLES FORES <em>(Schon oft gehört)</em></span>
+    </a>
+    <a href="german-transliterations/381-ein-o-theos-mas-dimioyrgos.html" class="song-item">
+        <span class="song-number">381</span>
+        <span class="song-title">EIN' O ThEOS MAS DIMIOYRGOS <em>(ER IST UNSER SCHÖPFERGOTT)</em></span>
+    </a>
+    <a href="german-transliterations/382-paron-o-megas-iatros.html" class="song-item">
+        <span class="song-number">382</span>
+        <span class="song-title">PARON O MEGAS IATROS <em>(Der große Arzt ist anwesend)</em></span>
+    </a>
+    <a href="german-transliterations/383-ti-glykeia-aggelia.html" class="song-item">
+        <span class="song-number">383</span>
+        <span class="song-title">TI GLYKEIA AGGELIA <em>(Was für eine süße Ankündigung)</em></span>
+    </a>
+    <a href="german-transliterations/384-alliloyia-ti-chara.html" class="song-item">
+        <span class="song-number">384</span>
+        <span class="song-title">ALLILOYIA! TI ChARA! <em>(ALLELUJA! Was für eine Freude!)</em></span>
+    </a>
+    <a href="german-transliterations/385-an-o-kosmos-se-misei.html" class="song-item">
+        <span class="song-number">385</span>
+        <span class="song-title">AN O KOSMOS SE MISEI <em>(WENN DIE WELT DICH HASSE)</em></span>
+    </a>
+    <a href="german-transliterations/386-gia-toy-christoy-ti-chari.html" class="song-item">
+        <span class="song-number">386</span>
+        <span class="song-title">GIA TOY ChRISTOY TI ChARI <em>(Um Himmels willen)</em></span>
+    </a>
+    <a href="german-transliterations/387-den-xechna-den-xechna.html" class="song-item">
+        <span class="song-number">387</span>
+        <span class="song-title">DEN XEChNA, DEN XEChNA! <em>(NICHT VERGESSEN, NICHT VERGESSEN!)</em></span>
+    </a>
+    <a href="german-transliterations/388-egerthit-oi-sesosmenoi.html" class="song-item">
+        <span class="song-number">388</span>
+        <span class="song-title">EGERThIT' OI SESOSMENOI <em>(Die Rebellen erheben sich)</em></span>
+    </a>
+    <a href="german-transliterations/389-ein-aytos-nikitis.html" class="song-item">
+        <span class="song-number">389</span>
+        <span class="song-title">EIN' AYTOS NIKITIS! <em>(DAS IST DER GEWINNER!)</em></span>
+    </a>
+    <a href="german-transliterations/390-empros-se-krazei-o-christos.html" class="song-item">
+        <span class="song-number">390</span>
+        <span class="song-title">EMPROS, SE KRAZEI O ChRISTOS <em>(Gehen Sie voran, Christus ruft Sie)</em></span>
+    </a>
+    <a href="german-transliterations/391-erchet-i-nychta.html" class="song-item">
+        <span class="song-number">391</span>
+        <span class="song-title">ERChET' I NYChTA <em>(Die Nacht naht)</em></span>
+    </a>
+    <a href="german-transliterations/392-i-trikymia-voyizei.html" class="song-item">
+        <span class="song-number">392</span>
+        <span class="song-title">I TRIKYMIA VOYIZEI <em>(Der Sturm dreht sich)</em></span>
+    </a>
+    <a href="german-transliterations/393-tha-se-fylaei-o-theos.html" class="song-item">
+        <span class="song-number">393</span>
+        <span class="song-title">ThA SE FYLAEI O ThEOS <em>(GOTT WIRD DICH BEWAHREN)</em></span>
+    </a>
+    <a href="german-transliterations/394-thelo-na-pisteyo.html" class="song-item">
+        <span class="song-number">394</span>
+        <span class="song-title">ThELO NA PISTEYO <em>(Ich möchte glauben)</em></span>
+    </a>
+    <a href="german-transliterations/395-thoryvoi-kai-taraches.html" class="song-item">
+        <span class="song-number">395</span>
+        <span class="song-title">ThORYVOI KAI TARAChES <em>(GERÄUSCH UND STÖRUNG)</em></span>
+    </a>
+    <a href="german-transliterations/396-kai-an-oryetai-o-echthros.html" class="song-item">
+        <span class="song-number">396</span>
+        <span class="song-title">KAI AN ORYETAI O EChThROS <em>(UND WENN DER FEIND ERSCHEINT)</em></span>
+    </a>
+    <a href="german-transliterations/397-kapoia-mera-ekei-stin-iericho.html" class="song-item">
+        <span class="song-number">397</span>
+        <span class="song-title">KAPOIA MERA EKEI STIN IERIChO <em>(Eines Tages dort in Jericho)</em></span>
+    </a>
+    <a href="german-transliterations/398-me-opla-oyrania.html" class="song-item">
+        <span class="song-number">398</span>
+        <span class="song-title">ME OPLA OYRANIA <em>(MIT HIMMLISCHEN WAFFEN)</em></span>
+    </a>
+    <a href="german-transliterations/399-me-ton-iisoy-vadizo-asfalos.html" class="song-item">
+        <span class="song-number">399</span>
+        <span class="song-title">ME TON IISOY VADIZO ASFALOS <em>(MIT JESUS ​​​​GEHE ICH SICHER)</em></span>
+    </a>
+    <a href="german-transliterations/400-menei-statheri.html" class="song-item">
+        <span class="song-number">400</span>
+        <span class="song-title">MENEI STAThERI <em>(STABIL BLEIBEN)</em></span>
+    </a>
+    <a href="german-transliterations/401-mes-ston-trachy-moy-to-dromo.html" class="song-item">
+        <span class="song-number">401</span>
+        <span class="song-title">MES STON TRAChY MOY TO DROMO <em>(DURCH MEINEN HOHEN WEG)</em></span>
+    </a>
+    <a href="german-transliterations/402-mes-sto-skotadi-to-pykno.html" class="song-item">
+        <span class="song-number">402</span>
+        <span class="song-title">MES STO SKOTADI TO PYKNO <em>(DURCH DIE DUNKELHEIT DIE DICHTE)</em></span>
+    </a>
+    <a href="german-transliterations/403-mi-fovitheis-se-lytrosa.html" class="song-item">
+        <span class="song-number">403</span>
+        <span class="song-title">MI FOVIThEIS, SE LYTROSA <em>(Fürchte dich nicht, ich habe dich erlöst)</em></span>
+    </a>
+    <a href="german-transliterations/404-nai-o-echthros-mes-sti-zoi.html" class="song-item">
+        <span class="song-number">404</span>
+        <span class="song-title">NAI, O EChThROS MES STI ZOI <em>(JA, DER FEIND IM LEBEN)</em></span>
+    </a>
+    <a href="german-transliterations/405-o-dromos-soy-erimos.html" class="song-item">
+        <span class="song-number">405</span>
+        <span class="song-title">O DROMOS SOY ERIMOS <em>(DEINE STRASSE IST WÜSTE)</em></span>
+    </a>
+    <a href="german-transliterations/406-o-theos-moy-poy-pisteyo.html" class="song-item">
+        <span class="song-number">406</span>
