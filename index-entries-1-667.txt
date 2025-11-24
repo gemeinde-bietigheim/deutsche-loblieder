@@ -2566,3 +2566,103 @@
         <span class="song-number">642</span>
         <span class="song-title">PANTES OI LAOI <em>(IMMER DIE MENSCHEN)</em></span>
     </a>
+    <a href="german-transliterations/643-pare-ta-elattomata-mas-kyrie.html" class="song-item">
+        <span class="song-number">643</span>
+        <span class="song-title">PARE TA ELATTOMATA MAS, KYRIE <em>(Nimm unsere Fehler, Herr)</em></span>
+    </a>
+    <a href="german-transliterations/644-patera-moy-se-parakalo.html" class="song-item">
+        <span class="song-number">644</span>
+        <span class="song-title">PATERA MOY, SE PARAKALO <em>(MEIN VATER, BITTE)</em></span>
+    </a>
+    <a href="german-transliterations/645-pilino-skeyos.html" class="song-item">
+        <span class="song-number">645</span>
+        <span class="song-title">PILINO SKEYOS <em>(TONTOPF)</em></span>
+    </a>
+    <a href="german-transliterations/646-poios-ein-aytos.html" class="song-item">
+        <span class="song-number">646</span>
+        <span class="song-title">POIOS EIN' AYTOS <em>(WER IST ER?)</em></span>
+    </a>
+    <a href="german-transliterations/647-poso-eyfrainomai.html" class="song-item">
+        <span class="song-number">647</span>
+        <span class="song-title">POSO EYFRAINOMAI <em>(WIE FREI ICH BIN)</em></span>
+    </a>
+    <a href="german-transliterations/648-prin-chronia-s-ena-ploio.html" class="song-item">
+        <span class="song-number">648</span>
+        <span class="song-title">PRIN ChRONIA S' ENA PLOIO <em>(VOR JAHREN AUF EINEM SCHIFF)</em></span>
+    </a>
+    <a href="german-transliterations/649-reei-zoi-apo-sena-iisoy.html" class="song-item">
+        <span class="song-number">649</span>
+        <span class="song-title">REEI ZOI APO SENA, IISOY <em>(DAS LEBEN FLIEßT AUS DIR, JESUS)</em></span>
+    </a>
+    <a href="german-transliterations/650-stachy-moy-germeno.html" class="song-item">
+        <span class="song-number">650</span>
+        <span class="song-title">STAChY MOY GERMENO <em>(MEIN STACHIGES HÄNGEN)</em></span>
+    </a>
+    <a href="german-transliterations/651-stis-kardias-ti-thyra.html" class="song-item">
+        <span class="song-number">651</span>
+        <span class="song-title">STIS KARDIAS TI ThYRA <em>(DIE TÜR IM HERZEN)</em></span>
+    </a>
+    <a href="german-transliterations/652-sto-lychnari-moy-sy-vale-ladi.html" class="song-item">
+        <span class="song-number">652</span>
+        <span class="song-title">STO LYChNARI MOY SY VALE LADI <em>(Du hast Öl in meine Lampe getan)</em></span>
+    </a>
+    <a href="german-transliterations/653-sto-onoma-toy-iisoy.html" class="song-item">
+        <span class="song-number">653</span>
+        <span class="song-title">STO ONOMA TOY IISOY <em>(IM NAMEN JESUS)</em></span>
+    </a>
+    <a href="german-transliterations/654-ston-oyrano-tha-strafo.html" class="song-item">
+        <span class="song-number">654</span>
+        <span class="song-title">STON OYRANO ThA STRAFO <em>(Ich werde mich dem Himmel zuwenden)</em></span>
+    </a>
+    <a href="german-transliterations/655-ta-matia-soy-mia-mera.html" class="song-item">
+        <span class="song-number">655</span>
+        <span class="song-title">TA MATIA SOY MIA MERA <em>(DEINE AUGEN EINES TAGES)</em></span>
+    </a>
+    <a href="german-transliterations/656-ta-cheria-soy-plathoyn-zoi.html" class="song-item">
+        <span class="song-number">656</span>
+        <span class="song-title">TA ChERIA SOY PLAThOYN ZOI <em>(DEINE HÄNDE GESTALTEN DAS LEBEN)</em></span>
+    </a>
+    <a href="german-transliterations/657-tapeina-pio-tapeina.html" class="song-item">
+        <span class="song-number">657</span>
+        <span class="song-title">TAPEINA PIO TAPEINA <em>(Bescheidener, bescheidener)</em></span>
+    </a>
+    <a href="german-transliterations/658-tin-proti-fora.html" class="song-item">
+        <span class="song-number">658</span>
+        <span class="song-title">TIN PROTI FORA <em>(DAS ERSTE MAL)</em></span>
+    </a>
+    <a href="german-transliterations/659-t-atsali-ki-an-chtypa-stin-petra.html" class="song-item">
+        <span class="song-number">659</span>
+        <span class="song-title">T' ATSALI KI AN ChTYPA STIN PETRA <em>(DER STAHL, AUCH WENN ICH DEN STEIN TREFFE)</em></span>
+    </a>
+    <a href="german-transliterations/660-ton-esteile-o-pateras.html" class="song-item">
+        <span class="song-number">660</span>
+        <span class="song-title">TON ESTEILE O PATERAS <em>(DER VATER SCHICKTE IHN)</em></span>
+    </a>
+    <a href="german-transliterations/661-ti-itane-na-kano.html" class="song-item">
+        <span class="song-number">661</span>
+        <span class="song-title">TI ITANE NA KANO <em>(Was sollte ich tun?)</em></span>
+    </a>
+    <a href="german-transliterations/662-foni-glykia.html" class="song-item">
+        <span class="song-number">662</span>
+        <span class="song-title">FONI GLYKIA <em>(SÜSSE STIMME)</em></span>
+    </a>
+    <a href="german-transliterations/663-fos-toy-oyranoy.html" class="song-item">
+        <span class="song-number">663</span>
+        <span class="song-title">FOS TOY OYRANOY <em>(LICHT DES HIMMELS)</em></span>
+    </a>
+    <a href="german-transliterations/664-chara-perimenei.html" class="song-item">
+        <span class="song-number">664</span>
+        <span class="song-title">ChARA PERIMENEI <em>(FREUDE ERWARTET)</em></span>
+    </a>
+    <a href="german-transliterations/665-psallo-doxa-sto-onoma-soy.html" class="song-item">
+        <span class="song-number">665</span>
+        <span class="song-title">PsALLO DOXA STO ONOMA SOY <em>(ICH SINGE DEINEM NAMEN Ehre)</em></span>
+    </a>
+    <a href="german-transliterations/666-o-ase-ton-iisoy-na-parei.html" class="song-item">
+        <span class="song-number">666</span>
+        <span class="song-title">O, ASE TON IISOY NA PAREI <em>(OH LASST JESUS ​​​​NEHMEN)</em></span>
+    </a>
+    <a href="german-transliterations/667-o-patera-mas-glyke.html" class="song-item">
+        <span class="song-number">667</span>
+        <span class="song-title">O, PATERA MAS GLYKE <em>(OH UNSER SÜßER VATER)</em></span>
+    </a>
