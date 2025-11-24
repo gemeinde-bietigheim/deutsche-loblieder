@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" type="image/png" href="assets/logo.png">
-    <title>[LIEDTITEL] - Deutsche Loblieder</title>
+    <title>Wo ich auch stehe - Deutsche Loblieder</title>
     <link rel="stylesheet" href="../css/style.css">
 </head>
 <body>
@@ -12,37 +12,89 @@
         <a href="../index.html" class="back-button">← Zurück zum Inhaltsverzeichnis</a>
         
         <div class="song-header">
-            <h1>[LIEDTITEL]</h1>
-            <div class="song-meta">Deutsche Loblieder - Nr. [NUMMER]</div>
+            <h1>Wo ich auch stehe</h1>
+            <div class="song-meta">Deutsche Loblieder - Nr. 012</div>
         </div>
 
         <div class="verse">
             <div class="verse-title">Strophe 1:</div>
             <div class="verse-content">
-                <div class="german-line">[Erste Zeile]</div>
-                <div class="german-line">[Zweite Zeile]</div>
-                <div class="german-line">[Dritte Zeile]</div>
-                <div class="german-line">[Vierte Zeile]</div>
+                <div class="german-line">Wo ich auch stehe, du warst schon da.</div>
+                <div class="german-line">Wenn ich auch fliehe, du bist mir nah.</div>
+                <div class="german-line">Was ich auch denke, du weißt es schon.</div>
+                <div class="german-line">Was ich auch fühle, du wirst verstehn.</div>
             </div>
         </div>
 
         <div class="verse">
             <div class="verse-title">Refrain:</div>
             <div class="verse-content">
-                <div class="german-line">[Refrain Zeile 1]</div>
-                <div class="german-line">[Refrain Zeile 2]</div>
-                <div class="german-line">[Refrain Zeile 3]</div>
-                <div class="german-line">[Refrain Zeile 4]</div>
+                <div class="german-line">Und ich danke dir, dass du mich kennst und trotzdem liebst.</div>
+                <div class="german-line">Und dass du mich beim Namen nennst und mir vergibst.</div>
+                <div class="german-line">Herr, du richtest mich wieder auf, und du hebst mich zu dir hinauf.</div>
+                <div class="german-line">Ja ich danke dir, dass du mich kennst und trotzdem liebst.</div>
             </div>
         </div>
 
         <div class="verse">
             <div class="verse-title">Strophe 2:</div>
             <div class="verse-content">
-                <div class="german-line">[Erste Zeile]</div>
-                <div class="german-line">[Zweite Zeile]</div>
-                <div class="german-line">[Dritte Zeile]</div>
-                <div class="german-line">[Vierte Zeile]</div>
+                <div class="german-line">Du kennst mein Herz, die Sehnsucht in mir.</div>
+                <div class="german-line">Als wahrer Gott und Mensch warst du hier.</div>
+                <div class="german-line">In allem uns gleich und doch ohne Schuld.</div>
+                <div class="german-line">Du bist barmherzig, voller Geduld.</div>
+            </div>
+        </div>
+
+        <!--https://youtu.be/3aUURub76Oo?si=g-IZxnPOa4zMeO7o-->
+        
+        <!-- Media Section -->
+        <div class="media-section">
+            <div class="media-header">
+                <h3>🎵 Listen to this Hymn</h3>
+            </div>
+            <div class="media-content">
+                <!-- Option 1: YouTube Video Embed -->
+                <div class="video-container">
+                    <iframe 
+                        src="https://www.youtube.com/embed/IZxnPOa4zMeO7o" 
+                        title="012 Wo ich auch stehe - Deutsche Loblieder"
+                        frameborder="0" 
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                        allowfullscreen>
+                    </iframe>
+                </div>
+                
+                <!-- Option 2: Direct YouTube Link (uncomment if no embed) -->
+                <!-- <div class="youtube-link">
+                    <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" target="_blank" rel="noopener noreferrer" class="media-button">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
+                            <path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/>
+                        </svg>
+                        Watch on YouTube
+                    </a>
+                </div> -->
+            </div>
+            
+            <div class="media-actions">
+                <button class="action-btn print-btn" onclick="printHymn()">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <polyline points="6 9 6 2 18 2 18 9"></polyline>
+                        <path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path>
+                        <rect x="6" y="14" width="12" height="8"></rect>
+                    </svg>
+                    Print PDF
+                </button>
+                <button class="action-btn share-btn" onclick="shareHymn()">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <circle cx="18" cy="5" r="3"></circle>
+                        <circle cx="6" cy="12" r="3"></circle>
+                        <circle cx="18" cy="19" r="3"></circle>
+                        <line x1="8.59" y1="13.51" x2="15.42" y2="17.49"></line>
+                        <line x1="15.41" y1="6.51" x2="8.59" y2="10.49"></line>
+                    </svg>
+                    Share
+                </button>
             </div>
         </div>
 
