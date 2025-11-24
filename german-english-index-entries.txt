@@ -1,0 +1,180 @@
+                    <a href="english-german-hymns/001-du-grosser-gott.html" class="song-item">
+                        <span class="song-number">001</span>
+                        <span class="song-title">Du großer Gott wenn ich die Welt betrachte <em>(Good God, when I look at the world,)</em></span>
+                    </a>
+                    <a href="english-german-hymns/002-ins-wasser-faellt-ein-stein.html" class="song-item">
+                        <span class="song-number">002</span>
+                        <span class="song-title">Ins Wasser fällt ein Stein <em>(A stone falls into the water,)</em></span>
+                    </a>
+                    <a href="english-german-hymns/003-welch-ein-freund-ist-unser-jesus.html" class="song-item">
+                        <span class="song-number">003</span>
+                        <span class="song-title">Welch ein Freund ist unser Jesus <em>(What a friend our Jesus is, oh how exalted he is!)</em></span>
+                    </a>
+                    <a href="english-german-hymns/004-sing-mit-mir-ein-halleluja.html" class="song-item">
+                        <span class="song-number">004</span>
+                        <span class="song-title">Sing mit mir ein Halleluja <em>(Sing hallelujah with me,)</em></span>
+                    </a>
+                    <a href="english-german-hymns/005-vergiss-nicht-zu-danken.html" class="song-item">
+                        <span class="song-number">005</span>
+                        <span class="song-title">Vergiss nicht zu danken dem ewigen Herrn <em>(Don't forget to thank the eternal Lord, he has done you a lot of good.)</em></span>
+                    </a>
+                    <a href="english-german-hymns/006-zuende-an-dein-feuer.html" class="song-item">
+                        <span class="song-number">006</span>
+                        <span class="song-title">Zünde an dein Feuer <em>(Light your fire, Lord, in my heart,)</em></span>
+                    </a>
+                    <a href="english-german-hymns/007-herr-dein-name-sei-erhoeht.html" class="song-item">
+                        <span class="song-number">007</span>
+                        <span class="song-title">Herr, dein Name sei erhöht <em>(Lord, your name be exalted, Lord, I sing to your glory.)</em></span>
+                    </a>
+                    <a href="english-german-hymns/008-ich-sitze-oder-stehe.html" class="song-item">
+                        <span class="song-number">008</span>
+                        <span class="song-title">Ich sitze oder stehe <em>(I sit or stand, I lie or walk,)</em></span>
+                    </a>
+                    <a href="english-german-hymns/009-hab-dank.html" class="song-item">
+                        <span class="song-number">009</span>
+                        <span class="song-title">Hab Dank <em>(Thank you from the bottom of my heart, Lord, thank you, Holy One,)</em></span>
+                    </a>
+                    <a href="english-german-hymns/010-in-deinem-haus-bin-ich-gern-vater.html" class="song-item">
+                        <span class="song-number">010</span>
+                        <span class="song-title">In deinem Haus bin ich gern Vater <em>(I like being in your house, father,)</em></span>
+                    </a>
+                    <a href="english-german-hymns/011-meine-zeit.html" class="song-item">
+                        <span class="song-number">011</span>
+                        <span class="song-title">Meine Zeit <em>(My time is in your hands.)</em></span>
+                    </a>
+                    <a href="english-german-hymns/012-wo-ich-auch-stehe.html" class="song-item">
+                        <span class="song-number">012</span>
+                        <span class="song-title">Wo ich auch stehe <em>(Wherever I stand, you have already been there.)</em></span>
+                    </a>
+                    <a href="english-german-hymns/013-herr-ich-suche-deine-ruhe.html" class="song-item">
+                        <span class="song-number">013</span>
+                        <span class="song-title">Herr ich suche deine Ruhe <em>(Lord, I seek your peace, away from the noise of this world.)</em></span>
+                    </a>
+                    <a href="english-german-hymns/014-mein-jesus-mein-retter.html" class="song-item">
+                        <span class="song-number">014</span>
+                        <span class="song-title">Mein Jesus, mein Retter <em>(My Jesus, my Savior, there is no one like you,)</em></span>
+                    </a>
+                    <a href="english-german-hymns/015-fuer-mich-gingst-du-nach-golgatha.html" class="song-item">
+                        <span class="song-number">015</span>
+                        <span class="song-title">Für mich gingst du nach Golgatha <em>(You went to Calvary for me, you carried the cross for me.)</em></span>
+                    </a>
+                    <a href="english-german-hymns/016-unser-mund-der-ist-voll-jubel.html" class="song-item">
+                        <span class="song-number">016</span>
+                        <span class="song-title">Unser Mund, der ist voll Jubel <em>(Our mouth is full of joy, our heart is full of thanks,)</em></span>
+                    </a>
+                    <a href="english-german-hymns/017-ohne-weg-ohne-licht.html" class="song-item">
+                        <span class="song-number">017</span>
+                        <span class="song-title">Ohne Weg, ohne Licht <em>(Without a path, without light, without help)</em></span>
+                    </a>
+                    <a href="english-german-hymns/018-ich-will-an-dich-glauben.html" class="song-item">
+                        <span class="song-number">018</span>
+                        <span class="song-title">Ich will an dich glauben <em>(I want to believe in you like Abraham did,)</em></span>
+                    </a>
+                    <a href="english-german-hymns/019-wenn-du-jesus-kennst.html" class="song-item">
+                        <span class="song-number">019</span>
+                        <span class="song-title">Wenn du Jesus kennst <em>(If you know Jesus, you are no longer lonely,)</em></span>
+                    </a>
+                    <a href="english-german-hymns/020-stimmt-zu-gottes-ehren.html" class="song-item">
+                        <span class="song-number">020</span>
+                        <span class="song-title">Stimmt zu Gottes Ehren <em>(Joyfully sing a song of praise to God,)</em></span>
+                    </a>
+                    <a href="english-german-hymns/021-jesus-wir-sehen-auf-dich.html" class="song-item">
+                        <span class="song-number">021</span>
+                        <span class="song-title">Jesus, wir sehen auf Dich <em>(Jesus, we look to you.)</em></span>
+                    </a>
+                    <a href="english-german-hymns/022-nimm-mein-leben.html" class="song-item">
+                        <span class="song-number">022</span>
+                        <span class="song-title">Nimm mein Leben <em>(Take my life! Jesus, I give it to you forever,)</em></span>
+                    </a>
+                    <a href="english-german-hymns/023-lobet-den-herrn.html" class="song-item">
+                        <span class="song-number">023</span>
+                        <span class="song-title">Lobet den Herren <em>(Praise the Lord, all who honor him,)</em></span>
+                    </a>
+                    <a href="english-german-hymns/024-wenn-die-last-der-welt.html" class="song-item">
+                        <span class="song-number">024</span>
+                        <span class="song-title">Wenn die Last der Welt <em>(When the weight of the world weighs on me, you hear my prayer.)</em></span>
+                    </a>
+                    <a href="english-german-hymns/025-wie-ein-hirsch.html" class="song-item">
+                        <span class="song-number">025</span>
+                        <span class="song-title">Wie ein Hirsch <em>(Like a deer longs for fresh water,)</em></span>
+                    </a>
+                    <a href="english-german-hymns/026-die-gott-lieben.html" class="song-item">
+                        <span class="song-number">026</span>
+                        <span class="song-title">Die Gott lieben <em>(Those who love God will be like the sun rising in its splendor.)</em></span>
+                    </a>
+                    <a href="english-german-hymns/027-du-gibst-das-leben.html" class="song-item">
+                        <span class="song-number">027</span>
+                        <span class="song-title">Du gibst das Leben <em>(You give the life that is truly worth it)</em></span>
+                    </a>
+                    <a href="english-german-hymns/028-ich-erhebe-meine-haende.html" class="song-item">
+                        <span class="song-number">028</span>
+                        <span class="song-title">Ich erhebe meine Hände <em>(I lift up my hands and I look up to you, I seek, Lord, your face, Jesus, I come to you.)</em></span>
+                    </a>
+                    <a href="english-german-hymns/029-gott-wird-dich-tragen.html" class="song-item">
+                        <span class="song-number">029</span>
+                        <span class="song-title">Gott wird dich tragen <em>(God will carry you, so don't be discouraged,)</em></span>
+                    </a>
+                    <a href="english-german-hymns/030-gelobt-und-gepriesen.html" class="song-item">
+                        <span class="song-number">030</span>
+                        <span class="song-title">Gelobt und gepriesen <em>(Blessed and praised be You, O Lord, for all eternity!)</em></span>
+                    </a>
+                    <a href="english-german-hymns/031-dir-sei-mein-ganzes-leben.html" class="song-item">
+                        <span class="song-number">031</span>
+                        <span class="song-title">Dir sei mein ganzes Leben <em>(My entire life, Lord Jesus, is now consecrated to you;)</em></span>
+                    </a>
+                    <a href="english-german-hymns/032-hab-dank.html" class="song-item">
+                        <span class="song-number">032</span>
+                        <span class="song-title">Hab Dank <em>(Thank you from the bottom of my heart, Lord, thank you, Holy One,)</em></span>
+                    </a>
+                    <a href="english-german-hymns/033-du-bist-wuerdig.html" class="song-item">
+                        <span class="song-number">033</span>
+                        <span class="song-title">Du bist würdig <em>(You are worthy, you are worthy, you are worthy, O God, you are worthy to receive from us praise and honor and thanksgiving;)</em></span>
+                    </a>
+                    <a href="english-german-hymns/034-gott-ist-die-liebe.html" class="song-item">
+                        <span class="song-number">034</span>
+                        <span class="song-title">Gott ist die Liebe <em>(God is love, has redeemed me,)</em></span>
+                    </a>
+                    <a href="english-german-hymns/035-herr-der-herren.html" class="song-item">
+                        <span class="song-number">035</span>
+                        <span class="song-title">Herr der Herren <em>(Lord of lords,)</em></span>
+                    </a>
+                    <a href="english-german-hymns/036-herr-du-hast-uns-gerufen.html" class="song-item">
+                        <span class="song-number">036</span>
+                        <span class="song-title">Herr, du hast uns gerufen <em>(Lord, you called us, your call was loud and clear,)</em></span>
+                    </a>
+                    <a href="english-german-hymns/037-herr-fuell-mich-neu.html" class="song-item">
+                        <span class="song-number">037</span>
+                        <span class="song-title">Herr, füll' mich neu <em>(Lord, fill me anew, fill me anew with your spirit,)</em></span>
+                    </a>
+                    <a href="english-german-hymns/038-herr-wir-bitten.html" class="song-item">
+                        <span class="song-number">038</span>
+                        <span class="song-title">Herr, wir bitten <em>(Lord, we ask: Come and bless us; place your peace on us.)</em></span>
+                    </a>
+                    <a href="english-german-hymns/039-ich-blicke-voll-beugung-und-staunen.html" class="song-item">
+                        <span class="song-number">039</span>
+                        <span class="song-title">Ich blicke voll Beugung <em>(I look into it in complete awe and amazement)</em></span>
+                    </a>
+                    <a href="english-german-hymns/040-jesus-christus-herrscht.html" class="song-item">
+                        <span class="song-number">040</span>
+                        <span class="song-title">Jesus Christus herrscht <em>(Jesus Christ reigns as King, everything is subject to him, God puts everything at his feet.)</em></span>
+                    </a>
+                    <a href="english-german-hymns/041-lobe-den-herrn-meine-seele.html" class="song-item">
+                        <span class="song-number">041</span>
+                        <span class="song-title">Lobe den Herrn, meine Seele <em>(Bless the Lord my soul, and his holy name.)</em></span>
+                    </a>
+                    <a href="english-german-hymns/042-du-starbst-fuer-mich.html" class="song-item">
+                        <span class="song-number">042</span>
+                        <span class="song-title">Du starbst für mich <em>(You died for me on Calvary, reconciled me with God.)</em></span>
+                    </a>
+                    <a href="english-german-hymns/043-jesus-geh-voran.html" class="song-item">
+                        <span class="song-number">043</span>
+                        <span class="song-title">Jesus, geh voran <em>(Jesus, go ahead)</em></span>
+                    </a>
+                    <a href="english-german-hymns/044-stern-auf-den-ich-schaue.html" class="song-item">
+                        <span class="song-number">044</span>
+                        <span class="song-title">Stern, auf den ich schaue <em>(Star that I look at)</em></span>
+                    </a>
+                    <a href="english-german-hymns/045-wir-preisen-dich-herr-jesus.html" class="song-item">
+                        <span class="song-number">045</span>
+                        <span class="song-title">Wir preisen dich Herr Jesus <em>(We praise you Lord Jesus,)</em></span>
+                    </a>

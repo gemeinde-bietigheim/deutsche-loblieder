@@ -1,0 +1,2668 @@
+    <a href="greek-hymns-original/001-agios-agios-agios-kyrios-savaoth.html" class="song-item">
+        <span class="song-number">001</span>
+        <span class="song-title">ΑΓΙΟΣ, ΑΓΙΟΣ, ΑΓΙΟΣ, ΚΥΡΙΟΣ ΣΑΒΑΩΘ!</span>
+    </a>
+    <a href="greek-hymns-original/002-ainoyme-oi-pistoi.html" class="song-item">
+        <span class="song-number">002</span>
+        <span class="song-title">ΑΙΝΟΥΜΕ ΟΙ ΠΙΣΤΟΙ</span>
+    </a>
+    <a href="greek-hymns-original/003-as-psalloyme-emeis.html" class="song-item">
+        <span class="song-number">003</span>
+        <span class="song-title">ΑΣ ΨΑΛΛΟΥΜΕ ΕΜΕΙΣ</span>
+    </a>
+    <a href="greek-hymns-original/004-doste-doxa.html" class="song-item">
+        <span class="song-number">004</span>
+        <span class="song-title">ΔΩΣΤΕ ΔΟΞΑ</span>
+    </a>
+    <a href="greek-hymns-original/005-eylogise-psychi.html" class="song-item">
+        <span class="song-number">005</span>
+        <span class="song-title">ΕΥΛΟΓΗΣΕ, ΨΥΧΗ</span>
+    </a>
+    <a href="greek-hymns-original/006-i-timi-kai-latreia.html" class="song-item">
+        <span class="song-number">006</span>
+        <span class="song-title">Η ΤΙΜΗ ΚΑΙ ΛΑΤΡΕΙΑ</span>
+    </a>
+    <a href="greek-hymns-original/007-thee-ta-cheroyveim.html" class="song-item">
+        <span class="song-number">007</span>
+        <span class="song-title">ΘΕΕ, ΤΑ ΧΕΡΟΥΒΕΙΜ</span>
+    </a>
+    <a href="greek-hymns-original/008-latreia-timi.html" class="song-item">
+        <span class="song-number">008</span>
+        <span class="song-title">ΛΑΤΡΕΙΑ, ΤΙΜΗ</span>
+    </a>
+    <a href="greek-hymns-original/009-proskynoyme-se-thee.html" class="song-item">
+        <span class="song-number">009</span>
+        <span class="song-title">ΠΡΟΣΚΥΝΟΥΜΕ ΣΕ, ΘΕΕ</span>
+    </a>
+    <a href="greek-hymns-original/010-sotiras-onoma-septo.html" class="song-item">
+        <span class="song-number">010</span>
+        <span class="song-title">ΣΩΤΗΡΑΣ, ΟΝΟΜΑ ΣΕΠΤΟ</span>
+    </a>
+    <a href="greek-hymns-original/011-agios-agios-agios-o-theos.html" class="song-item">
+        <span class="song-number">011</span>
+        <span class="song-title">ΑΓΙΟΣ, ΑΓΙΟΣ, ΑΓΙΟΣ Ο ΘΕΟΣ</span>
+    </a>
+    <a href="greek-hymns-original/012-aineite-pantes-oi-laoi.html" class="song-item">
+        <span class="song-number">012</span>
+        <span class="song-title">ΑΙΝΕΙΤΕ ΠΑΝΤΕΣ ΟΙ ΛΑΟΙ</span>
+    </a>
+    <a href="greek-hymns-original/013-aineite-ton-kyrio.html" class="song-item">
+        <span class="song-number">013</span>
+        <span class="song-title">ΑΙΝΕΙΤΕ ΤΟΝ ΚΥΡΙΟ</span>
+    </a>
+    <a href="greek-hymns-original/014-doxa-anikei-ston-christon.html" class="song-item">
+        <span class="song-number">014</span>
+        <span class="song-title">ΔΟΞΑ ΑΝΗΚΕΙ ΣΤΟΝ ΧΡΙΣΤΟΝ</span>
+    </a>
+    <a href="greek-hymns-original/015-doxa-kai-timi-s-esena.html" class="song-item">
+        <span class="song-number">015</span>
+        <span class="song-title">ΔΟΞΑ ΚΑΙ ΤΙΜΗ Σ' ΕΣΕΝΑ</span>
+    </a>
+    <a href="greek-hymns-original/016-eggyteron-thee-epipotho.html" class="song-item">
+        <span class="song-number">016</span>
+        <span class="song-title">ΕΓΓΥΤΕΡΟΝ, ΘΕΕ, ΕΠΙΠΟΘΩ</span>
+    </a>
+    <a href="greek-hymns-original/017-eis-ta-vimata-toy.html" class="song-item">
+        <span class="song-number">017</span>
+        <span class="song-title">ΕΙΣ ΤΑ ΒΗΜΑΤΑ ΤΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/018-eycharistoyme-se.html" class="song-item">
+        <span class="song-number">018</span>
+        <span class="song-title">ΕΥΧΑΡΙΣΤΟΥΜΕ ΣΕ</span>
+    </a>
+    <a href="greek-hymns-original/019-thaymasia-chari-ti-glykia.html" class="song-item">
+        <span class="song-number">019</span>
+        <span class="song-title">ΘΑΥΜΑΣΙΑ ΧΑΡΗ, ΤΙ ΓΛΥΚΙΑ</span>
+    </a>
+    <a href="greek-hymns-original/020-thelo-na-psallo-lytrota.html" class="song-item">
+        <span class="song-number">020</span>
+        <span class="song-title">ΘΕΛΩ ΝΑ ΨΑΛΛΩ, ΛΥΤΡΩΤΑ</span>
+    </a>
+    <a href="greek-hymns-original/021-iisoy-ti-doxa-soy.html" class="song-item">
+        <span class="song-number">021</span>
+        <span class="song-title">ΙΗΣΟΥ, ΤΗ ΔΟΞΑ ΣΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/022-kyrie-eisai-to-alfa-kai-to-omega.html" class="song-item">
+        <span class="song-number">022</span>
+        <span class="song-title">ΚΥΡΙΕ, ΕΙΣΑΙ ΤΟ ΑΛΦΑ ΚΑΙ ΤΟ ΩΜΕΓΑ</span>
+    </a>
+    <a href="greek-hymns-original/023-me-ymnoys-kai-odas-terpnas.html" class="song-item">
+        <span class="song-number">023</span>
+        <span class="song-title">ΜΕ ΥΜΝΟΥΣ ΚΑΙ ΩΔΑΣ ΤΕΡΠΝΑΣ</span>
+    </a>
+    <a href="greek-hymns-original/024-mesa-s-olo-to-lao-soy.html" class="song-item">
+        <span class="song-number">024</span>
+        <span class="song-title">ΜΕΣΑ Σ' ΟΛΟ ΤΟ ΛΑΟ ΣΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/025-mprosta-soy-ypsiste.html" class="song-item">
+        <span class="song-number">025</span>
+        <span class="song-title">ΜΠΡΟΣΤΑ ΣΟΥ, ΥΨΙΣΤΕ</span>
+    </a>
+    <a href="greek-hymns-original/026-nai-tha-psallo-kathe-mera.html" class="song-item">
+        <span class="song-number">026</span>
+        <span class="song-title">ΝΑΙ, ΘΑ ΨΑΛΛΩ ΚΑΘΕ ΜΕΡΑ</span>
+    </a>
+    <a href="greek-hymns-original/027-ola-ta-erga-soy.html" class="song-item">
+        <span class="song-number">027</span>
+        <span class="song-title">ΟΛΑ ΤΑ ΕΡΓΑ ΣΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/028-oloi-ti-nea-odi-t-amnoy.html" class="song-item">
+        <span class="song-number">028</span>
+        <span class="song-title">ΟΛΟΙ ΤΗ ΝΕΑ ΩΔΗ Τ' ΑΜΝΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/029-otan-iltha-ston-sotira.html" class="song-item">
+        <span class="song-number">029</span>
+        <span class="song-title">ΟΤΑΝ ΗΛΘΑ ΣΤΟΝ ΣΩΤΗΡΑ</span>
+    </a>
+    <a href="greek-hymns-original/030-otan-thee-m-eylaveia-thaymazo.html" class="song-item">
+        <span class="song-number">030</span>
+        <span class="song-title">ΟΤΑΝ, ΘΕΕ, Μ' ΕΥΛΑΒΕΙΑ ΘΑΥΜΑΖΩ</span>
+    </a>
+    <a href="greek-hymns-original/031-perase-me-ap-tin-pyli.html" class="song-item">
+        <span class="song-number">031</span>
+        <span class="song-title">ΠΕΡΑΣΕ ΜΕ ΑΠ' ΤΗΝ ΠΥΛΗ</span>
+    </a>
+    <a href="greek-hymns-original/032-poiiti-kai-vasilia-moy.html" class="song-item">
+        <span class="song-number">032</span>
+        <span class="song-title">ΠΟΙΗΤΗ ΚΑΙ ΒΑΣΙΛΙΑ ΜΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/033-poios-tha-anevei.html" class="song-item">
+        <span class="song-number">033</span>
+        <span class="song-title">ΠΟΙΟΣ ΘΑ ΑΝΕΒΕΙ</span>
+    </a>
+    <a href="greek-hymns-original/034-poios-soy-moiazei.html" class="song-item">
+        <span class="song-number">034</span>
+        <span class="song-title">ΠΟΙΟΣ ΣΟΥ ΜΟΙΑΖΕΙ</span>
+    </a>
+    <a href="greek-hymns-original/035-s-esena-tha-psallo.html" class="song-item">
+        <span class="song-number">035</span>
+        <span class="song-title">Σ' ΕΣΕΝΑ ΘΑ ΨΑΛΛΩ</span>
+    </a>
+    <a href="greek-hymns-original/036-se-se-psallo-kyrie.html" class="song-item">
+        <span class="song-number">036</span>
+        <span class="song-title">ΣΕ ΣΕ ΨΑΛΛΩ, ΚΥΡΙΕ</span>
+    </a>
+    <a href="greek-hymns-original/037-se-ymno-se-doxazo-patera.html" class="song-item">
+        <span class="song-number">037</span>
+        <span class="song-title">ΣΕ ΥΜΝΩ, ΣΕ ΔΟΞΑΖΩ, ΠΑΤΕΡΑ</span>
+    </a>
+    <a href="greek-hymns-original/038-tin-pronoia-soy-o-thee.html" class="song-item">
+        <span class="song-number">038</span>
+        <span class="song-title">ΤΗΝ ΠΡΟΝΟΙΑ ΣΟΥ, Ω ΘΕΕ</span>
+    </a>
+    <a href="greek-hymns-original/039-tis-doxis-soy-oi-latreytes.html" class="song-item">
+        <span class="song-number">039</span>
+        <span class="song-title">ΤΗΣ ΔΟΞΗΣ ΣΟΥ ΟΙ ΛΑΤΡΕΥΤΕΣ</span>
+    </a>
+    <a href="greek-hymns-original/040-to-onoma-soy-thee.html" class="song-item">
+        <span class="song-number">040</span>
+        <span class="song-title">ΤΟ ΟΝΟΜΑ ΣΟΥ, ΘΕΕ</span>
+    </a>
+    <a href="greek-hymns-original/041-ymnithito-i-agapi.html" class="song-item">
+        <span class="song-number">041</span>
+        <span class="song-title">ΥΜΝΗΘΗΤΩ Η ΑΓΑΠΗ</span>
+    </a>
+    <a href="greek-hymns-original/042-chareite-ki-enomenoi-ypsoste.html" class="song-item">
+        <span class="song-number">042</span>
+        <span class="song-title">ΧΑΡΕΙΤΕ ΚΙ ΕΝΩΜΕΝΟΙ ΥΨΩΣΤΕ</span>
+    </a>
+    <a href="greek-hymns-original/043-psalle-ston-kyrio-kai-vasilia.html" class="song-item">
+        <span class="song-number">043</span>
+        <span class="song-title">ΨΑΛΛΕ ΣΤΟΝ ΚΥΡΙΟ ΚΑΙ ΒΑΣΙΛΙΑ</span>
+    </a>
+    <a href="greek-hymns-original/044-o-thaymasia-charis.html" class="song-item">
+        <span class="song-number">044</span>
+        <span class="song-title">Ω ΘΑΥΜΑΣΙΑ ΧΑΡΙΣ</span>
+    </a>
+    <a href="greek-hymns-original/045-o-kyrie-moy-poso-se-thaymazo.html" class="song-item">
+        <span class="song-number">045</span>
+        <span class="song-title">Ω ΚΥΡΙΕ ΜΟΥ, ΠΟΣΟ ΣΕ ΘΑΥΜΑΖΩ</span>
+    </a>
+    <a href="greek-hymns-original/046-o-doxasat-omofonos.html" class="song-item">
+        <span class="song-number">046</span>
+        <span class="song-title">Ω! ΔΟΞΑΣΑΤ' ΟΜΟΦΩΝΩΣ</span>
+    </a>
+    <a href="greek-hymns-original/047-o-ti-chara-na-eisai.html" class="song-item">
+        <span class="song-number">047</span>
+        <span class="song-title">Ω, ΤΙ ΧΑΡΑ, ΝΑ ΕΙΣΑΙ</span>
+    </a>
+    <a href="greek-hymns-original/048-o-ti-oyranies-odes.html" class="song-item">
+        <span class="song-number">048</span>
+        <span class="song-title">Ω! ΤΙ ΟΥΡΑΝΙΕΣ ΩΔΕΣ</span>
+    </a>
+    <a href="greek-hymns-original/049-osanna-osanna.html" class="song-item">
+        <span class="song-number">049</span>
+        <span class="song-title">ΩΣΑΝΝΑ, ΩΣΑΝΝΑ</span>
+    </a>
+    <a href="greek-hymns-original/050-agapi-pio-polli.html" class="song-item">
+        <span class="song-number">050</span>
+        <span class="song-title">ΑΓΑΠΗ ΠΙΟ ΠΟΛΛΗ</span>
+    </a>
+    <a href="greek-hymns-original/051-apo-t-oyranoy-ti-doxa.html" class="song-item">
+        <span class="song-number">051</span>
+        <span class="song-title">ΑΠΟ Τ' ΟΥΡΑΝΟΥ ΤΗ ΔΟΞΑ</span>
+    </a>
+    <a href="greek-hymns-original/052-apo-ton-oyrano-irth-o-christos-mas.html" class="song-item">
+        <span class="song-number">052</span>
+        <span class="song-title">ΑΠΟ ΤΟΝ ΟΥΡΑΝΟ ΗΡΘ' Ο ΧΡΙΣΤΟΣ ΜΑΣ</span>
+    </a>
+    <a href="greek-hymns-original/053-eimaste-enomenoi-oloi-me-ton-christo.html" class="song-item">
+        <span class="song-number">053</span>
+        <span class="song-title">ΕΙΜΑΣΤΕ ΕΝΩΜΕΝΟΙ ΟΛΟΙ ΜΕ ΤΟΝ ΧΡΙΣΤΟ</span>
+    </a>
+    <a href="greek-hymns-original/054-ekei-sto-golgotha.html" class="song-item">
+        <span class="song-number">054</span>
+        <span class="song-title">ΕΚΕΙ ΣΤΟ ΓΟΛΓΟΘΑ</span>
+    </a>
+    <a href="greek-hymns-original/055-i-kardia-moy-pros-ese.html" class="song-item">
+        <span class="song-number">055</span>
+        <span class="song-title">Η ΚΑΡΔΙΑ ΜΟΥ ΠΡΟΣ ΕΣΕ</span>
+    </a>
+    <a href="greek-hymns-original/056-kapoia-mera-akoysa-gia-ton-christo.html" class="song-item">
+        <span class="song-number">056</span>
+        <span class="song-title">ΚΑΠΟΙΑ ΜΕΡΑ ΑΚΟΥΣΑ ΓΙΑ ΤΟΝ ΧΡΙΣΤΟ</span>
+    </a>
+    <a href="greek-hymns-original/057-me-potho-thermo.html" class="song-item">
+        <span class="song-number">057</span>
+        <span class="song-title">ΜΕ ΠΟΘΟ ΘΕΡΜΟ</span>
+    </a>
+    <a href="greek-hymns-original/058-mesa-ap-tin-psychi-moy-s-agapo.html" class="song-item">
+        <span class="song-number">058</span>
+        <span class="song-title">ΜΕΣΑ ΑΠ' ΤΗΝ ΨΥΧΗ ΜΟΥ Σ' ΑΓΑΠΩ</span>
+    </a>
+    <a href="greek-hymns-original/059-o-theos-mas-ein-agapi.html" class="song-item">
+        <span class="song-number">059</span>
+        <span class="song-title">Ο ΘΕΟΣ ΜΑΣ ΕΙΝ' ΑΓΑΠΗ</span>
+    </a>
+    <a href="greek-hymns-original/060-sotira-yperechei-alithos.html" class="song-item">
+        <span class="song-number">060</span>
+        <span class="song-title">ΣΩΤΗΡΑ, ΥΠΕΡΕΧΕΙ ΑΛΗΘΩΣ</span>
+    </a>
+    <a href="greek-hymns-original/061-tin-toy-theoy-glykia-agapi.html" class="song-item">
+        <span class="song-number">061</span>
+        <span class="song-title">ΤΗΝ ΤΟΥ ΘΕΟΥ ΓΛΥΚΙΑ ΑΓΑΠΗ</span>
+    </a>
+    <a href="greek-hymns-original/062-ti-apeiri-ein-i-agapi-aytoy.html" class="song-item">
+        <span class="song-number">062</span>
+        <span class="song-title">ΤΙ ΑΠΕΙΡΗ ΕΙΝ' Η ΑΓΑΠΗ ΑΥΤΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/063-ton-iisoy-moy-agapo.html" class="song-item">
+        <span class="song-number">063</span>
+        <span class="song-title">ΤΟΝ ΙΗΣΟΥ ΜΟΥ ΑΓΑΠΩ</span>
+    </a>
+    <a href="greek-hymns-original/064-gia-keinon-milise-moy.html" class="song-item">
+        <span class="song-number">064</span>
+        <span class="song-title">ΓΙΑ ΚΕΙΝΟΝ ΜΙΛΗΣΕ ΜΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/065-glykytero-o-iisoy.html" class="song-item">
+        <span class="song-number">065</span>
+        <span class="song-title">ΓΛΥΚΥΤΕΡΟ, Ω ΙΗΣΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/066-ein-ena-onoma.html" class="song-item">
+        <span class="song-number">066</span>
+        <span class="song-title">ΕΙΝ' ΕΝΑ ΟΝΟΜΑ</span>
+    </a>
+    <a href="greek-hymns-original/067-iisoy-moy-einai-t-onoma-soy.html" class="song-item">
+        <span class="song-number">067</span>
+        <span class="song-title">ΙΗΣΟΥ ΜΟΥ ΕΙΝΑΙ Τ' ΟΝΟΜΑ ΣΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/068-pes-moy-n-akoyso-to-logo.html" class="song-item">
+        <span class="song-number">068</span>
+        <span class="song-title">ΠΕΣ ΜΟΥ Ν' ΑΚΟΥΣΩ ΤΟ ΛΟΓΟ</span>
+    </a>
+    <a href="greek-hymns-original/069-poso-s-agapo-o-iisoy.html" class="song-item">
+        <span class="song-number">069</span>
+        <span class="song-title">ΠΟΣΟ Σ' ΑΓΑΠΩ, Ω ΙΗΣΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/070-t-onoma-soy-drosizei-ti-skepsi-mas.html" class="song-item">
+        <span class="song-number">070</span>
+        <span class="song-title">Τ' ΟΝΟΜΑ ΣΟΥ ΔΡΟΣΙΖΕΙ ΤΗ ΣΚΕΨΗ ΜΑΣ</span>
+    </a>
+    <a href="greek-hymns-original/071-ti-onoma-glyko.html" class="song-item">
+        <span class="song-number">071</span>
+        <span class="song-title">ΤΙ ΟΝΟΜΑ ΓΛΥΚΟ</span>
+    </a>
+    <a href="greek-hymns-original/072-to-onoma-soy-iisoy.html" class="song-item">
+        <span class="song-number">072</span>
+        <span class="song-title">ΤΟ ΟΝΟΜΑ ΣΟΥ, ΙΗΣΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/073-o-christe-moy-t-onoma-soy.html" class="song-item">
+        <span class="song-number">073</span>
+        <span class="song-title">Ω ΧΡΙΣΤΕ ΜΟΥ, Τ' ΟΝΟΜΑ ΣΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/074-o-pes-moy-kai-pali-gia-keinon.html" class="song-item">
+        <span class="song-number">074</span>
+        <span class="song-title">Ω, ΠΕΣ ΜΟΥ ΚΑΙ ΠΑΛΙ ΓΙΑ ΚΕΙΝΟΝ</span>
+    </a>
+    <a href="greek-hymns-original/075-vrache-ton-aionon.html" class="song-item">
+        <span class="song-number">075</span>
+        <span class="song-title">ΒΡΑΧΕ ΤΩΝ ΑΙΩΝΩΝ</span>
+    </a>
+    <a href="greek-hymns-original/076-theos-to-froyrion-imon.html" class="song-item">
+        <span class="song-number">076</span>
+        <span class="song-title">ΘΕΟΣ ΤΟ ΦΡΟΥΡΙΟΝ ΗΜΩΝ</span>
+    </a>
+    <a href="greek-hymns-original/077-isos-eis-tin-koilada.html" class="song-item">
+        <span class="song-number">077</span>
+        <span class="song-title">ΙΣΩΣ ΕΙΣ ΤΗΝ ΚΟΙΛΑΔΑ</span>
+    </a>
+    <a href="greek-hymns-original/078-kathe-mera-ton-kalo-sotira.html" class="song-item">
+        <span class="song-number">078</span>
+        <span class="song-title">ΚΑΘΕ ΜΕΡΑ ΤΟΝ ΚΑΛΟ ΣΩΤΗΡΑ</span>
+    </a>
+    <a href="greek-hymns-original/079-kalos-poimenas-m-odigei.html" class="song-item">
+        <span class="song-number">079</span>
+        <span class="song-title">ΚΑΛΟΣ ΠΟΙΜΕΝΑΣ Μ' ΟΔΗΓΕΙ</span>
+    </a>
+    <a href="greek-hymns-original/080-kyrie-odigei-me.html" class="song-item">
+        <span class="song-number">080</span>
+        <span class="song-title">ΚΥΡΙΕ, ΟΔΗΓΕΙ ΜΕ</span>
+    </a>
+    <a href="greek-hymns-original/081-metraei-o-voskos-ta-provata.html" class="song-item">
+        <span class="song-number">081</span>
+        <span class="song-title">ΜΕΤΡΑΕΙ Ο ΒΟΣΚΟΣ ΤΑ ΠΡΟΒΑΤΑ</span>
+    </a>
+    <a href="greek-hymns-original/082-o-iisoys-christos-se-krazei.html" class="song-item">
+        <span class="song-number">082</span>
+        <span class="song-title">Ο ΙΗΣΟΥΣ ΧΡΙΣΤΟΣ ΣΕ ΚΡΑΖΕΙ</span>
+    </a>
+    <a href="greek-hymns-original/083-s-esena-vlepo-sotira.html" class="song-item">
+        <span class="song-number">083</span>
+        <span class="song-title">Σ' ΕΣΕΝΑ ΒΛΕΠΩ ΣΩΤΗΡΑ</span>
+    </a>
+    <a href="greek-hymns-original/084-sy-odigei-me-christe.html" class="song-item">
+        <span class="song-number">084</span>
+        <span class="song-title">ΣΥ ΟΔΗΓΕΙ ΜΕ, ΧΡΙΣΤΕ</span>
+    </a>
+    <a href="greek-hymns-original/085-sotira-iisoy.html" class="song-item">
+        <span class="song-number">085</span>
+        <span class="song-title">ΣΩΤΗΡΑ ΙΗΣΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/086-sotiras-pistos.html" class="song-item">
+        <span class="song-number">086</span>
+        <span class="song-title">ΣΩΤΗΡΑΣ ΠΙΣΤΟΣ</span>
+    </a>
+    <a href="greek-hymns-original/087-tis-psychis-moy-lytroti.html" class="song-item">
+        <span class="song-number">087</span>
+        <span class="song-title">ΤΗΣ ΨΥΧΗΣ ΜΟΥ ΛΥΤΡΩΤΗ</span>
+    </a>
+    <a href="greek-hymns-original/088-o-ti-syntrofia.html" class="song-item">
+        <span class="song-number">088</span>
+        <span class="song-title">Ω, ΤΙ ΣΥΝΤΡΟΦΙΑ</span>
+    </a>
+    <a href="greek-hymns-original/089-agapo-na-leo-gia-ton-iisoy-moy.html" class="song-item">
+        <span class="song-number">089</span>
+        <span class="song-title">ΑΓΑΠΩ ΝΑ ΛΕΩ ΓΙΑ ΤΟΝ ΙΗΣΟΥ ΜΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/090-vrika-megalo-filo.html" class="song-item">
+        <span class="song-number">090</span>
+        <span class="song-title">ΒΡΗΚΑ ΜΕΓΑΛΟ ΦΙΛΟ</span>
+    </a>
+    <a href="greek-hymns-original/091-dichos-timonieri.html" class="song-item">
+        <span class="song-number">091</span>
+        <span class="song-title">ΔΙΧΩΣ ΤΙΜΟΝΙΕΡΗ</span>
+    </a>
+    <a href="greek-hymns-original/092-zoysa-sti-gi.html" class="song-item">
+        <span class="song-number">092</span>
+        <span class="song-title">ΖΟΥΣΑ ΣΤΗ ΓΗ</span>
+    </a>
+    <a href="greek-hymns-original/093-mazi-moy-ein-o-lytrotis.html" class="song-item">
+        <span class="song-number">093</span>
+        <span class="song-title">ΜΑΖΙ ΜΟΥ ΕΙΝ' Ο ΛΥΤΡΩΤΗΣ</span>
+    </a>
+    <a href="greek-hymns-original/094-megalo-filo-vrika-ego.html" class="song-item">
+        <span class="song-number">094</span>
+        <span class="song-title">ΜΕΓΑΛΟ ΦΙΛΟ ΒΡΗΚΑ ΕΓΩ</span>
+    </a>
+    <a href="greek-hymns-original/095-perpato-mes-sto-fos.html" class="song-item">
+        <span class="song-number">095</span>
+        <span class="song-title">ΠΕΡΠΑΤΩ ΜΕΣ ΣΤΟ ΦΩΣ</span>
+    </a>
+    <a href="greek-hymns-original/096-poso-konta-moy.html" class="song-item">
+        <span class="song-number">096</span>
+        <span class="song-title">ΠΟΣΟ ΚΟΝΤΑ ΜΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/097-poso-megas-eisai-filos.html" class="song-item">
+        <span class="song-number">097</span>
+        <span class="song-title">ΠΟΣΟ ΜΕΓΑΣ ΕΙΣΑΙ ΦΙΛΟΣ</span>
+    </a>
+    <a href="greek-hymns-original/098-prepei-na-leo-kathe-moy-pono.html" class="song-item">
+        <span class="song-number">098</span>
+        <span class="song-title">ΠΡΕΠΕΙ ΝΑ ΛΕΩ ΚΑΘΕ ΜΟΥ ΠΟΝΟ</span>
+    </a>
+    <a href="greek-hymns-original/099-sotira-moy-esy-poy-m-agapas.html" class="song-item">
+        <span class="song-number">099</span>
+        <span class="song-title">ΣΩΤΗΡΑ ΜΟΥ, ΕΣΥ ΠΟΥ Μ' ΑΓΑΠΑΣ</span>
+    </a>
+    <a href="greek-hymns-original/100-filos-ein-o-christos-moy.html" class="song-item">
+        <span class="song-number">100</span>
+        <span class="song-title">ΦΙΛΟΣ ΕΙΝ' Ο ΧΡΙΣΤΟΣ ΜΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/101-ein-o-logos-soy.html" class="song-item">
+        <span class="song-number">101</span>
+        <span class="song-title">ΕΙΝ' Ο ΛΟΓΟΣ ΣΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/102-meno-stin-yposchesi.html" class="song-item">
+        <span class="song-number">102</span>
+        <span class="song-title">ΜΕΝΩ ΣΤΗΝ ΥΠΟΣΧΕΣΗ</span>
+    </a>
+    <a href="greek-hymns-original/103-o-logos-soy.html" class="song-item">
+        <span class="song-number">103</span>
+        <span class="song-title">Ο ΛΟΓΟΣ ΣΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/104-sto-logo-soy-vartimaios-o-tyflos.html" class="song-item">
+        <span class="song-number">104</span>
+        <span class="song-title">ΣΤΟ ΛΟΓΟ ΣΟΥ ΒΑΡΤΙΜΑΙΟΣ Ο ΤΥΦΛΟΣ</span>
+    </a>
+    <a href="greek-hymns-original/105-agapi-theia-thaymasti.html" class="song-item">
+        <span class="song-number">105</span>
+        <span class="song-title">ΑΓΑΠΗ ΘΕΙΑ, ΘΑΥΜΑΣΤΗ</span>
+    </a>
+    <a href="greek-hymns-original/106-agapi-triseylogiti.html" class="song-item">
+        <span class="song-number">106</span>
+        <span class="song-title">ΑΓΑΠΗ ΤΡΙΣΕΥΛΟΓΗΤΗ</span>
+    </a>
+    <a href="greek-hymns-original/107-akoyo-ti-foni.html" class="song-item">
+        <span class="song-number">107</span>
+        <span class="song-title">ΑΚΟΥΩ ΤΗ ΦΩΝΗ</span>
+    </a>
+    <a href="greek-hymns-original/108-alliloyia-doxa-doxa-osanna.html" class="song-item">
+        <span class="song-number">108</span>
+        <span class="song-title">ΑΛΛΗΛΟΥΙΑ, ΔΟΞΑ, ΔΟΞΑ, ΩΣΑΝΝΑ!</span>
+    </a>
+    <a href="greek-hymns-original/109-allote-gios-tis-amartias.html" class="song-item">
+        <span class="song-number">109</span>
+        <span class="song-title">ΑΛΛΟΤΕ ΓΙΟΣ ΤΗΣ ΑΜΑΡΤΙΑΣ</span>
+    </a>
+    <a href="greek-hymns-original/110-amartias-kymata.html" class="song-item">
+        <span class="song-number">110</span>
+        <span class="song-title">ΑΜΑΡΤΙΑΣ ΚΥΜΑΤΑ</span>
+    </a>
+    <a href="greek-hymns-original/111-an-den-itan-o-christos.html" class="song-item">
+        <span class="song-number">111</span>
+        <span class="song-title">ΑΝ ΔΕΝ ΗΤΑΝ Ο ΧΡΙΣΤΟΣ</span>
+    </a>
+    <a href="greek-hymns-original/112-an-kapoion-simera-epligosa.html" class="song-item">
+        <span class="song-number">112</span>
+        <span class="song-title">ΑΝ ΚΑΠΟΙΟΝ ΣΗΜΕΡΑ ΕΠΛΗΓΩΣΑ</span>
+    </a>
+    <a href="greek-hymns-original/113-an-se-omologoysame.html" class="song-item">
+        <span class="song-number">113</span>
+        <span class="song-title">ΑΝ ΣΕ ΟΜΟΛΟΓΟΥΣΑΜΕ</span>
+    </a>
+    <a href="greek-hymns-original/114-aniko-se-kapoion.html" class="song-item">
+        <span class="song-number">114</span>
+        <span class="song-title">ΑΝΗΚΩ ΣΕ ΚΑΠΟΙΟΝ</span>
+    </a>
+    <a href="greek-hymns-original/115-viopali-pantachoy.html" class="song-item">
+        <span class="song-number">115</span>
+        <span class="song-title">ΒΙΟΠΑΛΗ ΠΑΝΤΑΧΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/116-voitheia-moy-s-ayti-ti-zoi.html" class="song-item">
+        <span class="song-number">116</span>
+        <span class="song-title">ΒΟΗΘΕΙΑ ΜΟΥ Σ' ΑΥΤΗ ΤΗ ΖΩΗ</span>
+    </a>
+    <a href="greek-hymns-original/117-voyvoi-skyftoi-kai-fortomenoi.html" class="song-item">
+        <span class="song-number">117</span>
+        <span class="song-title">ΒΟΥΒΟΙ ΣΚΥΦΤΟΙ ΚΑΙ ΦΟΡΤΩΜΕΝΟΙ</span>
+    </a>
+    <a href="greek-hymns-original/118-giati-na-to-krypso.html" class="song-item">
+        <span class="song-number">118</span>
+        <span class="song-title">ΓΙΑΤΙ ΝΑ ΤΟ ΚΡΥΨΩ</span>
+    </a>
+    <a href="greek-hymns-original/119-den-epaischynomai-christe.html" class="song-item">
+        <span class="song-number">119</span>
+        <span class="song-title">ΔΕΝ ΕΠΑΙΣΧΥΝΟΜΑΙ, ΧΡΙΣΤΕ</span>
+    </a>
+    <a href="greek-hymns-original/120-doxasmeno-t-onoma-soy.html" class="song-item">
+        <span class="song-number">120</span>
+        <span class="song-title">ΔΟΞΑΣΜΕΝΟ Τ' ΟΝΟΜΑ ΣΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/121-doxologo-ton-iisoy-moy.html" class="song-item">
+        <span class="song-number">121</span>
+        <span class="song-title">ΔΟΞΟΛΟΓΩ ΤΟΝ ΙΗΣΟΥ ΜΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/122-eirini-moy-efere-o-christos.html" class="song-item">
+        <span class="song-number">122</span>
+        <span class="song-title">ΕΙΡΗΝΗ ΜΟΥ ΕΦΕΡΕ Ο ΧΡΙΣΤΟΣ</span>
+    </a>
+    <a href="greek-hymns-original/123-eis-archontas-ilthe.html" class="song-item">
+        <span class="song-number">123</span>
+        <span class="song-title">ΕΙΣ ΑΡΧΟΝΤΑΣ ΗΛΘΕ</span>
+    </a>
+    <a href="greek-hymns-original/124-ek-tis-planis-sotheis.html" class="song-item">
+        <span class="song-number">124</span>
+        <span class="song-title">ΕΚ ΤΗΣ ΠΛΑΝΗΣ ΣΩΘΕΙΣ</span>
+    </a>
+    <a href="greek-hymns-original/125-enas-evraios-theologos.html" class="song-item">
+        <span class="song-number">125</span>
+        <span class="song-title">ΕΝΑΣ ΕΒΡΑΙΟΣ ΘΕΟΛΟΓΟΣ</span>
+    </a>
+    <a href="greek-hymns-original/126-epeidi-aytos-zei.html" class="song-item">
+        <span class="song-number">126</span>
+        <span class="song-title">ΕΠΕΙΔΗ ΑΥΤΟΣ ΖΕΙ</span>
+    </a>
+    <a href="greek-hymns-original/127-erchomai-pros-se-sotira.html" class="song-item">
+        <span class="song-number">127</span>
+        <span class="song-title">ΕΡΧΟΜΑΙ ΠΡΟΣ ΣΕ, ΣΩΤΗΡΑ</span>
+    </a>
+    <a href="greek-hymns-original/128-echo-to-christo-mazi-moy.html" class="song-item">
+        <span class="song-number">128</span>
+        <span class="song-title">ΕΧΩ ΤΟ ΧΡΙΣΤΟ ΜΑΖΙ ΜΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/129-zoysa-makria-apo-senane.html" class="song-item">
+        <span class="song-number">129</span>
+        <span class="song-title">ΖΟΥΣΑ ΜΑΚΡΙΑ ΑΠΟ ΣΕΝΑΝΕ</span>
+    </a>
+    <a href="greek-hymns-original/130-zoysa-sto-skotadi-sti-sklavia.html" class="song-item">
+        <span class="song-number">130</span>
+        <span class="song-title">ΖΟΥΣΑ ΣΤΟ ΣΚΟΤΑΔΙ ΣΤΗ ΣΚΛΑΒΙΑ</span>
+    </a>
+    <a href="greek-hymns-original/131-i-exodos-ton-israiliton.html" class="song-item">
+        <span class="song-number">131</span>
+        <span class="song-title">Η ΕΞΟΔΟΣ ΤΩΝ ΙΣΡΑΗΛΙΤΩΝ</span>
+    </a>
+    <a href="greek-hymns-original/132-imoyn-amartolos-den-eicha-pote-chara.html" class="song-item">
+        <span class="song-number">132</span>
+        <span class="song-title">ΗΜΟΥΝ ΑΜΑΡΤΩΛΟΣ, ΔΕΝ ΕΙΧΑ ΠΟΤΕ ΧΑΡΑ</span>
+    </a>
+    <a href="greek-hymns-original/133-imoyn-amartolos-chamenos-sti-zoi.html" class="song-item">
+        <span class="song-number">133</span>
+        <span class="song-title">ΗΜΟΥΝ ΑΜΑΡΤΩΛΟΣ, ΧΑΜΕΝΟΣ ΣΤΗ ΖΩΗ</span>
+    </a>
+    <a href="greek-hymns-original/134-imoyn-dystychis-choris-christo.html" class="song-item">
+        <span class="song-number">134</span>
+        <span class="song-title">ΗΜΟΥΝ ΔΥΣΤΥΧΗΣ ΧΩΡΙΣ ΧΡΙΣΤΟ</span>
+    </a>
+    <a href="greek-hymns-original/135-imoyn-i-mera-dichos-ton-ilio.html" class="song-item">
+        <span class="song-number">135</span>
+        <span class="song-title">ΗΜΟΥΝ Η ΜΕΡΑ ΔΙΧΩΣ ΤΟΝ ΗΛΙΟ</span>
+    </a>
+    <a href="greek-hymns-original/136-imoyna-ston-kosmo-toyto.html" class="song-item">
+        <span class="song-number">136</span>
+        <span class="song-title">ΗΜΟΥΝΑ ΣΤΟΝ ΚΟΣΜΟ ΤΟΥΤΟ</span>
+    </a>
+    <a href="greek-hymns-original/137-kathe-mera-eis-toys-kolpoys.html" class="song-item">
+        <span class="song-number">137</span>
+        <span class="song-title">ΚΑΘΕ ΜΕΡΑ ΕΙΣ ΤΟΥΣ ΚΟΛΠΟΥΣ</span>
+    </a>
+    <a href="greek-hymns-original/138-kathos-eimai-eleeinos.html" class="song-item">
+        <span class="song-number">138</span>
+        <span class="song-title">ΚΑΘΩΣ ΕΙΜΑΙ ΕΛΕΕΙΝΟΣ</span>
+    </a>
+    <a href="greek-hymns-original/139-kapoios-tyflos.html" class="song-item">
+        <span class="song-number">139</span>
+        <span class="song-title">ΚΑΠΟΙΟΣ ΤΥΦΛΟΣ</span>
+    </a>
+    <a href="greek-hymns-original/140-me-to-christo-echo-pia-stayrothei.html" class="song-item">
+        <span class="song-number">140</span>
+        <span class="song-title">ΜΕ ΤΟ ΧΡΙΣΤΟ ΕΧΩ ΠΙΑ ΣΤΑΥΡΩΘΕΙ</span>
+    </a>
+    <a href="greek-hymns-original/141-megali-i-chari-soy-s-emena.html" class="song-item">
+        <span class="song-number">141</span>
+        <span class="song-title">ΜΕΓΑΛΗ Η ΧΑΡΗ ΣΟΥ Σ' ΕΜΕΝΑ</span>
+    </a>
+    <a href="greek-hymns-original/142-mes-sta-dynata-soy-cheria.html" class="song-item">
+        <span class="song-number">142</span>
+        <span class="song-title">ΜΕΣ ΣΤΑ ΔΥΝΑΤΑ ΣΟΥ ΧΕΡΙΑ</span>
+    </a>
+    <a href="greek-hymns-original/143-mesa-sto-pykno-skotadi.html" class="song-item">
+        <span class="song-number">143</span>
+        <span class="song-title">ΜΕΣΑ ΣΤΟ ΠΥΚΝΟ ΣΚΟΤΑΔΙ</span>
+    </a>
+    <a href="greek-hymns-original/144-min-aporeis-giati-klaio.html" class="song-item">
+        <span class="song-number">144</span>
+        <span class="song-title">ΜΗΝ ΑΠΟΡΕΙΣ ΓΙΑΤΙ ΚΛΑΙΩ</span>
+    </a>
+    <a href="greek-hymns-original/145-mia-eirini-vathia.html" class="song-item">
+        <span class="song-number">145</span>
+        <span class="song-title">ΜΙΑ ΕΙΡΗΝΗ ΒΑΘΙΑ</span>
+    </a>
+    <a href="greek-hymns-original/146-nai-episteysa-s-ayton.html" class="song-item">
+        <span class="song-number">146</span>
+        <span class="song-title">ΝΑΙ, ΕΠΙΣΤΕΥΣΑ Σ' ΑΥΤΟΝ</span>
+    </a>
+    <a href="greek-hymns-original/147-o-kyrios-moy-m-ekalese.html" class="song-item">
+        <span class="song-number">147</span>
+        <span class="song-title">Ο ΚΥΡΙΟΣ ΜΟΥ Μ' ΕΚΑΛΕΣΕ</span>
+    </a>
+    <a href="greek-hymns-original/148-o-kosmos-den-me-ikanopoiei.html" class="song-item">
+        <span class="song-number">148</span>
+        <span class="song-title">Ο ΚΟΣΜΟΣ ΔΕΝ ΜΕ ΙΚΑΝΟΠΟΙΕΙ</span>
+    </a>
+    <a href="greek-hymns-original/149-o-kyrios-o-agios.html" class="song-item">
+        <span class="song-number">149</span>
+        <span class="song-title">Ο ΚΥΡΙΟΣ, Ο ΑΓΙΟΣ</span>
+    </a>
+    <a href="greek-hymns-original/150-orgi-theoy-itan-prota-se-me.html" class="song-item">
+        <span class="song-number">150</span>
+        <span class="song-title">ΟΡΓΗ ΘΕΟΥ ΗΤΑΝ ΠΡΩΤΑ ΣΕ ΜΕ</span>
+    </a>
+    <a href="greek-hymns-original/151-paidi-moy-esy-agapito.html" class="song-item">
+        <span class="song-number">151</span>
+        <span class="song-title">ΠΑΙΔΙ ΜΟΥ, ΕΣΥ, ΑΓΑΠΗΤΟ</span>
+    </a>
+    <a href="greek-hymns-original/152-pane-tosa-chronia.html" class="song-item">
+        <span class="song-number">152</span>
+        <span class="song-title">ΠΑΝΕ ΤΟΣΑ ΧΡΟΝΙΑ</span>
+    </a>
+    <a href="greek-hymns-original/153-panta-ap-ta-mikra-moy-chronia.html" class="song-item">
+        <span class="song-number">153</span>
+        <span class="song-title">ΠΑΝΤΑ ΑΠ' ΤΑ ΜΙΚΡΑ ΜΟΥ ΧΡΟΝΙΑ</span>
+    </a>
+    <a href="greek-hymns-original/154-panta-tha-menei-sto-noy-zoiri.html" class="song-item">
+        <span class="song-number">154</span>
+        <span class="song-title">ΠΑΝΤΑ ΘΑ ΜΕΝΕΙ ΣΤΟ ΝΟΥ ΖΩΗΡΗ</span>
+    </a>
+    <a href="greek-hymns-original/155-perno-stigmes-mes-sti-zoi.html" class="song-item">
+        <span class="song-number">155</span>
+        <span class="song-title">ΠΕΡΝΩ ΣΤΙΓΜΕΣ ΜΕΣ ΣΤΗ ΖΩΗ</span>
+    </a>
+    <a href="greek-hymns-original/156-polloi-irthan-apo-makria.html" class="song-item">
+        <span class="song-number">156</span>
+        <span class="song-title">ΠΟΛΛΟΙ ΗΡΘΑΝ ΑΠΟ ΜΑΚΡΙΑ</span>
+    </a>
+    <a href="greek-hymns-original/157-poly-palia-ta-nea.html" class="song-item">
+        <span class="song-number">157</span>
+        <span class="song-title">ΠΟΛΥ ΠΑΛΙΑ ΤΑ ΝΕΑ</span>
+    </a>
+    <a href="greek-hymns-original/158-pote-den-ixera-giati.html" class="song-item">
+        <span class="song-number">158</span>
+        <span class="song-title">ΠΟΤΕ ΔΕΝ ΗΞΕΡΑ ΓΙΑΤΙ</span>
+    </a>
+    <a href="greek-hymns-original/159-proseklithin-stin-vasileia.html" class="song-item">
+        <span class="song-number">159</span>
+        <span class="song-title">ΠΡΟΣΕΚΛΗΘΗΝ ΣΤΗΝ ΒΑΣΙΛΕΙΑ</span>
+    </a>
+    <a href="greek-hymns-original/160-s-eida-mes-sta-asteria-t-oyranoy.html" class="song-item">
+        <span class="song-number">160</span>
+        <span class="song-title">Σ' ΕΙΔΑ ΜΕΣ ΣΤΑ ΑΣΤΕΡΙΑ Τ' ΟΥΡΑΝΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/161-san-ekeini-ti-gynaika.html" class="song-item">
+        <span class="song-number">161</span>
+        <span class="song-title">ΣΑΝ ΕΚΕΙΝΗ ΤΗ ΓΥΝΑΙΚΑ</span>
+    </a>
+    <a href="greek-hymns-original/162-san-thymamai-poy-vriskomoyn.html" class="song-item">
+        <span class="song-number">162</span>
+        <span class="song-title">ΣΑΝ ΘΥΜΑΜΑΙ ΠΟΥ ΒΡΙΣΚΟΜΟΥΝ</span>
+    </a>
+    <a href="greek-hymns-original/163-san-chamenos-sti-zoi.html" class="song-item">
+        <span class="song-number">163</span>
+        <span class="song-title">ΣΑΝ ΧΑΜΕΝΟΣ ΣΤΗ ΖΩΗ</span>
+    </a>
+    <a href="greek-hymns-original/164-sta-podia-soy-patera-moy.html" class="song-item">
+        <span class="song-number">164</span>
+        <span class="song-title">ΣΤΑ ΠΟΔΙΑ ΣΟΥ, ΠΑΤΕΡΑ ΜΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/165-sti-zoi-peripatoysa-dystychis.html" class="song-item">
+        <span class="song-number">165</span>
+        <span class="song-title">ΣΤΗ ΖΩΗ ΠΕΡΙΠΑΤΟΥΣΑ ΔΥΣΤΥΧΗΣ</span>
+    </a>
+    <a href="greek-hymns-original/166-sto-skotadi-dichos-fos.html" class="song-item">
+        <span class="song-number">166</span>
+        <span class="song-title">ΣΤΟ ΣΚΟΤΑΔΙ ΔΙΧΩΣ ΦΩΣ</span>
+    </a>
+    <a href="greek-hymns-original/167-tin-ora-poy-elega.html" class="song-item">
+        <span class="song-number">167</span>
+        <span class="song-title">ΤΗΝ ΩΡΑ ΠΟΥ ΕΛΕΓΑ</span>
+    </a>
+    <a href="greek-hymns-original/168-ti-oraia-ginet-i-zoi-mas.html" class="song-item">
+        <span class="song-number">168</span>
+        <span class="song-title">ΤΙ ΩΡΑΙΑ ΓΙΝΕΤ' Η ΖΩΗ ΜΑΣ</span>
+    </a>
+    <a href="greek-hymns-original/169-ti-eytychis-imer-ayti.html" class="song-item">
+        <span class="song-number">169</span>
+        <span class="song-title">ΤΙ ΕΥΤΥΧΗΣ ΗΜΕΡ' ΑΥΤΗ</span>
+    </a>
+    <a href="greek-hymns-original/170-ti-thaymasti-stigmi.html" class="song-item">
+        <span class="song-number">170</span>
+        <span class="song-title">ΤΙ ΘΑΥΜΑΣΤΗ ΣΤΙΓΜΗ</span>
+    </a>
+    <a href="greek-hymns-original/171-to-aima-toy-christoy.html" class="song-item">
+        <span class="song-number">171</span>
+        <span class="song-title">ΤΟ ΑΙΜΑ ΤΟΥ ΧΡΙΣΤΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/172-christos-i-ampelos.html" class="song-item">
+        <span class="song-number">172</span>
+        <span class="song-title">ΧΡΙΣΤΟΣ Η ΑΜΠΕΛΟΣ</span>
+    </a>
+    <a href="greek-hymns-original/173-christe-m-esen-apektisa.html" class="song-item">
+        <span class="song-number">173</span>
+        <span class="song-title">ΧΡΙΣΤΕ, Μ' ΕΣΕΝ' ΑΠΕΚΤΗΣΑ</span>
+    </a>
+    <a href="greek-hymns-original/174-psychi-kai-soma-moy.html" class="song-item">
+        <span class="song-number">174</span>
+        <span class="song-title">ΨΥΧΗ ΚΑΙ ΣΩΜΑ ΜΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/175-o-ergo-tis-theias-agapis.html" class="song-item">
+        <span class="song-number">175</span>
+        <span class="song-title">Ω ΕΡΓΟ ΤΗΣ ΘΕΙΑΣ ΑΓΑΠΗΣ</span>
+    </a>
+    <a href="greek-hymns-original/176-o-thee-odigise-me.html" class="song-item">
+        <span class="song-number">176</span>
+        <span class="song-title">Ω ΘΕΕ, ΟΔΗΓΗΣΕ ΜΕ</span>
+    </a>
+    <a href="greek-hymns-original/177-o-pos-agapo.html" class="song-item">
+        <span class="song-number">177</span>
+        <span class="song-title">Ω, ΠΩΣ ΑΓΑΠΩ</span>
+    </a>
+    <a href="greek-hymns-original/178-o-ti-aggelma-glyko.html" class="song-item">
+        <span class="song-number">178</span>
+        <span class="song-title">Ω, ΤΙ ΑΓΓΕΛΜΑ ΓΛΥΚΟ!</span>
+    </a>
+    <a href="greek-hymns-original/179-agapi-theia-kai-thaymasti.html" class="song-item">
+        <span class="song-number">179</span>
+        <span class="song-title">ΑΓΑΠΗ ΘΕΙΑ ΚΑΙ ΘΑΥΜΑΣΤΗ</span>
+    </a>
+    <a href="greek-hymns-original/180-varies-alysides.html" class="song-item">
+        <span class="song-number">180</span>
+        <span class="song-title">ΒΑΡΙΕΣ ΑΛΥΣΙΔΕΣ</span>
+    </a>
+    <a href="greek-hymns-original/181-vrika-chari-doxa-kai-timi.html" class="song-item">
+        <span class="song-number">181</span>
+        <span class="song-title">ΒΡΗΚΑ ΧΑΡΗ, ΔΟΞΑ ΚΑΙ ΤΙΜΗ</span>
+    </a>
+    <a href="greek-hymns-original/182-den-mporo-na-xechaso.html" class="song-item">
+        <span class="song-number">182</span>
+        <span class="song-title">ΔΕΝ ΜΠΟΡΩ ΝΑ ΞΕΧΑΣΩ</span>
+    </a>
+    <a href="greek-hymns-original/183-einai-chara-na-zeis.html" class="song-item">
+        <span class="song-number">183</span>
+        <span class="song-title">ΕΙΝΑΙ ΧΑΡΑ ΝΑ ΖΕΙΣ</span>
+    </a>
+    <a href="greek-hymns-original/184-endyma-leyko.html" class="song-item">
+        <span class="song-number">184</span>
+        <span class="song-title">ΕΝΔΥΜΑ ΛΕΥΚΟ</span>
+    </a>
+    <a href="greek-hymns-original/185-echeis-peira-sy-tis-theias.html" class="song-item">
+        <span class="song-number">185</span>
+        <span class="song-title">ΕΧΕΙΣ ΠΕΙΡΑ ΣΥ ΤΗΣ ΘΕΙΑΣ</span>
+    </a>
+    <a href="greek-hymns-original/186-tha-psallo-toy-theoy-agapi.html" class="song-item">
+        <span class="song-number">186</span>
+        <span class="song-title">ΘΑ ΨΑΛΛΩ ΤΟΥ ΘΕΟΥ ΑΓΑΠΗ</span>
+    </a>
+    <a href="greek-hymns-original/187-nai-tha-mpo-stis-ayles.html" class="song-item">
+        <span class="song-number">187</span>
+        <span class="song-title">ΝΑΙ, ΘΑ ΜΠΩ ΣΤΙΣ ΑΥΛΕΣ</span>
+    </a>
+    <a href="greek-hymns-original/188-όtan-imoyna-se-thlipsi.html" class="song-item">
+        <span class="song-number">188</span>
+        <span class="song-title">ΌΤΑΝ ΗΜΟΥΝΑ ΣΕ ΘΛΙΨΗ</span>
+    </a>
+    <a href="greek-hymns-original/189-potheis-na-chaireis-eis-christon.html" class="song-item">
+        <span class="song-number">189</span>
+        <span class="song-title">ΠΟΘΕΙΣ ΝΑ ΧΑΙΡΕΙΣ ΕΙΣ ΧΡΙΣΤΟΝ</span>
+    </a>
+    <a href="greek-hymns-original/190-ti-eytychia-kai-chara.html" class="song-item">
+        <span class="song-number">190</span>
+        <span class="song-title">ΤΙ ΕΥΤΥΧΙΑ ΚΑΙ ΧΑΡΑ</span>
+    </a>
+    <a href="greek-hymns-original/191-ti-chara-alithini.html" class="song-item">
+        <span class="song-number">191</span>
+        <span class="song-title">ΤΙ ΧΑΡΑ ΑΛΗΘΙΝΗ</span>
+    </a>
+    <a href="greek-hymns-original/192-chairetai-kai-psallei-i-kardia-mas.html" class="song-item">
+        <span class="song-number">192</span>
+        <span class="song-title">ΧΑΙΡΕΤΑΙ ΚΑΙ ΨΑΛΛΕΙ Η ΚΑΡΔΙΑ ΜΑΣ</span>
+    </a>
+    <a href="greek-hymns-original/193-chairomai-poy-o-christos-m-agapa.html" class="song-item">
+        <span class="song-number">193</span>
+        <span class="song-title">ΧΑΙΡΟΜΑΙ ΠΟΥ Ο ΧΡΙΣΤΟΣ Μ' ΑΓΑΠΑ</span>
+    </a>
+    <a href="greek-hymns-original/194-chara-megali-echo.html" class="song-item">
+        <span class="song-number">194</span>
+        <span class="song-title">ΧΑΡΑ ΜΕΓΑΛΗ ΕΧΩ</span>
+    </a>
+    <a href="greek-hymns-original/195-as-pame-oloi-oi-pistoi.html" class="song-item">
+        <span class="song-number">195</span>
+        <span class="song-title">ΑΣ ΠΑΜΕ ΟΛΟΙ ΟΙ ΠΙΣΤΟΙ</span>
+    </a>
+    <a href="greek-hymns-original/196-vadize-empros.html" class="song-item">
+        <span class="song-number">196</span>
+        <span class="song-title">ΒΑΔΙΖΕ ΕΜΠΡΟΣ</span>
+    </a>
+    <a href="greek-hymns-original/197-giati-ego-lypamai.html" class="song-item">
+        <span class="song-number">197</span>
+        <span class="song-title">ΓΙΑΤΙ ΕΓΩ ΛΥΠΑΜΑΙ</span>
+    </a>
+    <a href="greek-hymns-original/198-ematha-na-meno-panta.html" class="song-item">
+        <span class="song-number">198</span>
+        <span class="song-title">ΕΜΑΘΑ ΝΑ ΜΕΝΩ ΠΑΝΤΑ</span>
+    </a>
+    <a href="greek-hymns-original/199-tha-ton-doxologo.html" class="song-item">
+        <span class="song-number">199</span>
+        <span class="song-title">ΘΑ ΤΟΝ ΔΟΞΟΛΟΓΩ</span>
+    </a>
+    <a href="greek-hymns-original/200-ton-iisoy-moy-th-akoloythiso.html" class="song-item">
+        <span class="song-number">200</span>
+        <span class="song-title">ΤΟΝ ΙΗΣΟΥ ΜΟΥ Θ' ΑΚΟΛΟΥΘΗΣΩ</span>
+    </a>
+    <a href="greek-hymns-original/201-aggeloi-ston-oyrano.html" class="song-item">
+        <span class="song-number">201</span>
+        <span class="song-title">ΑΓΓΕΛΟΙ ΣΤΟΝ ΟΥΡΑΝΟ</span>
+    </a>
+    <a href="greek-hymns-original/202-akoysan-ftochoi-poimenes.html" class="song-item">
+        <span class="song-number">202</span>
+        <span class="song-title">ΑΚΟΥΣΑΝ ΦΤΩΧΟΙ ΠΟΙΜΕΝΕΣ</span>
+    </a>
+    <a href="greek-hymns-original/203-ano-lampei-o-astir.html" class="song-item">
+        <span class="song-number">203</span>
+        <span class="song-title">ΑΝΩ ΛΑΜΠΕΙ Ο ΑΣΤΗΡ</span>
+    </a>
+    <a href="greek-hymns-original/204-apo-t-oyranoy-ti-chora.html" class="song-item">
+        <span class="song-number">204</span>
+        <span class="song-title">ΑΠΟ Τ' ΟΥΡΑΝΟΥ ΤΗ ΧΩΡΑ</span>
+    </a>
+    <a href="greek-hymns-original/205-gennithike.html" class="song-item">
+        <span class="song-number">205</span>
+        <span class="song-title">ΓΕΝΝΗΘΗΚΕ</span>
+    </a>
+    <a href="greek-hymns-original/206-doxa-doxa-theo-en-ypsistois.html" class="song-item">
+        <span class="song-number">206</span>
+        <span class="song-title">ΔΟΞΑ, ΔΟΞΑ ΘΕΩ ΕΝ ΥΨΙΣΤΟΙΣ!</span>
+    </a>
+    <a href="greek-hymns-original/207-edothike-se-mas-yios.html" class="song-item">
+        <span class="song-number">207</span>
+        <span class="song-title">ΕΔΟΘΗΚΕ ΣΕ ΜΑΣ ΥΙΟΣ</span>
+    </a>
+    <a href="greek-hymns-original/208-eidan-to-lampro-asteri.html" class="song-item">
+        <span class="song-number">208</span>
+        <span class="song-title">ΕΙΔΑΝ ΤΟ ΛΑΜΠΡΟ ΑΣΤΕΡΙ</span>
+    </a>
+    <a href="greek-hymns-original/209-elate-pistoi.html" class="song-item">
+        <span class="song-number">209</span>
+        <span class="song-title">ΕΛΑΤΕ, ΠΙΣΤΟΙ</span>
+    </a>
+    <a href="greek-hymns-original/210-idoy-se-mas-theoy-yios.html" class="song-item">
+        <span class="song-number">210</span>
+        <span class="song-title">ΙΔΟΥ ΣΕ ΜΑΣ ΘΕΟΥ ΥΙΟΣ!</span>
+    </a>
+    <a href="greek-hymns-original/211-mia-nychta-mesa-sti-fatni.html" class="song-item">
+        <span class="song-number">211</span>
+        <span class="song-title">ΜΙΑ ΝΥΧΤΑ ΜΕΣΑ ΣΤΗ ΦΑΤΝΗ</span>
+    </a>
+    <a href="greek-hymns-original/212-nychta-glykia-siopili.html" class="song-item">
+        <span class="song-number">212</span>
+        <span class="song-title">ΝΥΧΤΑ ΓΛΥΚΙΑ, ΣΙΩΠΗΛΗ</span>
+    </a>
+    <a href="greek-hymns-original/213-nychta-glykia-t-asteria-soy.html" class="song-item">
+        <span class="song-number">213</span>
+        <span class="song-title">ΝΥΧΤΑ ΓΛΥΚΙΑ, Τ' ΑΣΤΕΡΙΑ ΣΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/214-o-vasilias-mas-gennithike.html" class="song-item">
+        <span class="song-number">214</span>
+        <span class="song-title">Ο ΒΑΣΙΛΙΑΣ ΜΑΣ ΓΕΝΝΗΘΗΚΕ</span>
+    </a>
+    <a href="greek-hymns-original/215-oi-ontes-en-to-skotei.html" class="song-item">
+        <span class="song-number">215</span>
+        <span class="song-title">ΟΙ ΟΝΤΕΣ ΕΝ ΤΩ ΣΚΟΤΕΙ</span>
+    </a>
+    <a href="greek-hymns-original/216-sta-oyrania-aggeloi.html" class="song-item">
+        <span class="song-number">216</span>
+        <span class="song-title">ΣΤΑ ΟΥΡΑΝΙΑ ΑΓΓΕΛΟΙ</span>
+    </a>
+    <a href="greek-hymns-original/217-christe-mprosta-sti-fatni-soy.html" class="song-item">
+        <span class="song-number">217</span>
+        <span class="song-title">ΧΡΙΣΤΕ, ΜΠΡΟΣΤΑ ΣΤΗ ΦΑΤΝΗ ΣΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/218-chronia-prin-mia-krya-nychta.html" class="song-item">
+        <span class="song-number">218</span>
+        <span class="song-title">ΧΡΟΝΙΑ ΠΡΙΝ ΜΙΑ ΚΡΥΑ ΝΥΧΤΑ</span>
+    </a>
+    <a href="greek-hymns-original/219-o-ela-emmanoyil.html" class="song-item">
+        <span class="song-number">219</span>
+        <span class="song-title">Ω, ΕΛΑ, ΕΜΜΑΝΟΥΗΛ!</span>
+    </a>
+    <a href="greek-hymns-original/220-viastika-perase-pali.html" class="song-item">
+        <span class="song-number">220</span>
+        <span class="song-title">ΒΙΑΣΤΙΚΑ ΠΕΡΑΣΕ ΠΑΛΙ</span>
+    </a>
+    <a href="greek-hymns-original/221-paei-o-palios-o-chronos.html" class="song-item">
+        <span class="song-number">221</span>
+        <span class="song-title">ΠΑΕΙ Ο ΠΑΛΙΟΣ Ο ΧΡΟΝΟΣ</span>
+    </a>
+    <a href="greek-hymns-original/222-poso-syntomos-einai-o-kairos.html" class="song-item">
+        <span class="song-number">222</span>
+        <span class="song-title">ΠΟΣΟ ΣΥΝΤΟΜΟΣ ΕΙΝΑΙ Ο ΚΑΙΡΟΣ</span>
+    </a>
+    <a href="greek-hymns-original/223-eyfranthiti-o-thygater-sion.html" class="song-item">
+        <span class="song-number">223</span>
+        <span class="song-title">ΕΥΦΡΑΝΘΗΤΙ, Ω ΘΥΓΑΤΕΡ ΣΙΩΝ!</span>
+    </a>
+    <a href="greek-hymns-original/224-saleyoyn-dafnes.html" class="song-item">
+        <span class="song-number">224</span>
+        <span class="song-title">ΣΑΛΕΥΟΥΝ ΔΑΦΝΕΣ</span>
+    </a>
+    <a href="greek-hymns-original/225-agapi-tryferi.html" class="song-item">
+        <span class="song-number">225</span>
+        <span class="song-title">ΑΓΑΠΗ ΤΡΥΦΕΡΗ</span>
+    </a>
+    <a href="greek-hymns-original/226-amartole-apethane.html" class="song-item">
+        <span class="song-number">226</span>
+        <span class="song-title">ΑΜΑΡΤΩΛΕ, ΑΠΕΘΑΝΕ</span>
+    </a>
+    <a href="greek-hymns-original/227-ap-to-aima-toy-stayroy-soy.html" class="song-item">
+        <span class="song-number">227</span>
+        <span class="song-title">ΑΠ' ΤΟ ΑΙΜΑ ΤΟΥ ΣΤΑΥΡΟΥ ΣΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/228-arga-kratontas-to-stayro.html" class="song-item">
+        <span class="song-number">228</span>
+        <span class="song-title">ΑΡΓΑ ΚΡΑΤΩΝΤΑΣ ΤΟ ΣΤΑΥΡΟ</span>
+    </a>
+    <a href="greek-hymns-original/229-gnorizo-mia-fora.html" class="song-item">
+        <span class="song-number">229</span>
+        <span class="song-title">ΓΝΩΡΙΖΩ ΜΙΑ ΦΟΡΑ</span>
+    </a>
+    <a href="greek-hymns-original/230-eis-toy-golgotha-to-vracho.html" class="song-item">
+        <span class="song-number">230</span>
+        <span class="song-title">ΕΙΣ ΤΟΥ ΓΟΛΓΟΘΑ ΤΟ ΒΡΑΧΟ</span>
+    </a>
+    <a href="greek-hymns-original/231-ekei-psila-ston-golgotha.html" class="song-item">
+        <span class="song-number">231</span>
+        <span class="song-title">ΕΚΕΙ ΨΗΛΑ ΣΤΟΝ ΓΟΛΓΟΘΑ</span>
+    </a>
+    <a href="greek-hymns-original/232-zo-ta-logia-ekeina.html" class="song-item">
+        <span class="song-number">232</span>
+        <span class="song-title">ΖΩ ΤΑ ΛΟΓΙΑ ΕΚΕΙΝΑ</span>
+    </a>
+    <a href="greek-hymns-original/233-i-nychta-skythropi.html" class="song-item">
+        <span class="song-number">233</span>
+        <span class="song-title">Η ΝΥΧΤΑ ΣΚΥΘΡΩΠΗ</span>
+    </a>
+    <a href="greek-hymns-original/234-irthes-arage.html" class="song-item">
+        <span class="song-number">234</span>
+        <span class="song-title">ΗΡΘΕΣ ΑΡΑΓΕ</span>
+    </a>
+    <a href="greek-hymns-original/235-thraystikes-san-alavastro.html" class="song-item">
+        <span class="song-number">235</span>
+        <span class="song-title">ΘΡΑΥΣΤΗΚΕΣ ΣΑΝ ΑΛΑΒΑΣΤΡΟ</span>
+    </a>
+    <a href="greek-hymns-original/236-«ide-o-anthropos»-ide.html" class="song-item">
+        <span class="song-number">236</span>
+        <span class="song-title">«ΙΔΕ Ο ΑΝΘΡΩΠΟΣ!» ΙΔΕ!</span>
+    </a>
+    <a href="greek-hymns-original/237-kaneis-den-mporoyse.html" class="song-item">
+        <span class="song-number">237</span>
+        <span class="song-title">ΚΑΝΕΙΣ ΔΕΝ ΜΠΟΡΟΥΣΕ</span>
+    </a>
+    <a href="greek-hymns-original/238-me-deos-stekomai.html" class="song-item">
+        <span class="song-number">238</span>
+        <span class="song-title">ΜΕ ΔΕΟΣ ΣΤΕΚΟΜΑΙ</span>
+    </a>
+    <a href="greek-hymns-original/239-nai-ekei-eis-to-stayro.html" class="song-item">
+        <span class="song-number">239</span>
+        <span class="song-title">ΝΑΙ, ΕΚΕΙ ΕΙΣ ΤΟ ΣΤΑΥΡΟ</span>
+    </a>
+    <a href="greek-hymns-original/240-o-glykys-kai-lampros.html" class="song-item">
+        <span class="song-number">240</span>
+        <span class="song-title">Ο ΓΛΥΚΥΣ ΚΑΙ ΛΑΜΠΡΟΣ</span>
+    </a>
+    <a href="greek-hymns-original/241-o-christos-ilthe-gia-me.html" class="song-item">
+        <span class="song-number">241</span>
+        <span class="song-title">Ο ΧΡΙΣΤΟΣ ΗΛΘΕ ΓΙΑ ΜΕ</span>
+    </a>
+    <a href="greek-hymns-original/242-o-christos-mas-katevike.html" class="song-item">
+        <span class="song-number">242</span>
+        <span class="song-title">Ο ΧΡΙΣΤΟΣ ΜΑΣ ΚΑΤΕΒΗΚΕ</span>
+    </a>
+    <a href="greek-hymns-original/243-o-christos-moy-sto-stayro.html" class="song-item">
+        <span class="song-number">243</span>
+        <span class="song-title">Ο ΧΡΙΣΤΟΣ ΜΟΥ ΣΤΟ ΣΤΑΥΡΟ</span>
+    </a>
+    <a href="greek-hymns-original/244-otan-koitazo-sto-stayro.html" class="song-item">
+        <span class="song-number">244</span>
+        <span class="song-title">ΟΤΑΝ ΚΟΙΤΑΖΩ ΣΤΟ ΣΤΑΥΡΟ</span>
+    </a>
+    <a href="greek-hymns-original/245-pano-sto-xylo.html" class="song-item">
+        <span class="song-number">245</span>
+        <span class="song-title">ΠΑΝΩ ΣΤΟ ΞΥΛΟ</span>
+    </a>
+    <a href="greek-hymns-original/246-poios-tha-lytrosei-ese.html" class="song-item">
+        <span class="song-number">246</span>
+        <span class="song-title">ΠΟΙΟΣ ΘΑ ΛΥΤΡΩΣΕΙ ΕΣΕ</span>
+    </a>
+    <a href="greek-hymns-original/247-poios-mporei-s-ayti-ti-gi.html" class="song-item">
+        <span class="song-number">247</span>
+        <span class="song-title">ΠΟΙΟΣ ΜΠΟΡΕΙ Σ' ΑΥΤΗ ΤΗ ΓΗ</span>
+    </a>
+    <a href="greek-hymns-original/248-s-ena-lofo-psila.html" class="song-item">
+        <span class="song-number">248</span>
+        <span class="song-title">Σ' ΕΝΑ ΛΟΦΟ ΨΗΛΑ</span>
+    </a>
+    <a href="greek-hymns-original/249-stin-agapi-moy-epese.html" class="song-item">
+        <span class="song-number">249</span>
+        <span class="song-title">ΣΤΗΝ ΑΓΑΠΗ ΜΟΥ ΕΠΕΣΕ</span>
+    </a>
+    <a href="greek-hymns-original/250-sto-deipno-soy-ton-teleytaio.html" class="song-item">
+        <span class="song-number">250</span>
+        <span class="song-title">ΣΤΟ ΔΕΙΠΝΟ ΣΟΥ ΤΟΝ ΤΕΛΕΥΤΑΙΟ</span>
+    </a>
+    <a href="greek-hymns-original/251-sto-stayro-o-iisoy.html" class="song-item">
+        <span class="song-number">251</span>
+        <span class="song-title">ΣΤΟ ΣΤΑΥΡΟ, Ω ΙΗΣΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/252-sy-poy-noiotheis-koyrasmenos.html" class="song-item">
+        <span class="song-number">252</span>
+        <span class="song-title">ΣΥ ΠΟΥ ΝΟΙΩΘΕΙΣ ΚΟΥΡΑΣΜΕΝΟΣ</span>
+    </a>
+    <a href="greek-hymns-original/253-tis-agapis-o-pateras.html" class="song-item">
+        <span class="song-number">253</span>
+        <span class="song-title">ΤΗΣ ΑΓΑΠΗΣ Ο ΠΑΤΕΡΑΣ</span>
+    </a>
+    <a href="greek-hymns-original/254-ti-eylogimeni-i-pigi.html" class="song-item">
+        <span class="song-number">254</span>
+        <span class="song-title">ΤΙ ΕΥΛΟΓΗΜΕΝΗ Η ΠΗΓΗ</span>
+    </a>
+    <a href="greek-hymns-original/255-to-diko-moy-stayro.html" class="song-item">
+        <span class="song-number">255</span>
+        <span class="song-title">ΤΟ ΔΙΚΟ ΜΟΥ ΣΤΑΥΡΟ</span>
+    </a>
+    <a href="greek-hymns-original/256-toy-stayroy-to-dromo.html" class="song-item">
+        <span class="song-number">256</span>
+        <span class="song-title">ΤΟΥ ΣΤΑΥΡΟΥ ΤΟ ΔΡΟΜΟ</span>
+    </a>
+    <a href="greek-hymns-original/257-yparchei-aimatos-pigi.html" class="song-item">
+        <span class="song-number">257</span>
+        <span class="song-title">ΥΠΑΡΧΕΙ ΑΙΜΑΤΟΣ ΠΗΓΗ</span>
+    </a>
+    <a href="greek-hymns-original/258-o-an-isoyn-ekei-sto-golgotha.html" class="song-item">
+        <span class="song-number">258</span>
+        <span class="song-title">Ω, ΑΝ ΗΣΟΥΝ ΕΚΕΙ ΣΤΟ ΓΟΛΓΟΘΑ</span>
+    </a>
+    <a href="greek-hymns-original/259-o-kefali-agia.html" class="song-item">
+        <span class="song-number">259</span>
+        <span class="song-title">Ω ΚΕΦΑΛΗ ΑΓΙΑ</span>
+    </a>
+    <a href="greek-hymns-original/260-o-ti-thaymasti-dynami-theoy.html" class="song-item">
+        <span class="song-number">260</span>
+        <span class="song-title">Ω! ΤΙ ΘΑΥΜΑΣΤΗ ΔΥΝΑΜΗ ΘΕΟΥ!</span>
+    </a>
+    <a href="greek-hymns-original/261-alliloyia-alliloyia.html" class="song-item">
+        <span class="song-number">261</span>
+        <span class="song-title">ΑΛΛΗΛΟΥΙΑ! ΑΛΛΗΛΟΥΙΑ!</span>
+    </a>
+    <a href="greek-hymns-original/262-anastaseos-imera.html" class="song-item">
+        <span class="song-number">262</span>
+        <span class="song-title">ΑΝΑΣΤΑΣΕΩΣ ΗΜΕΡΑ</span>
+    </a>
+    <a href="greek-hymns-original/263-anestithi-o-christos.html" class="song-item">
+        <span class="song-number">263</span>
+        <span class="song-title">ΑΝΕΣΤΗΘΗ Ο ΧΡΙΣΤΟΣ</span>
+    </a>
+    <a href="greek-hymns-original/264-doxa-doxa-doxa-eis-ton-iisoy-mas.html" class="song-item">
+        <span class="song-number">264</span>
+        <span class="song-title">ΔΟΞΑ, ΔΟΞΑ, ΔΟΞΑ ΕΙΣ ΤΟΝ ΙΗΣΟΥ ΜΑΣ!</span>
+    </a>
+    <a href="greek-hymns-original/265-eyseveis-gynaikes.html" class="song-item">
+        <span class="song-number">265</span>
+        <span class="song-title">ΕΥΣΕΒΕΙΣ ΓΥΝΑΙΚΕΣ</span>
+    </a>
+    <a href="greek-hymns-original/266-eyfranthite-laoi.html" class="song-item">
+        <span class="song-number">266</span>
+        <span class="song-title">ΕΥΦΡΑΝΘΗΤΕ, ΛΑΟΙ</span>
+    </a>
+    <a href="greek-hymns-original/267-na-psachneis-papse.html" class="song-item">
+        <span class="song-number">267</span>
+        <span class="song-title">ΝΑ ΨΑΧΝΕΙΣ ΠΑΨΕ</span>
+    </a>
+    <a href="greek-hymns-original/268-o-thanatos-den-ischyse-s-ayton.html" class="song-item">
+        <span class="song-number">268</span>
+        <span class="song-title">Ο ΘΑΝΑΤΟΣ ΔΕΝ ΙΣΧΥΣΕ Σ' ΑΥΤΟΝ</span>
+    </a>
+    <a href="greek-hymns-original/269-o-lytrotis-anesti.html" class="song-item">
+        <span class="song-number">269</span>
+        <span class="song-title">Ο ΛΥΤΡΩΤΗΣ ΑΝΕΣΤΗ</span>
+    </a>
+    <a href="greek-hymns-original/270-o-christos-o-christos.html" class="song-item">
+        <span class="song-number">270</span>
+        <span class="song-title">Ο ΧΡΙΣΤΟΣ, Ο ΧΡΙΣΤΟΣ</span>
+    </a>
+    <a href="greek-hymns-original/271-doxa-doxa-alliloyia.html" class="song-item">
+        <span class="song-number">271</span>
+        <span class="song-title">ΔΟΞΑ, ΔΟΞΑ! ΑΛΛΗΛΟΥΙΑ!</span>
+    </a>
+    <a href="greek-hymns-original/272-kyrie-moy-prosdokoyme.html" class="song-item">
+        <span class="song-number">272</span>
+        <span class="song-title">ΚΥΡΙΕ ΜΟΥ ΠΡΟΣΔΟΚΟΥΜΕ</span>
+    </a>
+    <a href="greek-hymns-original/273-me-to-christo-mprosta.html" class="song-item">
+        <span class="song-number">273</span>
+        <span class="song-title">ΜΕ ΤΟ ΧΡΙΣΤΟ ΜΠΡΟΣΤΑ</span>
+    </a>
+    <a href="greek-hymns-original/274-me-chara-ego-pros-se.html" class="song-item">
+        <span class="song-number">274</span>
+        <span class="song-title">ΜΕ ΧΑΡΑ ΕΓΩ ΠΡΟΣ ΣΕ</span>
+    </a>
+    <a href="greek-hymns-original/275-oi-apostoloi-synilthan.html" class="song-item">
+        <span class="song-number">275</span>
+        <span class="song-title">ΟΙ ΑΠΟΣΤΟΛΟΙ ΣΥΝΗΛΘΑΝ</span>
+    </a>
+    <a href="greek-hymns-original/276-otan-t-agio-pneyma.html" class="song-item">
+        <span class="song-number">276</span>
+        <span class="song-title">ΟΤΑΝ Τ' ΑΓΙΟ ΠΝΕΥΜΑ</span>
+    </a>
+    <a href="greek-hymns-original/277-perimeneis-dia-tin-epaggelia.html" class="song-item">
+        <span class="song-number">277</span>
+        <span class="song-title">ΠΕΡΙΜΕΝΕΙΣ ΔΙΑ ΤΗΝ ΕΠΑΓΓΕΛΙΑ</span>
+    </a>
+    <a href="greek-hymns-original/278-pneyma-theio-mein-entos-moy.html" class="song-item">
+        <span class="song-number">278</span>
+        <span class="song-title">ΠΝΕΥΜΑ ΘΕΙΟ, ΜΕΙΝ' ΕΝΤΟΣ ΜΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/279-sotira-toy-lamproy-pyros.html" class="song-item">
+        <span class="song-number">279</span>
+        <span class="song-title">ΣΩΤΗΡΑ ΤΟΥ ΛΑΜΠΡΟΥ ΠΥΡΟΣ</span>
+    </a>
+    <a href="greek-hymns-original/280-tin-empistosyni.html" class="song-item">
+        <span class="song-number">280</span>
+        <span class="song-title">ΤΗΝ ΕΜΠΙΣΤΟΣΥΝΗ</span>
+    </a>
+    <a href="greek-hymns-original/281-tin-pentikosti-imera.html" class="song-item">
+        <span class="song-number">281</span>
+        <span class="song-title">ΤΗΝ ΠΕΝΤΗΚΟΣΤΗ ΗΜΕΡΑ</span>
+    </a>
+    <a href="greek-hymns-original/282-to-pneyma-t-agio-tin-pentikosti.html" class="song-item">
+        <span class="song-number">282</span>
+        <span class="song-title">ΤΟ ΠΝΕΥΜΑ Τ' ΑΓΙΟ ΤΗΝ ΠΕΝΤΗΚΟΣΤΗ</span>
+    </a>
+    <a href="greek-hymns-original/283-ton-paraklito-soy-steile.html" class="song-item">
+        <span class="song-number">283</span>
+        <span class="song-title">ΤΟΝ ΠΑΡΑΚΛΗΤΟ ΣΟΥ ΣΤΕΙΛΕ</span>
+    </a>
+    <a href="greek-hymns-original/284-o-edos-o-christos.html" class="song-item">
+        <span class="song-number">284</span>
+        <span class="song-title">Ω, ΕΔΩΣ' Ο ΧΡΙΣΤΟΣ</span>
+    </a>
+    <a href="greek-hymns-original/285-ap-tin-plani-tin-polli.html" class="song-item">
+        <span class="song-number">285</span>
+        <span class="song-title">ΑΠ' ΤΗΝ ΠΛΑΝΗ ΤΗΝ ΠΟΛΛΗ</span>
+    </a>
+    <a href="greek-hymns-original/286-eis-tin-proti-thriskeia.html" class="song-item">
+        <span class="song-number">286</span>
+        <span class="song-title">ΕΙΣ ΤΗΝ ΠΡΩΤΗ ΘΡΗΣΚΕΙΑ</span>
+    </a>
+    <a href="greek-hymns-original/287-imera-i-agia.html" class="song-item">
+        <span class="song-number">287</span>
+        <span class="song-title">ΗΜΕΡΑ Η ΑΓΙΑ</span>
+    </a>
+    <a href="greek-hymns-original/288-skotadi-pykno.html" class="song-item">
+        <span class="song-number">288</span>
+        <span class="song-title">ΣΚΟΤΑΔΙ ΠΥΚΝΟ</span>
+    </a>
+    <a href="greek-hymns-original/289-tis-ekklisias-vasi.html" class="song-item">
+        <span class="song-number">289</span>
+        <span class="song-title">ΤΗΣ ΕΚΚΛΗΣΙΑΣ ΒΑΣΗ</span>
+    </a>
+    <a href="greek-hymns-original/290-chareite-irthe-i-ora.html" class="song-item">
+        <span class="song-number">290</span>
+        <span class="song-title">ΧΑΡΕΙΤΕ ΗΡΘΕ Η ΩΡΑ</span>
+    </a>
+    <a href="greek-hymns-original/291-ayxisi-pisteos.html" class="song-item">
+        <span class="song-number">291</span>
+        <span class="song-title">ΑΥΞΗΣΗ ΠΙΣΤΕΩΣ</span>
+    </a>
+    <a href="greek-hymns-original/292-gnorizo-oti-o-theos.html" class="song-item">
+        <span class="song-number">292</span>
+        <span class="song-title">ΓΝΩΡΙΖΩ ΟΤΙ Ο ΘΕΟΣ</span>
+    </a>
+    <a href="greek-hymns-original/293-empros-n-akoloythisoyme.html" class="song-item">
+        <span class="song-number">293</span>
+        <span class="song-title">ΕΜΠΡΟΣ Ν' ΑΚΟΛΟΥΘΗΣΟΥΜΕ</span>
+    </a>
+    <a href="greek-hymns-original/294-zoi-gia-chari-moy.html" class="song-item">
+        <span class="song-number">294</span>
+        <span class="song-title">ΖΩΗ ΓΙΑ ΧΑΡΗ ΜΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/295-nai-prothymos-paradino.html" class="song-item">
+        <span class="song-number">295</span>
+        <span class="song-title">ΝΑΙ, ΠΡΟΘΥΜΩΣ ΠΑΡΑΔΙΝΩ</span>
+    </a>
+    <a href="greek-hymns-original/296-opoios-chasei-ti-zoi-toy.html" class="song-item">
+        <span class="song-number">296</span>
+        <span class="song-title">ΟΠΟΙΟΣ ΧΑΣΕΙ ΤΗ ΖΩΗ ΤΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/297-pare-oli-ti-zoi.html" class="song-item">
+        <span class="song-number">297</span>
+        <span class="song-title">ΠΑΡΕ ΟΛΗ ΤΗ ΖΩΗ</span>
+    </a>
+    <a href="greek-hymns-original/298-sto-christo-thelo-na-doso.html" class="song-item">
+        <span class="song-number">298</span>
+        <span class="song-title">ΣΤΟ ΧΡΙΣΤΟ ΘΕΛΩ ΝΑ ΔΩΣΩ</span>
+    </a>
+    <a href="greek-hymns-original/299-t-arnoymai-o-christe-moy.html" class="song-item">
+        <span class="song-number">299</span>
+        <span class="song-title">Τ' ΑΡΝΟΥΜΑΙ, Ω ΧΡΙΣΤΕ ΜΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/300-to-thelima-soy-mono-ayto.html" class="song-item">
+        <span class="song-number">300</span>
+        <span class="song-title">ΤΟ ΘΕΛΗΜΑ ΣΟΥ, ΜΟΝΟ ΑΥΤΟ!</span>
+    </a>
+    <a href="greek-hymns-original/301-to-christo-mas-ean-theleis.html" class="song-item">
+        <span class="song-number">301</span>
+        <span class="song-title">ΤΟ ΧΡΙΣΤΟ ΜΑΣ ΕΑΝ ΘΕΛΕΙΣ</span>
+    </a>
+    <a href="greek-hymns-original/302-o-kyrie-moy-poso-lachtaro.html" class="song-item">
+        <span class="song-number">302</span>
+        <span class="song-title">Ω ΚΥΡΙΕ ΜΟΥ, ΠΟΣΟ ΛΑΧΤΑΡΩ</span>
+    </a>
+    <a href="greek-hymns-original/303-anagki-echo-soy.html" class="song-item">
+        <span class="song-number">303</span>
+        <span class="song-title">ΑΝΑΓΚΗ ΕΧΩ ΣΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/304-anisychos-einai-o-kosmos.html" class="song-item">
+        <span class="song-number">304</span>
+        <span class="song-title">ΑΝΗΣΥΧΟΣ ΕΙΝΑΙ Ο ΚΟΣΜΟΣ</span>
+    </a>
+    <a href="greek-hymns-original/305-voithise-me-n-anevo.html" class="song-item">
+        <span class="song-number">305</span>
+        <span class="song-title">ΒΟΗΘΗΣΕ ΜΕ Ν' ΑΝΕΒΩ</span>
+    </a>
+    <a href="greek-hymns-original/306-gi-alli-mia-fora.html" class="song-item">
+        <span class="song-number">306</span>
+        <span class="song-title">ΓΙ' ΑΛΛΗ ΜΙΑ ΦΟΡΑ</span>
+    </a>
+    <a href="greek-hymns-original/307-gia-ti-megali-soy-agapi.html" class="song-item">
+        <span class="song-number">307</span>
+        <span class="song-title">ΓΙΑ ΤΗ ΜΕΓΑΛΗ ΣΟΥ ΑΓΑΠΗ</span>
+    </a>
+    <a href="greek-hymns-original/308-glykeia-ora-proseychis.html" class="song-item">
+        <span class="song-number">308</span>
+        <span class="song-title">ΓΛΥΚΕΙΑ ΩΡΑ ΠΡΟΣΕΥΧΗΣ</span>
+    </a>
+    <a href="greek-hymns-original/309-deichne-moy-kyrie.html" class="song-item">
+        <span class="song-number">309</span>
+        <span class="song-title">ΔΕΙΧΝΕ ΜΟΥ, ΚΥΡΙΕ</span>
+    </a>
+    <a href="greek-hymns-original/310-dos-moy-agapi-thee-moy.html" class="song-item">
+        <span class="song-number">310</span>
+        <span class="song-title">ΔΩΣ' ΜΟΥ ΑΓΑΠΗ, ΘΕΕ ΜΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/311-dos-moy-sotira.html" class="song-item">
+        <span class="song-number">311</span>
+        <span class="song-title">ΔΩΣ' ΜΟΥ, ΣΩΤΗΡΑ</span>
+    </a>
+    <a href="greek-hymns-original/312-eithe-na-eschizes-thee.html" class="song-item">
+        <span class="song-number">312</span>
+        <span class="song-title">ΕΙΘΕ ΝΑ ΕΣΧΙΖΕΣ, ΘΕΕ</span>
+    </a>
+    <a href="greek-hymns-original/313-eim-adynatos-thee.html" class="song-item">
+        <span class="song-number">313</span>
+        <span class="song-title">ΕΙΜ' ΑΔΥΝΑΤΟΣ, ΘΕΕ</span>
+    </a>
+    <a href="greek-hymns-original/314-ein-i-kardia-moy.html" class="song-item">
+        <span class="song-number">314</span>
+        <span class="song-title">ΕΙΝ' Η ΚΑΡΔΙΑ ΜΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/315-etoimi-thee-moy.html" class="song-item">
+        <span class="song-number">315</span>
+        <span class="song-title">ΕΤΟΙΜΗ, ΘΕΕ ΜΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/316-i-elpida-sti-zoi-moy.html" class="song-item">
+        <span class="song-number">316</span>
+        <span class="song-title">Η ΕΛΠΙΔΑ ΣΤΗ ΖΩΗ ΜΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/317-i-pisti-moy-se-se.html" class="song-item">
+        <span class="song-number">317</span>
+        <span class="song-title">Η ΠΙΣΤΗ ΜΟΥ ΣΕ ΣΕ</span>
+    </a>
+    <a href="greek-hymns-original/318-thelo-christe-moy.html" class="song-item">
+        <span class="song-number">318</span>
+        <span class="song-title">ΘΕΛΩ, ΧΡΙΣΤΕ ΜΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/319-thymamai-christe-moy.html" class="song-item">
+        <span class="song-number">319</span>
+        <span class="song-title">ΘΥΜΑΜΑΙ, ΧΡΙΣΤΕ ΜΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/320-iisoy-moy-dioxe-to-fovo.html" class="song-item">
+        <span class="song-number">320</span>
+        <span class="song-title">ΙΗΣΟΥ ΜΟΥ, ΔΙΩΞΕ ΤΟ ΦΟΒΟ</span>
+    </a>
+    <a href="greek-hymns-original/321-kapoia-mera.html" class="song-item">
+        <span class="song-number">321</span>
+        <span class="song-title">ΚΑΠΟΙΑ ΜΕΡΑ</span>
+    </a>
+    <a href="greek-hymns-original/322-kardia-kathari.html" class="song-item">
+        <span class="song-number">322</span>
+        <span class="song-title">ΚΑΡΔΙΑ ΚΑΘΑΡΗ</span>
+    </a>
+    <a href="greek-hymns-original/323-kyrie-afino-tin-kardia-moy.html" class="song-item">
+        <span class="song-number">323</span>
+        <span class="song-title">ΚΥΡΙΕ, ΑΦΗΝΩ ΤΗΝ ΚΑΡΔΙΑ ΜΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/324-kyrie-sy-me-eirinin.html" class="song-item">
+        <span class="song-number">324</span>
+        <span class="song-title">ΚΥΡΙΕ, ΣΥ ΜΕ ΕΙΡΗΝΗΝ</span>
+    </a>
+    <a href="greek-hymns-original/325-me-ta-cheria-psila.html" class="song-item">
+        <span class="song-number">325</span>
+        <span class="song-title">ΜΕ ΤΑ ΧΕΡΙΑ ΨΗΛΑ</span>
+    </a>
+    <a href="greek-hymns-original/326-mono-i-skepsi-moy-se-se.html" class="song-item">
+        <span class="song-number">326</span>
+        <span class="song-title">ΜΟΝΟ Η ΣΚΕΨΗ ΜΟΥ ΣΕ ΣΕ</span>
+    </a>
+    <a href="greek-hymns-original/327-mpros-sto-stayro-soy.html" class="song-item">
+        <span class="song-number">327</span>
+        <span class="song-title">ΜΠΡΟΣ ΣΤΟ ΣΤΑΥΡΟ ΣΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/328-nychta-skepase-kai-pali.html" class="song-item">
+        <span class="song-number">328</span>
+        <span class="song-title">ΝΥΧΤΑ ΣΚΕΠΑΣΕ ΚΑΙ ΠΑΛΙ</span>
+    </a>
+    <a href="greek-hymns-original/329-xero-kyrie-eis-eleimon.html" class="song-item">
+        <span class="song-number">329</span>
+        <span class="song-title">ΞΕΡΩ ΚΥΡΙΕ ΕΙΣ' ΕΛΕΗΜΩΝ</span>
+    </a>
+    <a href="greek-hymns-original/330-otan-elthei-i-nychta.html" class="song-item">
+        <span class="song-number">330</span>
+        <span class="song-title">ΟΤΑΝ ΕΛΘΕΙ Η ΝΥΧΤΑ</span>
+    </a>
+    <a href="greek-hymns-original/331-otan-noiotho-koyrasmenos.html" class="song-item">
+        <span class="song-number">331</span>
+        <span class="song-title">ΟΤΑΝ ΝΟΙΩΘΩ ΚΟΥΡΑΣΜΕΝΟΣ</span>
+    </a>
+    <a href="greek-hymns-original/332-otan-oi-trikymies-elthoyn.html" class="song-item">
+        <span class="song-number">332</span>
+        <span class="song-title">ΟΤΑΝ ΟΙ ΤΡΙΚΥΜΙΕΣ ΕΛΘΟΥΝ</span>
+    </a>
+    <a href="greek-hymns-original/333-panta-as-echo-kathari.html" class="song-item">
+        <span class="song-number">333</span>
+        <span class="song-title">ΠΑΝΤΑ ΑΣ ΕΧΩ ΚΑΘΑΡΗ</span>
+    </a>
+    <a href="greek-hymns-original/334-panta-sto-pleyro-konta-moy.html" class="song-item">
+        <span class="song-number">334</span>
+        <span class="song-title">ΠΑΝΤΑ ΣΤΟ ΠΛΕΥΡΟ ΚΟΝΤΑ ΜΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/335-patera-pantokrator.html" class="song-item">
+        <span class="song-number">335</span>
+        <span class="song-title">ΠΑΤΕΡΑ ΠΑΝΤΟΚΡΑΤΩΡ</span>
+    </a>
+    <a href="greek-hymns-original/336-pote-m-«alliloyia».html" class="song-item">
+        <span class="song-number">336</span>
+        <span class="song-title">ΠΟΤΕ Μ' «ΑΛΛΗΛΟΥΙΑ!»</span>
+    </a>
+    <a href="greek-hymns-original/337-s-agapo-christe.html" class="song-item">
+        <span class="song-number">337</span>
+        <span class="song-title">Σ' ΑΓΑΠΩ, ΧΡΙΣΤΕ</span>
+    </a>
+    <a href="greek-hymns-original/338-san-ayra-glykia.html" class="song-item">
+        <span class="song-number">338</span>
+        <span class="song-title">ΣΑΝ ΑΥΡΑ ΓΛΥΚΙΑ</span>
+    </a>
+    <a href="greek-hymns-original/339-stin-kardia-christe.html" class="song-item">
+        <span class="song-number">339</span>
+        <span class="song-title">ΣΤΗΝ ΚΑΡΔΙΑ, ΧΡΙΣΤΕ</span>
+    </a>
+    <a href="greek-hymns-original/340-stis-thlipseis-stoys-ponoys.html" class="song-item">
+        <span class="song-number">340</span>
+        <span class="song-title">ΣΤΙΣ ΘΛΙΨΕΙΣ, ΣΤΟΥΣ ΠΟΝΟΥΣ</span>
+    </a>
+    <a href="greek-hymns-original/341-ston-endoxo-soy-throno.html" class="song-item">
+        <span class="song-number">341</span>
+        <span class="song-title">ΣΤΟΝ ΕΝΔΟΞΟ ΣΟΥ ΘΡΟΝΟ</span>
+    </a>
+    <a href="greek-hymns-original/342-sy-poy-kosmoys-kyvernas.html" class="song-item">
+        <span class="song-number">342</span>
+        <span class="song-title">ΣΥ ΠΟΥ ΚΟΣΜΟΥΣ ΚΥΒΕΡΝΑΣ</span>
+    </a>
+    <a href="greek-hymns-original/343-t-onoma-soy-latreyo.html" class="song-item">
+        <span class="song-number">343</span>
+        <span class="song-title">Τ' ΟΝΟΜΑ ΣΟΥ ΛΑΤΡΕΥΩ</span>
+    </a>
+    <a href="greek-hymns-original/344-ta-kalytera-logia-moy.html" class="song-item">
+        <span class="song-number">344</span>
+        <span class="song-title">ΤΑ ΚΑΛΥΤΕΡΑ ΛΟΓΙΑ ΜΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/345-ta-matia-moy-psila-ypsono.html" class="song-item">
+        <span class="song-number">345</span>
+        <span class="song-title">ΤΑ ΜΑΤΙΑ ΜΟΥ ΨΗΛΑ ΥΨΩΝΩ</span>
+    </a>
+    <a href="greek-hymns-original/346-ti-ki-an-ta-cheria-soy.html" class="song-item">
+        <span class="song-number">346</span>
+        <span class="song-title">ΤΙ ΚΙ ΑΝ ΤΑ ΧΕΡΙΑ ΣΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/347-ti-mystirio.html" class="song-item">
+        <span class="song-number">347</span>
+        <span class="song-title">ΤΙ ΜΥΣΤΗΡΙΟ</span>
+    </a>
+    <a href="greek-hymns-original/348-tis-vroches-tis-eylogias.html" class="song-item">
+        <span class="song-number">348</span>
+        <span class="song-title">ΤΙΣ ΒΡΟΧΕΣ ΤΗΣ ΕΥΛΟΓΙΑΣ</span>
+    </a>
+    <a href="greek-hymns-original/349-to-ergo-soy-thee.html" class="song-item">
+        <span class="song-number">349</span>
+        <span class="song-title">ΤΟ ΕΡΓΟ ΣΟΥ, ΘΕΕ</span>
+    </a>
+    <a href="greek-hymns-original/350-to-xero-einai-i-chari-soy.html" class="song-item">
+        <span class="song-number">350</span>
+        <span class="song-title">ΤΟ ΞΕΡΩ, ΕΙΝΑΙ Η ΧΑΡΗ ΣΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/351-ypsose-me-yperano.html" class="song-item">
+        <span class="song-number">351</span>
+        <span class="song-title">ΥΨΩΣΕ ΜΕ ΥΠΕΡΑΝΩ</span>
+    </a>
+    <a href="greek-hymns-original/352-fos-tis-psychis-moy.html" class="song-item">
+        <span class="song-number">352</span>
+        <span class="song-title">ΦΩΣ ΤΗΣ ΨΥΧΗΣ ΜΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/353-christe-moy-san-syllogisto.html" class="song-item">
+        <span class="song-number">353</span>
+        <span class="song-title">ΧΡΙΣΤΕ ΜΟΥ, ΣΑΝ ΣΥΛΛΟΓΙΣΤΩ</span>
+    </a>
+    <a href="greek-hymns-original/354-o-thee-tin-proseychi-moy.html" class="song-item">
+        <span class="song-number">354</span>
+        <span class="song-title">Ω ΘΕΕ, ΤΗΝ ΠΡΟΣΕΥΧΗ ΜΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/355-o-kyrie-moy-sy-kai-thee-moy.html" class="song-item">
+        <span class="song-number">355</span>
+        <span class="song-title">Ω ΚΥΡΙΕ ΜΟΥ, ΣΥ, ΚΑΙ ΘΕΕ ΜΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/356-o-pater-imon.html" class="song-item">
+        <span class="song-number">356</span>
+        <span class="song-title">Ω ΠΑΤΕΡ ΗΜΩΝ</span>
+    </a>
+    <a href="greek-hymns-original/357-o-tin-kardia-moy.html" class="song-item">
+        <span class="song-number">357</span>
+        <span class="song-title">Ω! ΤΗΝ ΚΑΡΔΙΑ ΜΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/358-o-skepsi-glykeia.html" class="song-item">
+        <span class="song-number">358</span>
+        <span class="song-title">Ω ΣΚΕΨΗ ΓΛΥΚΕΙΑ</span>
+    </a>
+    <a href="greek-hymns-original/359-o-ti-chara-o-kyrios-me-akoyse.html" class="song-item">
+        <span class="song-number">359</span>
+        <span class="song-title">Ω ΤΙ ΧΑΡΑ! Ο ΚΥΡΙΟΣ ΜΕ ΑΚΟΥΣΕ</span>
+    </a>
+    <a href="greek-hymns-original/360-akoyse-ti-legei-o-kyrios-moy.html" class="song-item">
+        <span class="song-number">360</span>
+        <span class="song-title">ΑΚΟΥΣΕ ΤΙ ΛΕΓΕΙ Ο ΚΥΡΙΟΣ ΜΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/361-anaggeilate-pantoy.html" class="song-item">
+        <span class="song-number">361</span>
+        <span class="song-title">ΑΝΑΓΓΕΙΛΑΤΕ ΠΑΝΤΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/362-aperantos-kampos.html" class="song-item">
+        <span class="song-number">362</span>
+        <span class="song-title">ΑΠΕΡΑΝΤΟΣ ΚΑΜΠΟΣ</span>
+    </a>
+    <a href="greek-hymns-original/363-apo-tis-groilandias.html" class="song-item">
+        <span class="song-number">363</span>
+        <span class="song-title">ΑΠΟ ΤΗΣ ΓΡΟΙΛΑΝΔΙΑΣ</span>
+    </a>
+    <a href="greek-hymns-original/364-dipsaei-i-psychi-moy.html" class="song-item">
+        <span class="song-number">364</span>
+        <span class="song-title">ΔΙΨΑΕΙ Η ΨΥΧΗ ΜΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/365-eis-to-ergo-to-theio.html" class="song-item">
+        <span class="song-number">365</span>
+        <span class="song-title">ΕΙΣ ΤΟ ΕΡΓΟ ΤΟ ΘΕΙΟ</span>
+    </a>
+    <a href="greek-hymns-original/366-itan-mia-mera-o-iisoys.html" class="song-item">
+        <span class="song-number">366</span>
+        <span class="song-title">ΗΤΑΝ ΜΙΑ ΜΕΡΑ Ο ΙΗΣΟΥΣ</span>
+    </a>
+    <a href="greek-hymns-original/367-mia-foni-akoygetai.html" class="song-item">
+        <span class="song-number">367</span>
+        <span class="song-title">ΜΙΑ ΦΩΝΗ ΑΚΟΥΓΕΤΑΙ</span>
+    </a>
+    <a href="greek-hymns-original/368-nai-tha-ergasto.html" class="song-item">
+        <span class="song-number">368</span>
+        <span class="song-title">ΝΑΙ, ΘΑ ΕΡΓΑΣΤΩ</span>
+    </a>
+    <a href="greek-hymns-original/369-otan-fthaso-eis-tin-doxa.html" class="song-item">
+        <span class="song-number">369</span>
+        <span class="song-title">ΟΤΑΝ ΦΘΑΣΩ ΕΙΣ ΤΗΝ ΔΟΞΑ</span>
+    </a>
+    <a href="greek-hymns-original/370-pirame-sta-cheria.html" class="song-item">
+        <span class="song-number">370</span>
+        <span class="song-title">ΠΗΡΑΜΕ ΣΤΑ ΧΕΡΙΑ</span>
+    </a>
+    <a href="greek-hymns-original/371-pos-mporo-na-synantiso.html" class="song-item">
+        <span class="song-number">371</span>
+        <span class="song-title">ΠΩΣ ΜΠΟΡΩ ΝΑ ΣΥΝΑΝΤΗΣΩ</span>
+    </a>
+    <a href="greek-hymns-original/372-s-opoion-topo-to-ichnos.html" class="song-item">
+        <span class="song-number">372</span>
+        <span class="song-title">Σ' ΟΠΟΙΟΝ ΤΟΠΟ ΤΟ ΙΧΝΟΣ</span>
+    </a>
+    <a href="greek-hymns-original/373-speire-tin-proia.html" class="song-item">
+        <span class="song-number">373</span>
+        <span class="song-title">ΣΠΕΙΡΕ ΤΗΝ ΠΡΩΙΑ</span>
+    </a>
+    <a href="greek-hymns-original/374-sy-poy-vrikes-tin-eirini.html" class="song-item">
+        <span class="song-number">374</span>
+        <span class="song-title">ΣΥ ΠΟΥ ΒΡΗΚΕΣ ΤΗΝ ΕΙΡΗΝΗ</span>
+    </a>
+    <a href="greek-hymns-original/375-sose-ton-paschonta.html" class="song-item">
+        <span class="song-number">375</span>
+        <span class="song-title">ΣΩΣΕ ΤΟΝ ΠΑΣΧΟΝΤΑ</span>
+    </a>
+    <a href="greek-hymns-original/376-to-kirygma-toy-logoy.html" class="song-item">
+        <span class="song-number">376</span>
+        <span class="song-title">ΤΟ ΚΗΡΥΓΜΑ ΤΟΥ ΛΟΓΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/377-christiane-ergasoy.html" class="song-item">
+        <span class="song-number">377</span>
+        <span class="song-title">ΧΡΙΣΤΙΑΝΕ, ΕΡΓΑΣΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/378-psallate-seis-to-endoxo.html" class="song-item">
+        <span class="song-number">378</span>
+        <span class="song-title">ΨΑΛΛΑΤΕ ΣΕΙΣ ΤΟ ΕΝΔΟΞΟ</span>
+    </a>
+    <a href="greek-hymns-original/379-o-poios-makria.html" class="song-item">
+        <span class="song-number">379</span>
+        <span class="song-title">Ω! ΠΟΙΟΣ ΜΑΚΡΙΑ</span>
+    </a>
+    <a href="greek-hymns-original/380-akoysa-polles-fores.html" class="song-item">
+        <span class="song-number">380</span>
+        <span class="song-title">ΑΚΟΥΣΑ ΠΟΛΛΕΣ ΦΟΡΕΣ</span>
+    </a>
+    <a href="greek-hymns-original/381-ein-o-theos-mas-dimioyrgos.html" class="song-item">
+        <span class="song-number">381</span>
+        <span class="song-title">ΕΙΝ' Ο ΘΕΟΣ ΜΑΣ ΔΗΜΙΟΥΡΓΟΣ</span>
+    </a>
+    <a href="greek-hymns-original/382-paron-o-megas-iatros.html" class="song-item">
+        <span class="song-number">382</span>
+        <span class="song-title">ΠΑΡΩΝ Ο ΜΕΓΑΣ ΙΑΤΡΟΣ</span>
+    </a>
+    <a href="greek-hymns-original/383-ti-glykeia-aggelia.html" class="song-item">
+        <span class="song-number">383</span>
+        <span class="song-title">ΤΙ ΓΛΥΚΕΙΑ ΑΓΓΕΛΙΑ</span>
+    </a>
+    <a href="greek-hymns-original/384-alliloyia-ti-chara.html" class="song-item">
+        <span class="song-number">384</span>
+        <span class="song-title">ΑΛΛΗΛΟΥΙΑ! ΤΙ ΧΑΡΑ!</span>
+    </a>
+    <a href="greek-hymns-original/385-an-o-kosmos-se-misei.html" class="song-item">
+        <span class="song-number">385</span>
+        <span class="song-title">ΑΝ Ο ΚΟΣΜΟΣ ΣΕ ΜΙΣΕΙ</span>
+    </a>
+    <a href="greek-hymns-original/386-gia-toy-christoy-ti-chari.html" class="song-item">
+        <span class="song-number">386</span>
+        <span class="song-title">ΓΙΑ ΤΟΥ ΧΡΙΣΤΟΥ ΤΗ ΧΑΡΗ</span>
+    </a>
+    <a href="greek-hymns-original/387-den-xechna-den-xechna.html" class="song-item">
+        <span class="song-number">387</span>
+        <span class="song-title">ΔΕΝ ΞΕΧΝΑ, ΔΕΝ ΞΕΧΝΑ!</span>
+    </a>
+    <a href="greek-hymns-original/388-egerthit-oi-sesosmenoi.html" class="song-item">
+        <span class="song-number">388</span>
+        <span class="song-title">ΕΓΕΡΘΗΤ' ΟΙ ΣΕΣΩΣΜΕΝΟΙ</span>
+    </a>
+    <a href="greek-hymns-original/389-ein-aytos-nikitis.html" class="song-item">
+        <span class="song-number">389</span>
+        <span class="song-title">ΕΙΝ' ΑΥΤΟΣ ΝΙΚΗΤΗΣ!</span>
+    </a>
+    <a href="greek-hymns-original/390-empros-se-krazei-o-christos.html" class="song-item">
+        <span class="song-number">390</span>
+        <span class="song-title">ΕΜΠΡΟΣ, ΣΕ ΚΡΑΖΕΙ Ο ΧΡΙΣΤΟΣ</span>
+    </a>
+    <a href="greek-hymns-original/391-erchet-i-nychta.html" class="song-item">
+        <span class="song-number">391</span>
+        <span class="song-title">ΕΡΧΕΤ' Η ΝΥΧΤΑ</span>
+    </a>
+    <a href="greek-hymns-original/392-i-trikymia-voyizei.html" class="song-item">
+        <span class="song-number">392</span>
+        <span class="song-title">Η ΤΡΙΚΥΜΙΑ ΒΟΥΙΖΕΙ</span>
+    </a>
+    <a href="greek-hymns-original/393-tha-se-fylaei-o-theos.html" class="song-item">
+        <span class="song-number">393</span>
+        <span class="song-title">ΘΑ ΣΕ ΦΥΛΑΕΙ Ο ΘΕΟΣ</span>
+    </a>
+    <a href="greek-hymns-original/394-thelo-na-pisteyo.html" class="song-item">
+        <span class="song-number">394</span>
+        <span class="song-title">ΘΕΛΩ ΝΑ ΠΙΣΤΕΥΩ</span>
+    </a>
+    <a href="greek-hymns-original/395-thoryvoi-kai-taraches.html" class="song-item">
+        <span class="song-number">395</span>
+        <span class="song-title">ΘΟΡΥΒΟΙ ΚΑΙ ΤΑΡΑΧΕΣ</span>
+    </a>
+    <a href="greek-hymns-original/396-kai-an-oryetai-o-echthros.html" class="song-item">
+        <span class="song-number">396</span>
+        <span class="song-title">ΚΑΙ ΑΝ ΩΡΥΕΤΑΙ Ο ΕΧΘΡΟΣ</span>
+    </a>
+    <a href="greek-hymns-original/397-kapoia-mera-ekei-stin-iericho.html" class="song-item">
+        <span class="song-number">397</span>
+        <span class="song-title">ΚΑΠΟΙΑ ΜΕΡΑ ΕΚΕΙ ΣΤΗΝ ΙΕΡΙΧΩ</span>
+    </a>
+    <a href="greek-hymns-original/398-me-opla-oyrania.html" class="song-item">
+        <span class="song-number">398</span>
+        <span class="song-title">ΜΕ ΟΠΛΑ ΟΥΡΑΝΙΑ</span>
+    </a>
+    <a href="greek-hymns-original/399-me-ton-iisoy-vadizo-asfalos.html" class="song-item">
+        <span class="song-number">399</span>
+        <span class="song-title">ΜΕ ΤΟΝ ΙΗΣΟΥ ΒΑΔΙΖΩ ΑΣΦΑΛΩΣ</span>
+    </a>
+    <a href="greek-hymns-original/400-menei-statheri.html" class="song-item">
+        <span class="song-number">400</span>
+        <span class="song-title">ΜΕΝΕΙ ΣΤΑΘΕΡΗ</span>
+    </a>
+    <a href="greek-hymns-original/401-mes-ston-trachy-moy-to-dromo.html" class="song-item">
+        <span class="song-number">401</span>
+        <span class="song-title">ΜΕΣ ΣΤΟΝ ΤΡΑΧΥ ΜΟΥ ΤΟ ΔΡΟΜΟ</span>
+    </a>
+    <a href="greek-hymns-original/402-mes-sto-skotadi-to-pykno.html" class="song-item">
+        <span class="song-number">402</span>
+        <span class="song-title">ΜΕΣ ΣΤΟ ΣΚΟΤΑΔΙ ΤΟ ΠΥΚΝΟ</span>
+    </a>
+    <a href="greek-hymns-original/403-mi-fovitheis-se-lytrosa.html" class="song-item">
+        <span class="song-number">403</span>
+        <span class="song-title">ΜΗ ΦΟΒΗΘΕΙΣ, ΣΕ ΛΥΤΡΩΣΑ</span>
+    </a>
+    <a href="greek-hymns-original/404-nai-o-echthros-mes-sti-zoi.html" class="song-item">
+        <span class="song-number">404</span>
+        <span class="song-title">ΝΑΙ, Ο ΕΧΘΡΟΣ ΜΕΣ ΣΤΗ ΖΩΗ</span>
+    </a>
+    <a href="greek-hymns-original/405-o-dromos-soy-erimos.html" class="song-item">
+        <span class="song-number">405</span>
+        <span class="song-title">Ο ΔΡΟΜΟΣ ΣΟΥ ΕΡΗΜΟΣ</span>
+    </a>
+    <a href="greek-hymns-original/406-o-theos-moy-poy-pisteyo.html" class="song-item">
+        <span class="song-number">406</span>
+        <span class="song-title">Ο ΘΕΟΣ ΜΟΥ, ΠΟΥ ΠΙΣΤΕΥΩ</span>
+    </a>
+    <a href="greek-hymns-original/407-o-kyrios-einai-fos-moy.html" class="song-item">
+        <span class="song-number">407</span>
+        <span class="song-title">Ο ΚΥΡΙΟΣ ΕΙΝΑΙ ΦΩΣ ΜΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/408-o-kyrios-th-anoixei-odo-gia-me.html" class="song-item">
+        <span class="song-number">408</span>
+        <span class="song-title">Ο ΚΥΡΙΟΣ Θ' ΑΝΟΙΞΕΙ ΟΔΟ ΓΙΑ ΜΕ</span>
+    </a>
+    <a href="greek-hymns-original/409-opos-to-elafi-panta.html" class="song-item">
+        <span class="song-number">409</span>
+        <span class="song-title">ΟΠΩΣ ΤΟ ΕΛΑΦΙ ΠΑΝΤΑ</span>
+    </a>
+    <a href="greek-hymns-original/410-otan-thlipseis-kai-dokimasies.html" class="song-item">
+        <span class="song-number">410</span>
+        <span class="song-title">ΟΤΑΝ ΘΛΙΨΕΙΣ ΚΑΙ ΔΟΚΙΜΑΣΙΕΣ</span>
+    </a>
+    <a href="greek-hymns-original/411-otan-thyelles-toy-vioy.html" class="song-item">
+        <span class="song-number">411</span>
+        <span class="song-title">ΟΤΑΝ ΘΥΕΛΛΕΣ ΤΟΥ ΒΙΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/412-otan-tis-zois-o-dromos.html" class="song-item">
+        <span class="song-number">412</span>
+        <span class="song-title">ΟΤΑΝ ΤΗΣ ΖΩΗΣ Ο ΔΡΟΜΟΣ</span>
+    </a>
+    <a href="greek-hymns-original/413-otan-ton-ilio-skepazoyn.html" class="song-item">
+        <span class="song-number">413</span>
+        <span class="song-title">ΟΤΑΝ ΤΟΝ ΗΛΙΟ ΣΚΕΠΑΖΟΥΝ</span>
+    </a>
+    <a href="greek-hymns-original/414-panta-fero-ton-stayro-moy.html" class="song-item">
+        <span class="song-number">414</span>
+        <span class="song-title">ΠΑΝΤΑ ΦΕΡΩ ΤΟΝ ΣΤΑΥΡΟ ΜΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/415-piste-ton-kalon-agona.html" class="song-item">
+        <span class="song-number">415</span>
+        <span class="song-title">ΠΙΣΤΕ, ΤΟΝ ΚΑΛΟΝ ΑΓΩΝΑ</span>
+    </a>
+    <a href="greek-hymns-original/416-pros-tin-poli-tin-agia.html" class="song-item">
+        <span class="song-number">416</span>
+        <span class="song-title">ΠΡΟΣ ΤΗΝ ΠΟΛΗ ΤΗΝ ΑΓΙΑ</span>
+    </a>
+    <a href="greek-hymns-original/417-san-stratiotis-toy-christoy.html" class="song-item">
+        <span class="song-number">417</span>
+        <span class="song-title">ΣΑΝ ΣΤΡΑΤΙΩΤΗΣ ΤΟΥ ΧΡΙΣΤΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/418-san-prochoro-me-to-christo.html" class="song-item">
+        <span class="song-number">418</span>
+        <span class="song-title">ΣΑΝ ΠΡΟΧΩΡΩ ΜΕ ΤΟ ΧΡΙΣΤΟ</span>
+    </a>
+    <a href="greek-hymns-original/419-san-ta-ori-poy-menoyn.html" class="song-item">
+        <span class="song-number">419</span>
+        <span class="song-title">ΣΑΝ ΤΑ ΟΡΗ ΠΟΥ ΜΕΝΟΥΝ</span>
+    </a>
+    <a href="greek-hymns-original/420-san-ton-iisoy-den-echo.html" class="song-item">
+        <span class="song-number">420</span>
+        <span class="song-title">ΣΑΝ ΤΟΝ ΙΗΣΟΥ ΔΕΝ ΕΧΩ</span>
+    </a>
+    <a href="greek-hymns-original/421-sta-voyna-psila.html" class="song-item">
+        <span class="song-number">421</span>
+        <span class="song-title">ΣΤΑ ΒΟΥΝΑ ΨΗΛΑ</span>
+    </a>
+    <a href="greek-hymns-original/422-sti-machi-tora.html" class="song-item">
+        <span class="song-number">422</span>
+        <span class="song-title">ΣΤΗ ΜΑΧΗ ΤΩΡΑ</span>
+    </a>
+    <a href="greek-hymns-original/423-stirizetai-i-pisti-moy.html" class="song-item">
+        <span class="song-number">423</span>
+        <span class="song-title">ΣΤΗΡΙΖΕΤΑΙ Η ΠΙΣΤΗ ΜΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/424-stis-thlipseis-tis-zois-moy.html" class="song-item">
+        <span class="song-number">424</span>
+        <span class="song-title">ΣΤΙΣ ΘΛΙΨΕΙΣ ΤΗΣ ΖΩΗΣ ΜΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/425-sto-strato-toy-iisoy-moy.html" class="song-item">
+        <span class="song-number">425</span>
+        <span class="song-title">ΣΤΟ ΣΤΡΑΤΟ ΤΟΥ ΙΗΣΟΥ ΜΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/426-sy-didaskalos-toy-kosmoy.html" class="song-item">
+        <span class="song-number">426</span>
+        <span class="song-title">ΣΥ ΔΙΔΑΣΚΑΛΟΣ ΤΟΥ ΚΟΣΜΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/427-to-fortio-tis-zois.html" class="song-item">
+        <span class="song-number">427</span>
+        <span class="song-title">ΤΟ ΦΟΡΤΙΟ ΤΗΣ ΖΩΗΣ</span>
+    </a>
+    <a href="greek-hymns-original/428-toy-christoy-oplites.html" class="song-item">
+        <span class="song-number">428</span>
+        <span class="song-title">ΤΟΥ ΧΡΙΣΤΟΥ ΟΠΛΙΤΕΣ</span>
+    </a>
+    <a href="greek-hymns-original/429-yparchei-vrachos-skieros.html" class="song-item">
+        <span class="song-number">429</span>
+        <span class="song-title">ΥΠΑΡΧΕΙ ΒΡΑΧΟΣ ΣΚΙΕΡΟΣ</span>
+    </a>
+    <a href="greek-hymns-original/430-fereis-to-fortio.html" class="song-item">
+        <span class="song-number">430</span>
+        <span class="song-title">ΦΕΡΕΙΣ ΤΟ ΦΟΡΤΙΟ</span>
+    </a>
+    <a href="greek-hymns-original/431-fotia-pantoy-anavei.html" class="song-item">
+        <span class="song-number">431</span>
+        <span class="song-title">ΦΩΤΙΑ ΠΑΝΤΟΥ ΑΝΑΒΕΙ</span>
+    </a>
+    <a href="greek-hymns-original/432-christiane-eche-tharros.html" class="song-item">
+        <span class="song-number">432</span>
+        <span class="song-title">ΧΡΙΣΤΙΑΝΕ, ΕΧΕ ΘΑΡΡΟΣ</span>
+    </a>
+    <a href="greek-hymns-original/433-o-vrache-ton-aionon.html" class="song-item">
+        <span class="song-number">433</span>
+        <span class="song-title">Ω ΒΡΑΧΕ ΤΩΝ ΑΙΩΝΩΝ</span>
+    </a>
+    <a href="greek-hymns-original/434-o-kyrie-prostati-ischyre-mas.html" class="song-item">
+        <span class="song-number">434</span>
+        <span class="song-title">Ω ΚΥΡΙΕ, ΠΡΟΣΤΑΤΗ ΙΣΧΥΡΕ ΜΑΣ</span>
+    </a>
+    <a href="greek-hymns-original/435-o-piste-prochora.html" class="song-item">
+        <span class="song-number">435</span>
+        <span class="song-title">Ω ΠΙΣΤΕ, ΠΡΟΧΩΡΑ</span>
+    </a>
+    <a href="greek-hymns-original/436-o-ti-stereo.html" class="song-item">
+        <span class="song-number">436</span>
+        <span class="song-title">Ω! ΤΙ ΣΤΕΡΕΟ</span>
+    </a>
+    <a href="greek-hymns-original/437-amarties-soy-an-einai.html" class="song-item">
+        <span class="song-number">437</span>
+        <span class="song-title">ΑΜΑΡΤΙΕΣ ΣΟΥ ΑΝ ΕΙΝΑΙ</span>
+    </a>
+    <a href="greek-hymns-original/438-an-theleis-tora-n-apolytrotheis.html" class="song-item">
+        <span class="song-number">438</span>
+        <span class="song-title">ΑΝ ΘΕΛΕΙΣ ΤΩΡΑ Ν' ΑΠΟΛΥΤΡΩΘΕΙΣ</span>
+    </a>
+    <a href="greek-hymns-original/439-arage-eisai-christianos.html" class="song-item">
+        <span class="song-number">439</span>
+        <span class="song-title">ΑΡΑΓΕ ΕΙΣΑΙ ΧΡΙΣΤΙΑΝΟΣ</span>
+    </a>
+    <a href="greek-hymns-original/440-des-ta-krina.html" class="song-item">
+        <span class="song-number">440</span>
+        <span class="song-title">ΔΕΣ ΤΑ ΚΡΙΝΑ</span>
+    </a>
+    <a href="greek-hymns-original/441-diati-den-epistrefeis.html" class="song-item">
+        <span class="song-number">441</span>
+        <span class="song-title">ΔΙΑΤΙ ΔΕΝ ΕΠΙΣΤΡΕΦΕΙΣ</span>
+    </a>
+    <a href="greek-hymns-original/442-ela-psychi-n-akoyseis.html" class="song-item">
+        <span class="song-number">442</span>
+        <span class="song-title">ΕΛΑ, ΨΥΧΗ, Ν' ΑΚΟΥΣΕΙΣ</span>
+    </a>
+    <a href="greek-hymns-original/443-zitise-ti-vasileia.html" class="song-item">
+        <span class="song-number">443</span>
+        <span class="song-title">ΖΗΤΗΣΕ ΤΗ ΒΑΣΙΛΕΙΑ</span>
+    </a>
+    <a href="greek-hymns-original/444-i-galinia-foni.html" class="song-item">
+        <span class="song-number">444</span>
+        <span class="song-title">Η ΓΑΛΗΝΙΑ ΦΩΝΗ</span>
+    </a>
+    <a href="greek-hymns-original/445-thelei-na-s-aggixei.html" class="song-item">
+        <span class="song-number">445</span>
+        <span class="song-title">ΘΕΛΕΙ ΝΑ Σ' ΑΓΓΙΞΕΙ</span>
+    </a>
+    <a href="greek-hymns-original/446-kapoios-noiazetai-gia-sena.html" class="song-item">
+        <span class="song-number">446</span>
+        <span class="song-title">ΚΑΠΟΙΟΣ ΝΟΙΑΖΕΤΑΙ ΓΙΑ ΣΕΝΑ</span>
+    </a>
+    <a href="greek-hymns-original/447-m-ena-vlemma-pisto.html" class="song-item">
+        <span class="song-number">447</span>
+        <span class="song-title">Μ' ΕΝΑ ΒΛΕΜΜΑ ΠΙΣΤΟ</span>
+    </a>
+    <a href="greek-hymns-original/448-mes-sti-thermi-toy-agkali.html" class="song-item">
+        <span class="song-number">448</span>
+        <span class="song-title">ΜΕΣ ΣΤΗ ΘΕΡΜΗ ΤΟΥ ΑΓΚΑΛΗ</span>
+    </a>
+    <a href="greek-hymns-original/449-mes-ston-kosmo-koyrasmenos.html" class="song-item">
+        <span class="song-number">449</span>
+        <span class="song-title">ΜΕΣ ΣΤΟΝ ΚΟΣΜΟ ΚΟΥΡΑΣΜΕΝΟΣ</span>
+    </a>
+    <a href="greek-hymns-original/450-min-ameleis-einai-kairos.html" class="song-item">
+        <span class="song-number">450</span>
+        <span class="song-title">ΜΗΝ ΑΜΕΛΕΙΣ, ΕΙΝΑΙ ΚΑΙΡΟΣ</span>
+    </a>
+    <a href="greek-hymns-original/451-mipos-nychta-mayri.html" class="song-item">
+        <span class="song-number">451</span>
+        <span class="song-title">ΜΗΠΩΣ ΝΥΧΤΑ ΜΑΥΡΗ</span>
+    </a>
+    <a href="greek-hymns-original/452-o-iisoys-se-proskalei.html" class="song-item">
+        <span class="song-number">452</span>
+        <span class="song-title">Ο ΙΗΣΟΥΣ ΣΕ ΠΡΟΣΚΑΛΕΙ!</span>
+    </a>
+    <a href="greek-hymns-original/453-o-christos-amartoloys.html" class="song-item">
+        <span class="song-number">453</span>
+        <span class="song-title">Ο ΧΡΙΣΤΟΣ ΑΜΑΡΤΩΛΟΥΣ</span>
+    </a>
+    <a href="greek-hymns-original/454-pistepse-eis-to-sotira.html" class="song-item">
+        <span class="song-number">454</span>
+        <span class="song-title">ΠΙΣΤΕΨΕ ΕΙΣ ΤΟ ΣΩΤΗΡΑ</span>
+    </a>
+    <a href="greek-hymns-original/455-poso-glyka-o-christos-se-fonazei.html" class="song-item">
+        <span class="song-number">455</span>
+        <span class="song-title">ΠΟΣΟ ΓΛΥΚΑ Ο ΧΡΙΣΤΟΣ ΣΕ ΦΩΝΑΖΕΙ</span>
+    </a>
+    <a href="greek-hymns-original/456-poy-eisai-paidi-moy-agapito.html" class="song-item">
+        <span class="song-number">456</span>
+        <span class="song-title">ΠΟΥ ΕΙΣΑΙ ΠΑΙΔΙ ΜΟΥ ΑΓΑΠΗΤΟ</span>
+    </a>
+    <a href="greek-hymns-original/457-san-tha-erthei-i-mera.html" class="song-item">
+        <span class="song-number">457</span>
+        <span class="song-title">ΣΑΝ ΘΑ ΕΡΘΕΙ Η ΜΕΡΑ</span>
+    </a>
+    <a href="greek-hymns-original/458-st-aytia-moy-antichoyn.html" class="song-item">
+        <span class="song-number">458</span>
+        <span class="song-title">ΣΤ' ΑΥΤΙΑ ΜΟΥ ΑΝΤΗΧΟΥΝ</span>
+    </a>
+    <a href="greek-hymns-original/459-sti-zoi-an-noiotheis-sychna.html" class="song-item">
+        <span class="song-number">459</span>
+        <span class="song-title">ΣΤΗ ΖΩΗ ΑΝ ΝΟΙΩΘΕΙΣ ΣΥΧΝΑ</span>
+    </a>
+    <a href="greek-hymns-original/460-stin-agkalia-toy-christoy-mas.html" class="song-item">
+        <span class="song-number">460</span>
+        <span class="song-title">ΣΤΗΝ ΑΓΚΑΛΙΑ ΤΟΥ ΧΡΙΣΤΟΥ ΜΑΣ</span>
+    </a>
+    <a href="greek-hymns-original/461-ston-kosmo-gyro.html" class="song-item">
+        <span class="song-number">461</span>
+        <span class="song-title">ΣΤΟΝ ΚΟΣΜΟ ΓΥΡΩ</span>
+    </a>
+    <a href="greek-hymns-original/462-talaipori-psychi.html" class="song-item">
+        <span class="song-number">462</span>
+        <span class="song-title">ΤΑΛΑΙΠΩΡΗ ΨΥΧΗ</span>
+    </a>
+    <a href="greek-hymns-original/463-ti-istoria-glykia.html" class="song-item">
+        <span class="song-number">463</span>
+        <span class="song-title">ΤΙ ΙΣΤΟΡΙΑ ΓΛΥΚΙΑ!</span>
+    </a>
+    <a href="greek-hymns-original/464-ti-perimeneis-tora.html" class="song-item">
+        <span class="song-number">464</span>
+        <span class="song-title">ΤΙ ΠΕΡΙΜΕΝΕΙΣ ΤΩΡΑ</span>
+    </a>
+    <a href="greek-hymns-original/465-yparchei-odos.html" class="song-item">
+        <span class="song-number">465</span>
+        <span class="song-title">ΥΠΑΡΧΕΙ ΟΔΟΣ</span>
+    </a>
+    <a href="greek-hymns-original/466-yparchei-pigi.html" class="song-item">
+        <span class="song-number">466</span>
+        <span class="song-title">ΥΠΑΡΧΕΙ ΠΗΓΗ</span>
+    </a>
+    <a href="greek-hymns-original/467-charis-ti-ergo.html" class="song-item">
+        <span class="song-number">467</span>
+        <span class="song-title">ΧΑΡΙΣ! ΤΙ ΕΡΓΟ</span>
+    </a>
+    <a href="greek-hymns-original/468-o-ela-tora-eis-to-christo.html" class="song-item">
+        <span class="song-number">468</span>
+        <span class="song-title">Ω! ΕΛΑ ΤΩΡΑ ΕΙΣ ΤΟ ΧΡΙΣΤΟ</span>
+    </a>
+    <a href="greek-hymns-original/469-o-esy-p-akoys-ta-logia.html" class="song-item">
+        <span class="song-number">469</span>
+        <span class="song-title">Ω! ΕΣΥ Π' ΑΚΟΥΣ ΤΑ ΛΟΓΙΑ</span>
+    </a>
+    <a href="greek-hymns-original/470-o-etoimase-o-christos.html" class="song-item">
+        <span class="song-number">470</span>
+        <span class="song-title">Ω! ΕΤΟΙΜΑΣΕ Ο ΧΡΙΣΤΟΣ</span>
+    </a>
+    <a href="greek-hymns-original/471-o-theia-krini.html" class="song-item">
+        <span class="song-number">471</span>
+        <span class="song-title">Ω ΘΕΙΑ ΚΡΗΝΗ</span>
+    </a>
+    <a href="greek-hymns-original/472-arage-tha-synachthoyme.html" class="song-item">
+        <span class="song-number">472</span>
+        <span class="song-title">ΑΡΑΓΕ ΘΑ ΣΥΝΑΧΘΟΥΜΕ</span>
+    </a>
+    <a href="greek-hymns-original/473-vadizoyme-gia-tin-ieroysalim.html" class="song-item">
+        <span class="song-number">473</span>
+        <span class="song-title">ΒΑΔΙΖΟΥΜΕ ΓΙΑ ΤΗΝ ΙΕΡΟΥΣΑΛΗΜ!</span>
+    </a>
+    <a href="greek-hymns-original/474-vainomen-pros-tin-patrida.html" class="song-item">
+        <span class="song-number">474</span>
+        <span class="song-title">ΒΑΙΝΟΜΕΝ ΠΡΟΣ ΤΗΝ ΠΑΤΡΙΔΑ</span>
+    </a>
+    <a href="greek-hymns-original/475-vlepoyne-ta-matia-moy.html" class="song-item">
+        <span class="song-number">475</span>
+        <span class="song-title">ΒΛΕΠΟΥΝΕ ΤΑ ΜΑΤΙΑ ΜΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/476-gigantes-tha-pesoyn.html" class="song-item">
+        <span class="song-number">476</span>
+        <span class="song-title">ΓΙΓΑΝΤΕΣ ΘΑ ΠΕΣΟΥΝ</span>
+    </a>
+    <a href="greek-hymns-original/477-den-zitao-ta-ployti.html" class="song-item">
+        <span class="song-number">477</span>
+        <span class="song-title">ΔΕΝ ΖΗΤΑΩ ΤΑ ΠΛΟΥΤΗ</span>
+    </a>
+    <a href="greek-hymns-original/478-dyskoloi-kairoi.html" class="song-item">
+        <span class="song-number">478</span>
+        <span class="song-title">ΔΥΣΚΟΛΟΙ ΚΑΙΡΟΙ</span>
+    </a>
+    <a href="greek-hymns-original/479-eimast-emeis-laos-theoy.html" class="song-item">
+        <span class="song-number">479</span>
+        <span class="song-title">ΕΙΜΑΣΤ' ΕΜΕΙΣ ΛΑΟΣ ΘΕΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/480-eimast-emeis-oi-odoiporoi.html" class="song-item">
+        <span class="song-number">480</span>
+        <span class="song-title">ΕΙΜΑΣΤ' ΕΜΕΙΣ ΟΙ ΟΔΟΙΠΟΡΟΙ</span>
+    </a>
+    <a href="greek-hymns-original/481-eis-ta-ypsi-t-oyranoy.html" class="song-item">
+        <span class="song-number">481</span>
+        <span class="song-title">ΕΙΣ ΤΑ ΥΨΗ Τ' ΟΥΡΑΝΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/482-erchetai-erchetai.html" class="song-item">
+        <span class="song-number">482</span>
+        <span class="song-title">ΕΡΧΕΤΑΙ, ΕΡΧΕΤΑΙ</span>
+    </a>
+    <a href="greek-hymns-original/483-echo-akoysei-yparchei-mia-chora.html" class="song-item">
+        <span class="song-number">483</span>
+        <span class="song-title">ΕΧΩ ΑΚΟΥΣΕΙ ΥΠΑΡΧΕΙ ΜΙΑ ΧΩΡΑ</span>
+    </a>
+    <a href="greek-hymns-original/484-i-imera-einai-plision.html" class="song-item">
+        <span class="song-number">484</span>
+        <span class="song-title">Η ΗΜΕΡΑ ΕΙΝΑΙ ΠΛΗΣΙΟΝ</span>
+    </a>
+    <a href="greek-hymns-original/485-tha-se-doyme-ekei-pano.html" class="song-item">
+        <span class="song-number">485</span>
+        <span class="song-title">ΘΑ ΣΕ ΔΟΥΜΕ ΕΚΕΙ ΠΑΝΩ</span>
+    </a>
+    <a href="greek-hymns-original/486-tha-rthei-grigora-i-mera.html" class="song-item">
+        <span class="song-number">486</span>
+        <span class="song-title">ΘΑ 'ΡΘΕΙ ΓΡΗΓΟΡΑ Η ΜΕΡΑ</span>
+    </a>
+    <a href="greek-hymns-original/487-thelo-na-se-ymno.html" class="song-item">
+        <span class="song-number">487</span>
+        <span class="song-title">ΘΕΛΩ ΝΑ ΣΕ ΥΜΝΩ</span>
+    </a>
+    <a href="greek-hymns-original/488-iisoy-moy-sy-i-zoi-moy.html" class="song-item">
+        <span class="song-number">488</span>
+        <span class="song-title">ΙΗΣΟΥ ΜΟΥ, ΣΥ Η ΖΩΗ ΜΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/489-kaneis-apo-mas.html" class="song-item">
+        <span class="song-number">489</span>
+        <span class="song-title">ΚΑΝΕΙΣ ΑΠΟ ΜΑΣ</span>
+    </a>
+    <a href="greek-hymns-original/490-koitaxte-psila.html" class="song-item">
+        <span class="song-number">490</span>
+        <span class="song-title">ΚΟΙΤΑΞΤΕ ΨΗΛΑ</span>
+    </a>
+    <a href="greek-hymns-original/491-lampros-o-dromos-t-oyranoy.html" class="song-item">
+        <span class="song-number">491</span>
+        <span class="song-title">ΛΑΜΠΡΟΣ Ο ΔΡΟΜΟΣ Τ' ΟΥΡΑΝΟΥ!</span>
+    </a>
+    <a href="greek-hymns-original/492-lamprotera-ilioy-i-gi.html" class="song-item">
+        <span class="song-number">492</span>
+        <span class="song-title">ΛΑΜΠΡΟΤΕΡΑ ΗΛΙΟΥ Η ΓΗ</span>
+    </a>
+    <a href="greek-hymns-original/493-o-kyrios-einai-ischys-moy.html" class="song-item">
+        <span class="song-number">493</span>
+        <span class="song-title">Ο ΚΥΡΙΟΣ ΕΙΝΑΙ ΙΣΧΥΣ ΜΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/494-odo-thanatoy-ki-enochis.html" class="song-item">
+        <span class="song-number">494</span>
+        <span class="song-title">ΟΔΟ ΘΑΝΑΤΟΥ ΚΙ ΕΝΟΧΗΣ</span>
+    </a>
+    <a href="greek-hymns-original/495-otan-i-zoi-parelthei.html" class="song-item">
+        <span class="song-number">495</span>
+        <span class="song-title">ΟΤΑΝ Η ΖΩΗ ΠΑΡΕΛΘΕΙ</span>
+    </a>
+    <a href="greek-hymns-original/496-otan-pera-apo-t-asteria.html" class="song-item">
+        <span class="song-number">496</span>
+        <span class="song-title">ΟΤΑΝ ΠΕΡΑ ΑΠΟ Τ' ΑΣΤΕΡΙΑ</span>
+    </a>
+    <a href="greek-hymns-original/497-pame-gia-ton-oyrano.html" class="song-item">
+        <span class="song-number">497</span>
+        <span class="song-title">ΠΑΜΕ ΓΙΑ ΤΟΝ ΟΥΡΑΝΟ</span>
+    </a>
+    <a href="greek-hymns-original/498-pao-gia-na-synantiso.html" class="song-item">
+        <span class="song-number">498</span>
+        <span class="song-title">ΠΑΩ, ΓΙΑ ΝΑ ΣΥΝΑΝΤΗΣΩ</span>
+    </a>
+    <a href="greek-hymns-original/499-pera-apo-ton-ilio.html" class="song-item">
+        <span class="song-number">499</span>
+        <span class="song-title">ΠΕΡΑ ΑΠΟ ΤΟΝ ΗΛΙΟ</span>
+    </a>
+    <a href="greek-hymns-original/500-poso-chairetai-i-kardia-mas.html" class="song-item">
+        <span class="song-number">500</span>
+        <span class="song-title">ΠΟΣΟ ΧΑΙΡΕΤΑΙ Η ΚΑΡΔΙΑ ΜΑΣ</span>
+    </a>
+    <a href="greek-hymns-original/501-prosdokomen-tin-proian.html" class="song-item">
+        <span class="song-number">501</span>
+        <span class="song-title">ΠΡΟΣΔΟΚΩΜΕΝ ΤΗΝ ΠΡΩΙΑΝ</span>
+    </a>
+    <a href="greek-hymns-original/502-prochoro-gia-ton-oyrano.html" class="song-item">
+        <span class="song-number">502</span>
+        <span class="song-title">ΠΡΟΧΩΡΩ ΓΙΑ ΤΟΝ ΟΥΡΑΝΟ</span>
+    </a>
+    <a href="greek-hymns-original/503-pos-skirto-kai-pido-apo-chara.html" class="song-item">
+        <span class="song-number">503</span>
+        <span class="song-title">ΠΩΣ ΣΚΙΡΤΩ ΚΑΙ ΠΗΔΩ ΑΠΟ ΧΑΡΑ</span>
+    </a>
+    <a href="greek-hymns-original/504-san-elthei-i-stigmi.html" class="song-item">
+        <span class="song-number">504</span>
+        <span class="song-title">ΣΑΝ ΕΛΘΕΙ Η ΣΤΙΓΜΗ</span>
+    </a>
+    <a href="greek-hymns-original/505-se-prosmenoyme-na-rtheis.html" class="song-item">
+        <span class="song-number">505</span>
+        <span class="song-title">ΣΕ ΠΡΟΣΜΕΝΟΥΜΕ ΝΑ 'ΡΘΕΙΣ</span>
+    </a>
+    <a href="greek-hymns-original/506-sti-zoi-moy-den-echo.html" class="song-item">
+        <span class="song-number">506</span>
+        <span class="song-title">ΣΤΗ ΖΩΗ ΜΟΥ ΔΕΝ ΕΧΩ</span>
+    </a>
+    <a href="greek-hymns-original/507-sotira-toy-kosmoy.html" class="song-item">
+        <span class="song-number">507</span>
+        <span class="song-title">ΣΩΤΗΡΑ ΤΟΥ ΚΟΣΜΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/508-ta-matia-moy-antikrizoyn.html" class="song-item">
+        <span class="song-number">508</span>
+        <span class="song-title">ΤΑ ΜΑΤΙΑ ΜΟΥ ΑΝΤΙΚΡΙΖΟΥΝ</span>
+    </a>
+    <a href="greek-hymns-original/509-tin-eleysi-soy-o-christe.html" class="song-item">
+        <span class="song-number">509</span>
+        <span class="song-title">ΤΗΝ ΕΛΕΥΣΗ ΣΟΥ, Ω ΧΡΙΣΤΕ</span>
+    </a>
+    <a href="greek-hymns-original/510-to-christo-moy-perimeno.html" class="song-item">
+        <span class="song-number">510</span>
+        <span class="song-title">ΤΟ ΧΡΙΣΤΟ ΜΟΥ ΠΕΡΙΜΕΝΩ</span>
+    </a>
+    <a href="greek-hymns-original/511-to-skeyos-to-ostrakino.html" class="song-item">
+        <span class="song-number">511</span>
+        <span class="song-title">ΤΟ ΣΚΕΥΟΣ ΤΟ ΟΣΤΡΑΚΙΝΟ</span>
+    </a>
+    <a href="greek-hymns-original/512-tora-arkoymai.html" class="song-item">
+        <span class="song-number">512</span>
+        <span class="song-title">ΤΩΡΑ ΑΡΚΟΥΜΑΙ</span>
+    </a>
+    <a href="greek-hymns-original/513-chara-mas-prosmenei.html" class="song-item">
+        <span class="song-number">513</span>
+        <span class="song-title">ΧΑΡΑ ΜΑΣ ΠΡΟΣΜΕΝΕΙ</span>
+    </a>
+    <a href="greek-hymns-original/514-psallate-ola-ta-ethni.html" class="song-item">
+        <span class="song-number">514</span>
+        <span class="song-title">ΨΑΛΛΑΤΕ ΟΛΑ ΤΑ ΕΘΝΗ</span>
+    </a>
+    <a href="greek-hymns-original/515-psallei-i-kardia.html" class="song-item">
+        <span class="song-number">515</span>
+        <span class="song-title">ΨΑΛΛΕΙ Η ΚΑΡΔΙΑ</span>
+    </a>
+    <a href="greek-hymns-original/516-psallo-eno-prochoro.html" class="song-item">
+        <span class="song-number">516</span>
+        <span class="song-title">ΨΑΛΛΩ ΕΝΩ ΠΡΟΧΩΡΩ</span>
+    </a>
+    <a href="greek-hymns-original/517-o-potho-kathe-mera.html" class="song-item">
+        <span class="song-number">517</span>
+        <span class="song-title">Ω, ΠΟΘΩ ΚΑΘΕ ΜΕΡΑ</span>
+    </a>
+    <a href="greek-hymns-original/518-o-pos-katantise-o-kosmos.html" class="song-item">
+        <span class="song-number">518</span>
+        <span class="song-title">Ω! ΠΩΣ ΚΑΤΑΝΤΗΣΕ Ο ΚΟΣΜΟΣ</span>
+    </a>
+    <a href="greek-hymns-original/519-o-stoy-patera-to-spiti.html" class="song-item">
+        <span class="song-number">519</span>
+        <span class="song-title">Ω! ΣΤΟΥ ΠΑΤΕΡΑ ΤΟ ΣΠΙΤΙ</span>
+    </a>
+    <a href="greek-hymns-original/520-o-ti-lampri-stoli.html" class="song-item">
+        <span class="song-number">520</span>
+        <span class="song-title">Ω, ΤΙ ΛΑΜΠΡΗ ΣΤΟΛΗ!</span>
+    </a>
+    <a href="greek-hymns-original/521-o-fos-agapis-theos.html" class="song-item">
+        <span class="song-number">521</span>
+        <span class="song-title">Ω ΦΩΣ! ΑΓΑΠΗΣ ΘΕΟΣ</span>
+    </a>
+    <a href="greek-hymns-original/522-o-chora-poy-pothoi-se-plathoyn.html" class="song-item">
+        <span class="song-number">522</span>
+        <span class="song-title">Ω ΧΩΡΑ, ΠΟΥ ΠΟΘΟΙ ΣΕ ΠΛΑΘΟΥΝ</span>
+    </a>
+    <a href="greek-hymns-original/523-afotoy-eirini.html" class="song-item">
+        <span class="song-number">523</span>
+        <span class="song-title">ΑΦΟΤΟΥ ΕΙΡΗΝΗ</span>
+    </a>
+    <a href="greek-hymns-original/524-the-na-rthei-mia-aygi.html" class="song-item">
+        <span class="song-number">524</span>
+        <span class="song-title">ΘΕ ΝΑ 'ΡΘΕΙ ΜΙΑ ΑΥΓΗ</span>
+    </a>
+    <a href="greek-hymns-original/525-mes-stis-zois-ta-monopatia.html" class="song-item">
+        <span class="song-number">525</span>
+        <span class="song-title">ΜΕΣ ΣΤΗΣ ΖΩΗΣ ΤΑ ΜΟΝΟΠΑΤΙΑ</span>
+    </a>
+    <a href="greek-hymns-original/526-mystiria-i-zoi-mas-kleinei.html" class="song-item">
+        <span class="song-number">526</span>
+        <span class="song-title">ΜΥΣΤΗΡΙΑ Η ΖΩΗ ΜΑΣ ΚΛΕΙΝΕΙ</span>
+    </a>
+    <a href="greek-hymns-original/527-o-ilios-vasileyei.html" class="song-item">
+        <span class="song-number">527</span>
+        <span class="song-title">Ο ΗΛΙΟΣ ΒΑΣΙΛΕΥΕΙ</span>
+    </a>
+    <a href="greek-hymns-original/528-o-theos-as-einai-meth-imon.html" class="song-item">
+        <span class="song-number">528</span>
+        <span class="song-title">Ο ΘΕΟΣ ΑΣ ΕΙΝΑΙ ΜΕΘ ΗΜΩΝ!</span>
+    </a>
+    <a href="greek-hymns-original/529-oli-i-zoi-moy.html" class="song-item">
+        <span class="song-number">529</span>
+        <span class="song-title">ΟΛΗ Η ΖΩΗ ΜΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/530-poreyomai-se-gi-terpni.html" class="song-item">
+        <span class="song-number">530</span>
+        <span class="song-title">ΠΟΡΕΥΟΜΑΙ ΣΕ ΓΗ ΤΕΡΠΝΗ</span>
+    </a>
+    <a href="greek-hymns-original/531-san-ton-ilio-lampei-i-gi.html" class="song-item">
+        <span class="song-number">531</span>
+        <span class="song-title">ΣΑΝ ΤΟΝ ΗΛΙΟ ΛΑΜΠΕΙ Η ΓΗ</span>
+    </a>
+    <a href="greek-hymns-original/532-agrypnise-o-adelfe.html" class="song-item">
+        <span class="song-number">532</span>
+        <span class="song-title">ΑΓΡΥΠΝΗΣΕ, Ω ΑΔΕΛΦΕ</span>
+    </a>
+    <a href="greek-hymns-original/533-erchetai-o-iisoys-christos.html" class="song-item">
+        <span class="song-number">533</span>
+        <span class="song-title">ΕΡΧΕΤΑΙ Ο ΙΗΣΟΥΣ ΧΡΙΣΤΟΣ!</span>
+    </a>
+    <a href="greek-hymns-original/534-epsalleto-panta.html" class="song-item">
+        <span class="song-number">534</span>
+        <span class="song-title">ΕΨΑΛΛΕΤΟ ΠΑΝΤΑ</span>
+    </a>
+    <a href="greek-hymns-original/535-o-christos-mas-prin-na-paei.html" class="song-item">
+        <span class="song-number">535</span>
+        <span class="song-title">Ο ΧΡΙΣΤΟΣ ΜΑΣ ΠΡΙΝ ΝΑ ΠΑΕΙ</span>
+    </a>
+    <a href="greek-hymns-original/536-opos-o-ilios-o-lampros.html" class="song-item">
+        <span class="song-number">536</span>
+        <span class="song-title">ΟΠΩΣ Ο ΗΛΙΟΣ Ο ΛΑΜΠΡΟΣ</span>
+    </a>
+    <a href="greek-hymns-original/537-otan-i-salpigga-ichisei.html" class="song-item">
+        <span class="song-number">537</span>
+        <span class="song-title">ΟΤΑΝ Η ΣΑΛΠΙΓΓΑ ΗΧΗΣΕΙ</span>
+    </a>
+    <a href="greek-hymns-original/538-otan-toy-christoy-i-salpigga.html" class="song-item">
+        <span class="song-number">538</span>
+        <span class="song-title">ΟΤΑΝ ΤΟΥ ΧΡΙΣΤΟΥ Η ΣΑΛΠΙΓΓΑ</span>
+    </a>
+    <a href="greek-hymns-original/539-perimeno-ospoy-na-rthei.html" class="song-item">
+        <span class="song-number">539</span>
+        <span class="song-title">ΠΕΡΙΜΕΝΩ, ΩΣΠΟΥ ΝΑ 'ΡΘΕΙ</span>
+    </a>
+    <a href="greek-hymns-original/540-ta-simeia-toy-kosmoy.html" class="song-item">
+        <span class="song-number">540</span>
+        <span class="song-title">ΤΑ ΣΗΜΕΙΑ ΤΟΥ ΚΟΣΜΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/541-ap-agapi-o-plastis-theos.html" class="song-item">
+        <span class="song-number">541</span>
+        <span class="song-title">ΑΠ' ΑΓΑΠΗ Ο ΠΛΑΣΤΗΣ ΘΕΟΣ</span>
+    </a>
+    <a href="greek-hymns-original/542-pros-se-agapis.html" class="song-item">
+        <span class="song-number">542</span>
+        <span class="song-title">ΠΡΟΣ ΣΕ ΑΓΑΠΗΣ</span>
+    </a>
+    <a href="greek-hymns-original/543-o-dimioyrge-ton-panton.html" class="song-item">
+        <span class="song-number">543</span>
+        <span class="song-title">Ω ΔΗΜΙΟΥΡΓΕ ΤΩΝ ΠΑΝΤΩΝ</span>
+    </a>
+    <a href="greek-hymns-original/544-gia-sena-psalloyme.html" class="song-item">
+        <span class="song-number">544</span>
+        <span class="song-title">ΓΙΑ ΣΕΝΑ ΨΑΛΛΟΥΜΕ</span>
+    </a>
+    <a href="greek-hymns-original/545-doxa-kai-ainon-o-thee.html" class="song-item">
+        <span class="song-number">545</span>
+        <span class="song-title">ΔΟΞΑ ΚΑΙ ΑΙΝΟΝ, Ω ΘΕΕ</span>
+    </a>
+    <a href="greek-hymns-original/546-doste-ti-doxa-sto-theo.html" class="song-item">
+        <span class="song-number">546</span>
+        <span class="song-title">ΔΩΣΤΕ ΤΗ ΔΟΞΑ ΣΤΟ ΘΕΟ!</span>
+    </a>
+    <a href="greek-hymns-original/547-eimaste-edo.html" class="song-item">
+        <span class="song-number">547</span>
+        <span class="song-title">ΕΙΜΑΣΤΕ ΕΔΩ</span>
+    </a>
+    <a href="greek-hymns-original/548-eimaste-pali-mazi.html" class="song-item">
+        <span class="song-number">548</span>
+        <span class="song-title">ΕΙΜΑΣΤΕ ΠΑΛΙ ΜΑΖΙ</span>
+    </a>
+    <a href="greek-hymns-original/549-einai-ekeinos.html" class="song-item">
+        <span class="song-number">549</span>
+        <span class="song-title">ΕΙΝΑΙ ΕΚΕΙΝΟΣ</span>
+    </a>
+    <a href="greek-hymns-original/550-ela-ki-esy.html" class="song-item">
+        <span class="song-number">550</span>
+        <span class="song-title">ΕΛΑ ΚΙ ΕΣΥ</span>
+    </a>
+    <a href="greek-hymns-original/551-eleise-me-o-thee.html" class="song-item">
+        <span class="song-number">551</span>
+        <span class="song-title">ΕΛΕΗΣΕ ΜΕ, Ω ΘΕΕ</span>
+    </a>
+    <a href="greek-hymns-original/552-i-charis-toy-kyrioy.html" class="song-item">
+        <span class="song-number">552</span>
+        <span class="song-title">Η ΧΑΡΙΣ ΤΟΥ ΚΥΡΙΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/553-kyrie-iisoy-christe.html" class="song-item">
+        <span class="song-number">553</span>
+        <span class="song-title">ΚΥΡΙΕ ΙΗΣΟΥ ΧΡΙΣΤΕ</span>
+    </a>
+    <a href="greek-hymns-original/554-latreyoyme.html" class="song-item">
+        <span class="song-number">554</span>
+        <span class="song-title">ΛΑΤΡΕΥΟΥΜΕ</span>
+    </a>
+    <a href="greek-hymns-original/555-mazeytikame-edo.html" class="song-item">
+        <span class="song-number">555</span>
+        <span class="song-title">ΜΑΖΕΥΤΗΚΑΜΕ ΕΔΩ</span>
+    </a>
+    <a href="greek-hymns-original/556-megali-i-chari-soy.html" class="song-item">
+        <span class="song-number">556</span>
+        <span class="song-title">ΜΕΓΑΛΗ Η ΧΑΡΗ ΣΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/557-mesa-ap-ta-matia-soy-thee.html" class="song-item">
+        <span class="song-number">557</span>
+        <span class="song-title">ΜΕΣΑ ΑΠ' ΤΑ ΜΑΤΙΑ ΣΟΥ ΘΕΕ</span>
+    </a>
+    <a href="greek-hymns-original/558-patera-oyranie.html" class="song-item">
+        <span class="song-number">558</span>
+        <span class="song-title">ΠΑΤΕΡΑ ΟΥΡΑΝΙΕ</span>
+    </a>
+    <a href="greek-hymns-original/559-san-ton-ilio-ein-i-agapi.html" class="song-item">
+        <span class="song-number">559</span>
+        <span class="song-title">ΣΑΝ ΤΟΝ ΗΛΙΟ ΕΙΝ' Η ΑΓΑΠΗ</span>
+    </a>
+    <a href="greek-hymns-original/560-san-ton-poimena.html" class="song-item">
+        <span class="song-number">560</span>
+        <span class="song-title">ΣΑΝ ΤΟΝ ΠΟΙΜΕΝΑ</span>
+    </a>
+    <a href="greek-hymns-original/561-soy-dinoyme-ti-doxa.html" class="song-item">
+        <span class="song-number">561</span>
+        <span class="song-title">ΣΟΥ ΔΙΝΟΥΜΕ ΤΗ ΔΟΞΑ</span>
+    </a>
+    <a href="greek-hymns-original/562-stin-paroysia-soy.html" class="song-item">
+        <span class="song-number">562</span>
+        <span class="song-title">ΣΤΗΝ ΠΑΡΟΥΣΙΑ ΣΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/563-tin-eirini-moy-dino-se-sas.html" class="song-item">
+        <span class="song-number">563</span>
+        <span class="song-title">ΤΗΝ ΕΙΡΗΝΗ ΜΟΥ ΔΙΝΩ ΣΕ ΣΑΣ</span>
+    </a>
+    <a href="greek-hymns-original/564-tis-gis-ta-ethni-pantachoy.html" class="song-item">
+        <span class="song-number">564</span>
+        <span class="song-title">ΤΗΣ ΓΗΣ ΤΑ ΕΘΝΗ ΠΑΝΤΑΧΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/565-psalte-ston-kyrio.html" class="song-item">
+        <span class="song-number">565</span>
+        <span class="song-title">ΨΑΛΤΕ ΣΤΟΝ ΚΥΡΙΟ</span>
+    </a>
+    <a href="greek-hymns-original/566-to-eleos-soy-einai-kalytero.html" class="song-item">
+        <span class="song-number">566</span>
+        <span class="song-title">ΤΟ ΕΛΕΟΣ ΣΟΥ ΕΙΝΑΙ ΚΑΛΥΤΕΡΟ</span>
+    </a>
+    <a href="greek-hymns-original/567-to-onoma-soy-nai-tha-ypsothei.html" class="song-item">
+        <span class="song-number">567</span>
+        <span class="song-title">ΤΟ ΟΝΟΜΑ ΣΟΥ ΝΑΙ ΘΑ ΥΨΩΘΕΙ</span>
+    </a>
+    <a href="greek-hymns-original/568-doxa-alliloyia-de-tha-klonistho.html" class="song-item">
+        <span class="song-number">568</span>
+        <span class="song-title">ΔΟΞΑ! ΑΛΛΗΛΟΥΙΑ! ΔΕ ΘΑ ΚΛΟΝΙΣΘΩ</span>
+    </a>
+    <a href="greek-hymns-original/569-doxa-doxa-doxa-kapoios-me-aggixe.html" class="song-item">
+        <span class="song-number">569</span>
+        <span class="song-title">ΔΟΞΑ, ΔΟΞΑ, ΔΟΞΑ ΚΑΠΟΙΟΣ ΜΕ ΑΓΓΙΞΕ</span>
+    </a>
+    <a href="greek-hymns-original/570-eimaste-enomenoi.html" class="song-item">
+        <span class="song-number">570</span>
+        <span class="song-title">ΕΙΜΑΣΤΕ ΕΝΩΜΕΝΟΙ</span>
+    </a>
+    <a href="greek-hymns-original/571-eimaste-oi-magoi-sofoi.html" class="song-item">
+        <span class="song-number">571</span>
+        <span class="song-title">ΕΙΜΑΣΤΕ ΟΙ ΜΑΓΟΙ ΣΟΦΟΙ</span>
+    </a>
+    <a href="greek-hymns-original/572-ein-edo-ein-edo.html" class="song-item">
+        <span class="song-number">572</span>
+        <span class="song-title">ΕΙΝ' ΕΔΩ, ΕΙΝ' ΕΔΩ</span>
+    </a>
+    <a href="greek-hymns-original/573-elate-niata-sto-lytroti.html" class="song-item">
+        <span class="song-number">573</span>
+        <span class="song-title">ΕΛΑΤΕ ΝΙΑΤΑ ΣΤΟ ΛΥΤΡΩΤΗ</span>
+    </a>
+    <a href="greek-hymns-original/574-erchet-o-christos.html" class="song-item">
+        <span class="song-number">574</span>
+        <span class="song-title">ΕΡΧΕΤ' Ο ΧΡΙΣΤΟΣ</span>
+    </a>
+    <a href="greek-hymns-original/575-erchetai-i-stigmi.html" class="song-item">
+        <span class="song-number">575</span>
+        <span class="song-title">ΕΡΧΕΤΑΙ Η ΣΤΙΓΜΗ</span>
+    </a>
+    <a href="greek-hymns-original/576-erchetai-o-kyrios-me-doxa.html" class="song-item">
+        <span class="song-number">576</span>
+        <span class="song-title">ΕΡΧΕΤΑΙ Ο ΚΥΡΙΟΣ ΜΕ ΔΟΞΑ</span>
+    </a>
+    <a href="greek-hymns-original/577-erchomai-sto-throno-soy-thee.html" class="song-item">
+        <span class="song-number">577</span>
+        <span class="song-title">ΕΡΧΟΜΑΙ ΣΤΟ ΘΡΟΝΟ ΣΟΥ ΘΕΕ</span>
+    </a>
+    <a href="greek-hymns-original/578-echo-sothei-ki-echo-chara.html" class="song-item">
+        <span class="song-number">578</span>
+        <span class="song-title">ΕΧΩ ΣΩΘΕΙ ΚΙ ΕΧΩ ΧΑΡΑ!</span>
+    </a>
+    <a href="greek-hymns-original/579-i-dynami-moy-einai.html" class="song-item">
+        <span class="song-number">579</span>
+        <span class="song-title">Η ΔΥΝΑΜΗ ΜΟΥ ΕΙΝΑΙ</span>
+    </a>
+    <a href="greek-hymns-original/580-kathe-mera-ap-tin-aygi.html" class="song-item">
+        <span class="song-number">580</span>
+        <span class="song-title">ΚΑΘΕ ΜΕΡΑ ΑΠ' ΤΗΝ ΑΥΓΗ</span>
+    </a>
+    <a href="greek-hymns-original/581-koyrastikame-pia.html" class="song-item">
+        <span class="song-number">581</span>
+        <span class="song-title">ΚΟΥΡΑΣΤΗΚΑΜΕ ΠΙΑ</span>
+    </a>
+    <a href="greek-hymns-original/582-makria-se-mia-fatni.html" class="song-item">
+        <span class="song-number">582</span>
+        <span class="song-title">ΜΑΚΡΙΑ ΣΕ ΜΙΑ ΦΑΤΝΗ</span>
+    </a>
+    <a href="greek-hymns-original/583-me-to-stayro-simaia-mas-pame.html" class="song-item">
+        <span class="song-number">583</span>
+        <span class="song-title">ΜΕ ΤΟ ΣΤΑΥΡΟ ΣΗΜΑΙΑ ΜΑΣ ΠΑΜΕ</span>
+    </a>
+    <a href="greek-hymns-original/584-me-ton-kyrio-enikisame.html" class="song-item">
+        <span class="song-number">584</span>
+        <span class="song-title">ΜΕ ΤΟΝ ΚΥΡΙΟ ΕΝΙΚΗΣΑΜΕ</span>
+    </a>
+    <a href="greek-hymns-original/585-mikri-semni-kai-tapeini.html" class="song-item">
+        <span class="song-number">585</span>
+        <span class="song-title">ΜΙΚΡΗ, ΣΕΜΝΗ ΚΑΙ ΤΑΠΕΙΝΗ</span>
+    </a>
+    <a href="greek-hymns-original/586-sas-anaggeloyme-tin-agapi.html" class="song-item">
+        <span class="song-number">586</span>
+        <span class="song-title">ΣΑΣ ΑΝΑΓΓΕΛΟΥΜΕ ΤΗΝ ΑΓΑΠΗ</span>
+    </a>
+    <a href="greek-hymns-original/587-stratiotes-toy-megaloy-vasilia.html" class="song-item">
+        <span class="song-number">587</span>
+        <span class="song-title">ΣΤΡΑΤΙΩΤΕΣ ΤΟΥ ΜΕΓΑΛΟΥ ΒΑΣΙΛΙΑ</span>
+    </a>
+    <a href="greek-hymns-original/588-ti-fysi-soy-koitazo.html" class="song-item">
+        <span class="song-number">588</span>
+        <span class="song-title">ΤΗ ΦΥΣΗ ΣΟΥ ΚΟΙΤΑΖΩ</span>
+    </a>
+    <a href="greek-hymns-original/589-tis-charas-to-monopati.html" class="song-item">
+        <span class="song-number">589</span>
+        <span class="song-title">ΤΗΣ ΧΑΡΑΣ ΤΟ ΜΟΝΟΠΑΤΙ</span>
+    </a>
+    <a href="greek-hymns-original/590-to-monopati-toy-dikaioy.html" class="song-item">
+        <span class="song-number">590</span>
+        <span class="song-title">ΤΟ ΜΟΝΟΠΑΤΙ ΤΟΥ ΔΙΚΑΙΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/591-ypsonoyme-ta-cheria.html" class="song-item">
+        <span class="song-number">591</span>
+        <span class="song-title">ΥΨΩΝΟΥΜΕ ΤΑ ΧΕΡΙΑ</span>
+    </a>
+    <a href="greek-hymns-original/592-ftochoi-voskoi.html" class="song-item">
+        <span class="song-number">592</span>
+        <span class="song-title">ΦΤΩΧΟΙ ΒΟΣΚΟΙ</span>
+    </a>
+    <a href="greek-hymns-original/593-fos-sto-skotadi.html" class="song-item">
+        <span class="song-number">593</span>
+        <span class="song-title">ΦΩΣ ΣΤΟ ΣΚΟΤΑΔΙ</span>
+    </a>
+    <a href="greek-hymns-original/594-charoymeno-mikro-paidi.html" class="song-item">
+        <span class="song-number">594</span>
+        <span class="song-title">ΧΑΡΟΥΜΕΝΟ ΜΙΚΡΟ ΠΑΙΔΙ</span>
+    </a>
+    <a href="greek-hymns-original/595-chairo-poy-aniko-sto-christo.html" class="song-item">
+        <span class="song-number">595</span>
+        <span class="song-title">ΧΑΙΡΩ ΠΟΥ ΑΝΗΚΩ ΣΤΟ ΧΡΙΣΤΟ</span>
+    </a>
+    <a href="greek-hymns-original/596-psalle-s-ayton-ymnoys-charas.html" class="song-item">
+        <span class="song-number">596</span>
+        <span class="song-title">ΨΑΛΛΕ Σ' ΑΥΤΟΝ ΥΜΝΟΥΣ ΧΑΡΑΣ</span>
+    </a>
+    <a href="greek-hymns-original/597-o-ti-chari-thaymasti-alliloyia.html" class="song-item">
+        <span class="song-number">597</span>
+        <span class="song-title">Ω, ΤΙ ΧΑΡΗ ΘΑΥΜΑΣΤΗ! ΑΛΛΗΛΟΥΙΑ!</span>
+    </a>
+    <a href="greek-hymns-original/598-agios-agios-kyrios-kyrios.html" class="song-item">
+        <span class="song-number">598</span>
+        <span class="song-title">ΑΓΙΟΣ, ΑΓΙΟΣ! ΚΥΡΙΟΣ, ΚΥΡΙΟΣ!</span>
+    </a>
+    <a href="greek-hymns-original/599-akoyo-mia-glykia-foni.html" class="song-item">
+        <span class="song-number">599</span>
+        <span class="song-title">ΑΚΟΥΩ ΜΙΑ ΓΛΥΚΙΑ ΦΩΝΗ</span>
+    </a>
+    <a href="greek-hymns-original/600-alalaxte-ston-kyrio.html" class="song-item">
+        <span class="song-number">600</span>
+        <span class="song-title">ΑΛΑΛΑΞΤΕ ΣΤΟΝ ΚΥΡΙΟ</span>
+    </a>
+    <a href="greek-hymns-original/601-alliloyia-vasilea-vasilia.html" class="song-item">
+        <span class="song-number">601</span>
+        <span class="song-title">ΑΛΛΗΛΟΥΙΑ! ΒΑΣΙΛΕΑ, ΒΑΣΙΛΙΑ!</span>
+    </a>
+    <a href="greek-hymns-original/602-alliloyia-echo-chara-polli.html" class="song-item">
+        <span class="song-number">602</span>
+        <span class="song-title">ΑΛΛΗΛΟΥΙΑ! ΕΧΩ ΧΑΡΑ ΠΟΛΛΗ!</span>
+    </a>
+    <a href="greek-hymns-original/603-an-esy-de-m-agapoyses.html" class="song-item">
+        <span class="song-number">603</span>
+        <span class="song-title">ΑΝ ΕΣΥ ΔΕ Μ' ΑΓΑΠΟΥΣΕΣ</span>
+    </a>
+    <a href="greek-hymns-original/604-ap-ton-oyrano-irthe-o-christos.html" class="song-item">
+        <span class="song-number">604</span>
+        <span class="song-title">ΑΠ' ΤΟΝ ΟΥΡΑΝΟ ΗΡΘΕ Ο ΧΡΙΣΤΟΣ</span>
+    </a>
+    <a href="greek-hymns-original/605-atenise-ekei-sto-stayro.html" class="song-item">
+        <span class="song-number">605</span>
+        <span class="song-title">ΑΤΕΝΙΣΕ ΕΚΕΙ ΣΤΟ ΣΤΑΥΡΟ</span>
+    </a>
+    <a href="greek-hymns-original/606-ayta-ta-logia.html" class="song-item">
+        <span class="song-number">606</span>
+        <span class="song-title">ΑΥΤΑ ΤΑ ΛΟΓΙΑ</span>
+    </a>
+    <a href="greek-hymns-original/607-gernei-o-ilios-paei-na-svisei.html" class="song-item">
+        <span class="song-number">607</span>
+        <span class="song-title">ΓΕΡΝΕΙ Ο ΗΛΙΟΣ ΠΑΕΙ ΝΑ ΣΒΗΣΕΙ</span>
+    </a>
+    <a href="greek-hymns-original/608-gia-sena-tha-ziso.html" class="song-item">
+        <span class="song-number">608</span>
+        <span class="song-title">ΓΙΑ ΣΕΝΑ ΘΑ ΖΗΣΩ</span>
+    </a>
+    <a href="greek-hymns-original/609-eimai-christe-moy.html" class="song-item">
+        <span class="song-number">609</span>
+        <span class="song-title">ΕΙΜΑΙ, ΧΡΙΣΤΕ ΜΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/610-ein-enas-ilios.html" class="song-item">
+        <span class="song-number">610</span>
+        <span class="song-title">ΕΙΝ' ΕΝΑΣ ΗΛΙΟΣ</span>
+    </a>
+    <a href="greek-hymns-original/611-eis-de-to-vasilea-ton-aionon.html" class="song-item">
+        <span class="song-number">611</span>
+        <span class="song-title">ΕΙΣ ΔΕ ΤΟ ΒΑΣΙΛΕΑ ΤΩΝ ΑΙΩΝΩΝ</span>
+    </a>
+    <a href="greek-hymns-original/612-eisai-sy-to-fos.html" class="song-item">
+        <span class="song-number">612</span>
+        <span class="song-title">ΕΙΣΑΙ ΣΥ ΤΟ ΦΩΣ</span>
+    </a>
+    <a href="greek-hymns-original/613-ela-min-argeis.html" class="song-item">
+        <span class="song-number">613</span>
+        <span class="song-title">ΕΛΑ, ΜΗΝ ΑΡΓΕΙΣ</span>
+    </a>
+    <a href="greek-hymns-original/614-ela-tapeinosoy.html" class="song-item">
+        <span class="song-number">614</span>
+        <span class="song-title">ΕΛΑ, ΤΑΠΕΙΝΩΣΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/615-enan-ilio-echo-stin-kardia.html" class="song-item">
+        <span class="song-number">615</span>
+        <span class="song-title">ΕΝΑΝ ΗΛΙΟ ΕΧΩ ΣΤΗΝ ΚΑΡΔΙΑ</span>
+    </a>
+    <a href="greek-hymns-original/616-erchontai-stigmes.html" class="song-item">
+        <span class="song-number">616</span>
+        <span class="song-title">ΕΡΧΟΝΤΑΙ ΣΤΙΓΜΕΣ</span>
+    </a>
+    <a href="greek-hymns-original/617-zeis-kai-exoysiazeis-tis-kardies-mas.html" class="song-item">
+        <span class="song-number">617</span>
+        <span class="song-title">ΖΕΙΣ! ΚΑΙ ΕΞΟΥΣΙΑΖΕΙΣ ΤΙΣ ΚΑΡΔΙΕΣ ΜΑΣ</span>
+    </a>
+    <a href="greek-hymns-original/618-zitas-chara.html" class="song-item">
+        <span class="song-number">618</span>
+        <span class="song-title">ΖΗΤΑΣ ΧΑΡΑ</span>
+    </a>
+    <a href="greek-hymns-original/619-zo-giati-zei-o-lytrotis-moy.html" class="song-item">
+        <span class="song-number">619</span>
+        <span class="song-title">ΖΩ, ΓΙΑΤΙ ΖΕΙ Ο ΛΥΤΡΩΤΗΣ ΜΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/620-tha-ithela-na-imoyna-sti-gi.html" class="song-item">
+        <span class="song-number">620</span>
+        <span class="song-title">ΘΑ ΗΘΕΛΑ ΝΑ ΗΜΟΥΝΑ ΣΤΗ ΓΗ</span>
+    </a>
+    <a href="greek-hymns-original/621-tha-thela-na-soy-po.html" class="song-item">
+        <span class="song-number">621</span>
+        <span class="song-title">ΘΑ 'ΘΕΛΑ ΝΑ ΣΟΥ ΠΩ</span>
+    </a>
+    <a href="greek-hymns-original/622-iisoy-moy-dipso.html" class="song-item">
+        <span class="song-number">622</span>
+        <span class="song-title">ΙΗΣΟΥ ΜΟΥ, ΔΙΨΩ</span>
+    </a>
+    <a href="greek-hymns-original/623-iisoy-s-agapo.html" class="song-item">
+        <span class="song-number">623</span>
+        <span class="song-title">ΙΗΣΟΥ Σ' ΑΓΑΠΩ</span>
+    </a>
+    <a href="greek-hymns-original/624-iisoy-eisai-agapitos.html" class="song-item">
+        <span class="song-number">624</span>
+        <span class="song-title">ΙΗΣΟΥ, ΕΙΣΑΙ ΑΓΑΠΗΤΟΣ</span>
+    </a>
+    <a href="greek-hymns-original/625-kane-me-organo.html" class="song-item">
+        <span class="song-number">625</span>
+        <span class="song-title">ΚΑΝΕ ΜΕ ΟΡΓΑΝΟ</span>
+    </a>
+    <a href="greek-hymns-original/626-kapoy-pio-psila.html" class="song-item">
+        <span class="song-number">626</span>
+        <span class="song-title">ΚΑΠΟΥ ΠΙΟ ΨΗΛΑ</span>
+    </a>
+    <a href="greek-hymns-original/627-kati-an-echo-poly-akrivo.html" class="song-item">
+        <span class="song-number">627</span>
+        <span class="song-title">ΚΑΤΙ ΑΝ ΕΧΩ ΠΟΛΥ ΑΚΡΙΒΟ</span>
+    </a>
+    <a href="greek-hymns-original/628-kyrie-i-psychi-moy.html" class="song-item">
+        <span class="song-number">628</span>
+        <span class="song-title">ΚΥΡΙΕ, Η ΨΥΧΗ ΜΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/629-lytromenoi-toy-christoy.html" class="song-item">
+        <span class="song-number">629</span>
+        <span class="song-title">ΛΥΤΡΩΜΕΝΟΙ ΤΟΥ ΧΡΙΣΤΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/630-me-dynami-erchetai.html" class="song-item">
+        <span class="song-number">630</span>
+        <span class="song-title">ΜΕ ΔΥΝΑΜΗ ΕΡΧΕΤΑΙ</span>
+    </a>
+    <a href="greek-hymns-original/631-me-tin-eschati-salpigga.html" class="song-item">
+        <span class="song-number">631</span>
+        <span class="song-title">ΜΕ ΤΗΝ ΕΣΧΑΤΗ ΣΑΛΠΙΓΓΑ</span>
+    </a>
+    <a href="greek-hymns-original/632-mes-stin-kardia-moy-lampei-fos.html" class="song-item">
+        <span class="song-number">632</span>
+        <span class="song-title">ΜΕΣ ΣΤΗΝ ΚΑΡΔΙΑ ΜΟΥ ΛΑΜΠΕΙ ΦΩΣ</span>
+    </a>
+    <a href="greek-hymns-original/633-mprosta-sti-doxa-soy.html" class="song-item">
+        <span class="song-number">633</span>
+        <span class="song-title">ΜΠΡΟΣΤΑ ΣΤΗ ΔΟΞΑ ΣΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/634-o-theos-mas-einai-dynatos.html" class="song-item">
+        <span class="song-number">634</span>
+        <span class="song-title">Ο ΘΕΟΣ ΜΑΣ ΕΙΝΑΙ ΔΥΝΑΤΟΣ</span>
+    </a>
+    <a href="greek-hymns-original/635-o-iisoys-einai-i-elpida-mas.html" class="song-item">
+        <span class="song-number">635</span>
+        <span class="song-title">Ο ΙΗΣΟΥΣ ΕΙΝΑΙ Η ΕΛΠΙΔΑ ΜΑΣ</span>
+    </a>
+    <a href="greek-hymns-original/636-o-kyrios-edo-sti-gi.html" class="song-item">
+        <span class="song-number">636</span>
+        <span class="song-title">Ο ΚΥΡΙΟΣ ΕΔΩ ΣΤΗ ΓΗ</span>
+    </a>
+    <a href="greek-hymns-original/637-o-kyrios-einai-i-dynami-moy.html" class="song-item">
+        <span class="song-number">637</span>
+        <span class="song-title">Ο ΚΥΡΙΟΣ ΕΙΝΑΙ Η ΔΥΝΑΜΗ ΜΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/638-o-kyrios-tha-mpei-mes-sti-psychi-moy.html" class="song-item">
+        <span class="song-number">638</span>
+        <span class="song-title">Ο ΚΥΡΙΟΣ ΘΑ ΜΠΕΙ ΜΕΣ ΣΤΗ ΨΥΧΗ ΜΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/639-o-kyrios-moy-chara-kai-fos-moy.html" class="song-item">
+        <span class="song-number">639</span>
+        <span class="song-title">Ο ΚΥΡΙΟΣ ΜΟΥ, ΧΑΡΑ ΚΑΙ ΦΩΣ ΜΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/640-opos-to-loyloydi.html" class="song-item">
+        <span class="song-number">640</span>
+        <span class="song-title">ΟΠΩΣ ΤΟ ΛΟΥΛΟΥΔΙ</span>
+    </a>
+    <a href="greek-hymns-original/641-otan-o-ilios-payei-na-lampei.html" class="song-item">
+        <span class="song-number">641</span>
+        <span class="song-title">ΟΤΑΝ Ο ΗΛΙΟΣ ΠΑΥΕΙ ΝΑ ΛΑΜΠΕΙ</span>
+    </a>
+    <a href="greek-hymns-original/642-pantes-oi-laoi.html" class="song-item">
+        <span class="song-number">642</span>
+        <span class="song-title">ΠΑΝΤΕΣ ΟΙ ΛΑΟΙ</span>
+    </a>
+    <a href="greek-hymns-original/643-pare-ta-elattomata-mas-kyrie.html" class="song-item">
+        <span class="song-number">643</span>
+        <span class="song-title">ΠΑΡΕ ΤΑ ΕΛΑΤΤΩΜΑΤΑ ΜΑΣ, ΚΥΡΙΕ</span>
+    </a>
+    <a href="greek-hymns-original/644-patera-moy-se-parakalo.html" class="song-item">
+        <span class="song-number">644</span>
+        <span class="song-title">ΠΑΤΕΡΑ ΜΟΥ, ΣΕ ΠΑΡΑΚΑΛΩ</span>
+    </a>
+    <a href="greek-hymns-original/645-pilino-skeyos.html" class="song-item">
+        <span class="song-number">645</span>
+        <span class="song-title">ΠΗΛΙΝΟ ΣΚΕΥΟΣ</span>
+    </a>
+    <a href="greek-hymns-original/646-poios-ein-aytos.html" class="song-item">
+        <span class="song-number">646</span>
+        <span class="song-title">ΠΟΙΟΣ ΕΙΝ' ΑΥΤΟΣ</span>
+    </a>
+    <a href="greek-hymns-original/647-poso-eyfrainomai.html" class="song-item">
+        <span class="song-number">647</span>
+        <span class="song-title">ΠΟΣΟ ΕΥΦΡΑΙΝΟΜΑΙ</span>
+    </a>
+    <a href="greek-hymns-original/648-prin-chronia-s-ena-ploio.html" class="song-item">
+        <span class="song-number">648</span>
+        <span class="song-title">ΠΡΙΝ ΧΡΟΝΙΑ Σ' ΕΝΑ ΠΛΟΙΟ</span>
+    </a>
+    <a href="greek-hymns-original/649-reei-zoi-apo-sena-iisoy.html" class="song-item">
+        <span class="song-number">649</span>
+        <span class="song-title">ΡΕΕΙ ΖΩΗ ΑΠΟ ΣΕΝΑ, ΙΗΣΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/650-stachy-moy-germeno.html" class="song-item">
+        <span class="song-number">650</span>
+        <span class="song-title">ΣΤΑΧΥ ΜΟΥ ΓΕΡΜΕΝΟ</span>
+    </a>
+    <a href="greek-hymns-original/651-stis-kardias-ti-thyra.html" class="song-item">
+        <span class="song-number">651</span>
+        <span class="song-title">ΣΤΗΣ ΚΑΡΔΙΑΣ ΤΗ ΘΥΡΑ</span>
+    </a>
+    <a href="greek-hymns-original/652-sto-lychnari-moy-sy-vale-ladi.html" class="song-item">
+        <span class="song-number">652</span>
+        <span class="song-title">ΣΤΟ ΛΥΧΝΑΡΙ ΜΟΥ ΣΥ ΒΑΛΕ ΛΑΔΙ</span>
+    </a>
+    <a href="greek-hymns-original/653-sto-onoma-toy-iisoy.html" class="song-item">
+        <span class="song-number">653</span>
+        <span class="song-title">ΣΤΟ ΟΝΟΜΑ ΤΟΥ ΙΗΣΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/654-ston-oyrano-tha-strafo.html" class="song-item">
+        <span class="song-number">654</span>
+        <span class="song-title">ΣΤΟΝ ΟΥΡΑΝΟ ΘΑ ΣΤΡΑΦΩ</span>
+    </a>
+    <a href="greek-hymns-original/655-ta-matia-soy-mia-mera.html" class="song-item">
+        <span class="song-number">655</span>
+        <span class="song-title">ΤΑ ΜΑΤΙΑ ΣΟΥ ΜΙΑ ΜΕΡΑ</span>
+    </a>
+    <a href="greek-hymns-original/656-ta-cheria-soy-plathoyn-zoi.html" class="song-item">
+        <span class="song-number">656</span>
+        <span class="song-title">ΤΑ ΧΕΡΙΑ ΣΟΥ ΠΛΑΘΟΥΝ ΖΩΗ</span>
+    </a>
+    <a href="greek-hymns-original/657-tapeina-pio-tapeina.html" class="song-item">
+        <span class="song-number">657</span>
+        <span class="song-title">ΤΑΠΕΙΝΑ ΠΙΟ ΤΑΠΕΙΝΑ</span>
+    </a>
+    <a href="greek-hymns-original/658-tin-proti-fora.html" class="song-item">
+        <span class="song-number">658</span>
+        <span class="song-title">ΤΗΝ ΠΡΩΤΗ ΦΟΡΑ</span>
+    </a>
+    <a href="greek-hymns-original/659-t-atsali-ki-an-chtypa-stin-petra.html" class="song-item">
+        <span class="song-number">659</span>
+        <span class="song-title">Τ' ΑΤΣΑΛΙ ΚΙ ΑΝ ΧΤΥΠΑ ΣΤΗΝ ΠΕΤΡΑ</span>
+    </a>
+    <a href="greek-hymns-original/660-ton-esteile-o-pateras.html" class="song-item">
+        <span class="song-number">660</span>
+        <span class="song-title">ΤΟΝ ΕΣΤΕΙΛΕ Ο ΠΑΤΕΡΑΣ</span>
+    </a>
+    <a href="greek-hymns-original/661-ti-itane-na-kano.html" class="song-item">
+        <span class="song-number">661</span>
+        <span class="song-title">ΤΙ ΗΤΑΝΕ ΝΑ ΚΑΝΩ</span>
+    </a>
+    <a href="greek-hymns-original/662-foni-glykia.html" class="song-item">
+        <span class="song-number">662</span>
+        <span class="song-title">ΦΩΝΗ ΓΛΥΚΙΑ</span>
+    </a>
+    <a href="greek-hymns-original/663-fos-toy-oyranoy.html" class="song-item">
+        <span class="song-number">663</span>
+        <span class="song-title">ΦΩΣ ΤΟΥ ΟΥΡΑΝΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/664-chara-perimenei.html" class="song-item">
+        <span class="song-number">664</span>
+        <span class="song-title">ΧΑΡΑ ΠΕΡΙΜΕΝΕΙ</span>
+    </a>
+    <a href="greek-hymns-original/665-psallo-doxa-sto-onoma-soy.html" class="song-item">
+        <span class="song-number">665</span>
+        <span class="song-title">ΨΑΛΛΩ ΔΟΞΑ ΣΤΟ ΟΝΟΜΑ ΣΟΥ</span>
+    </a>
+    <a href="greek-hymns-original/666-o-ase-ton-iisoy-na-parei.html" class="song-item">
+        <span class="song-number">666</span>
+        <span class="song-title">Ω, ΑΣΕ ΤΟΝ ΙΗΣΟΥ ΝΑ ΠΑΡΕΙ</span>
+    </a>
+    <a href="greek-hymns-original/667-o-patera-mas-glyke.html" class="song-item">
+        <span class="song-number">667</span>
+        <span class="song-title">Ω, ΠΑΤΕΡΑ ΜΑΣ ΓΛΥΚΕ</span>
+    </a>

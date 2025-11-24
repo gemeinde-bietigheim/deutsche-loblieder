@@ -1,4 +1,0 @@
-    <a href="english-german-hymns/001-du-grosser-gott.html" class="song-item">
-        <span class="song-number">001</span>
-        <span class="song-title">Du großer Gott wenn ich die Welt betrachte <em>(Good God when I look at the world)</em></span>
-    </a>
