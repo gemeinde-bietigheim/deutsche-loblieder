@@ -1,0 +1,1336 @@
+    <a href="english-hymns/289-tis-ekklisias-vasi.html" class="song-item">
+        <span class="song-number">289</span>
+        <span class="song-title">TIS EKKLISIAS VASI <em>(THE FOUNDATION OF THE CHURCH)</em></span>
+    </a>
+    <a href="english-hymns/290-chareite-irthe-i-ora.html" class="song-item">
+        <span class="song-number">290</span>
+        <span class="song-title">ChAREITE IRThE I ORA <em>(REJOICE THE TIME HAS COME)</em></span>
+    </a>
+    <a href="english-hymns/291-ayxisi-pisteos.html" class="song-item">
+        <span class="song-number">291</span>
+        <span class="song-title">AYXISI PISTEOS <em>(FAITH INCREASE)</em></span>
+    </a>
+    <a href="english-hymns/292-gnorizo-oti-o-theos.html" class="song-item">
+        <span class="song-number">292</span>
+        <span class="song-title">GNORIZO OTI O ThEOS <em>(I KNOW THAT GOD)</em></span>
+    </a>
+    <a href="english-hymns/293-empros-n-akoloythisoyme.html" class="song-item">
+        <span class="song-number">293</span>
+        <span class="song-title">EMPROS N' AKOLOYThISOYME <em>(FORWARD TO FOLLOW)</em></span>
+    </a>
+    <a href="english-hymns/294-zoi-gia-chari-moy.html" class="song-item">
+        <span class="song-number">294</span>
+        <span class="song-title">ZOI GIA ChARI MOY <em>(LIFE FOR MY GRACE)</em></span>
+    </a>
+    <a href="english-hymns/295-nai-prothymos-paradino.html" class="song-item">
+        <span class="song-number">295</span>
+        <span class="song-title">NAI, PROThYMOS PARADINO <em>(YES, I AM WILLING TO DELIVER)</em></span>
+    </a>
+    <a href="english-hymns/296-opoios-chasei-ti-zoi-toy.html" class="song-item">
+        <span class="song-number">296</span>
+        <span class="song-title">OPOIOS ChASEI TI ZOI TOY <em>(WHO LOSES HIS LIFE)</em></span>
+    </a>
+    <a href="english-hymns/297-pare-oli-ti-zoi.html" class="song-item">
+        <span class="song-number">297</span>
+        <span class="song-title">PARE OLI TI ZOI <em>(TAKE YOUR WHOLE LIFE)</em></span>
+    </a>
+    <a href="english-hymns/298-sto-christo-thelo-na-doso.html" class="song-item">
+        <span class="song-number">298</span>
+        <span class="song-title">STO ChRISTO ThELO NA DOSO <em>(TO CHRIST I WANT TO GIVE)</em></span>
+    </a>
+    <a href="english-hymns/299-t-arnoymai-o-christe-moy.html" class="song-item">
+        <span class="song-number">299</span>
+        <span class="song-title">T' ARNOYMAI, O ChRISTE MOY <em>(I DENY IT, OH MY CHRIST)</em></span>
+    </a>
+    <a href="english-hymns/300-to-thelima-soy-mono-ayto.html" class="song-item">
+        <span class="song-number">300</span>
+        <span class="song-title">TO ThELIMA SOY, MONO AYTO! <em>(YOUR WILL, ONLY THIS!)</em></span>
+    </a>
+    <a href="english-hymns/301-to-christo-mas-ean-theleis.html" class="song-item">
+        <span class="song-number">301</span>
+        <span class="song-title">TO ChRISTO MAS EAN ThELEIS <em>(OUR CHRIST IF YOU WANT)</em></span>
+    </a>
+    <a href="english-hymns/302-o-kyrie-moy-poso-lachtaro.html" class="song-item">
+        <span class="song-number">302</span>
+        <span class="song-title">O KYRIE MOY, POSO LAChTARO <em>(OH MY LORD, HOW I LONG)</em></span>
+    </a>
+    <a href="english-hymns/303-anagki-echo-soy.html" class="song-item">
+        <span class="song-number">303</span>
+        <span class="song-title">ANAGKI EChO SOY <em>(I NEED YOU)</em></span>
+    </a>
+    <a href="english-hymns/304-anisychos-einai-o-kosmos.html" class="song-item">
+        <span class="song-number">304</span>
+        <span class="song-title">ANISYChOS EINAI O KOSMOS <em>(THE WORLD IS WORRIED)</em></span>
+    </a>
+    <a href="english-hymns/305-voithise-me-n-anevo.html" class="song-item">
+        <span class="song-number">305</span>
+        <span class="song-title">VOIThISE ME N' ANEVO <em>(HELP ME UP)</em></span>
+    </a>
+    <a href="english-hymns/306-gi-alli-mia-fora.html" class="song-item">
+        <span class="song-number">306</span>
+        <span class="song-title">GI' ALLI MIA FORA <em>(ONCE AGAIN)</em></span>
+    </a>
+    <a href="english-hymns/307-gia-ti-megali-soy-agapi.html" class="song-item">
+        <span class="song-number">307</span>
+        <span class="song-title">GIA TI MEGALI SOY AGAPI <em>(FOR YOUR GREAT LOVE)</em></span>
+    </a>
+    <a href="english-hymns/308-glykeia-ora-proseychis.html" class="song-item">
+        <span class="song-number">308</span>
+        <span class="song-title">GLYKEIA ORA PROSEYChIS <em>(SWEET TIME OF PRAYER)</em></span>
+    </a>
+    <a href="english-hymns/309-deichne-moy-kyrie.html" class="song-item">
+        <span class="song-number">309</span>
+        <span class="song-title">DEIChNE MOY, KYRIE <em>(SHOW ME, LORD)</em></span>
+    </a>
+    <a href="english-hymns/310-dos-moy-agapi-thee-moy.html" class="song-item">
+        <span class="song-number">310</span>
+        <span class="song-title">DOS' MOY AGAPI, ThEE MOY <em>(GIVE ME LOVE, GOD)</em></span>
+    </a>
+    <a href="english-hymns/311-dos-moy-sotira.html" class="song-item">
+        <span class="song-number">311</span>
+        <span class="song-title">DOS' MOY, SOTIRA <em>(GIVE ME, SAVIOR)</em></span>
+    </a>
+    <a href="english-hymns/312-eithe-na-eschizes-thee.html" class="song-item">
+        <span class="song-number">312</span>
+        <span class="song-title">EIThE NA ESChIZES, ThEE <em>(MAY YOU WORK, GOD)</em></span>
+    </a>
+    <a href="english-hymns/313-eim-adynatos-thee.html" class="song-item">
+        <span class="song-number">313</span>
+        <span class="song-title">EIM' ADYNATOS, ThEE <em>(I'M WEAK, GOD)</em></span>
+    </a>
+    <a href="english-hymns/314-ein-i-kardia-moy.html" class="song-item">
+        <span class="song-number">314</span>
+        <span class="song-title">EIN' I KARDIA MOY <em>(IT'S MY HEART)</em></span>
+    </a>
+    <a href="english-hymns/315-etoimi-thee-moy.html" class="song-item">
+        <span class="song-number">315</span>
+        <span class="song-title">ETOIMI, ThEE MOY <em>(READY, OH MY GOD)</em></span>
+    </a>
+    <a href="english-hymns/316-i-elpida-sti-zoi-moy.html" class="song-item">
+        <span class="song-number">316</span>
+        <span class="song-title">I ELPIDA STI ZOI MOY <em>(THE HOPE IN MY LIFE)</em></span>
+    </a>
+    <a href="english-hymns/317-i-pisti-moy-se-se.html" class="song-item">
+        <span class="song-number">317</span>
+        <span class="song-title">I PISTI MOY SE SE <em>(MY FAITH IS IN YOU)</em></span>
+    </a>
+    <a href="english-hymns/318-thelo-christe-moy.html" class="song-item">
+        <span class="song-number">318</span>
+        <span class="song-title">ThELO, ChRISTE MOY <em>(I WANT, MY CHRIST)</em></span>
+    </a>
+    <a href="english-hymns/319-thymamai-christe-moy.html" class="song-item">
+        <span class="song-number">319</span>
+        <span class="song-title">ThYMAMAI, ChRISTE MOY <em>(I REMEMBER, MY CHRIST)</em></span>
+    </a>
+    <a href="english-hymns/320-iisoy-moy-dioxe-to-fovo.html" class="song-item">
+        <span class="song-number">320</span>
+        <span class="song-title">IISOY MOY, DIOXE TO FOVO <em>(JESUS, DRIVE THE FEAR OUT)</em></span>
+    </a>
+    <a href="english-hymns/321-kapoia-mera.html" class="song-item">
+        <span class="song-number">321</span>
+        <span class="song-title">KAPOIA MERA <em>(SOMEDAY)</em></span>
+    </a>
+    <a href="english-hymns/322-kardia-kathari.html" class="song-item">
+        <span class="song-number">322</span>
+        <span class="song-title">KARDIA KAThARI <em>(PURE HEART)</em></span>
+    </a>
+    <a href="english-hymns/323-kyrie-afino-tin-kardia-moy.html" class="song-item">
+        <span class="song-number">323</span>
+        <span class="song-title">KYRIE, AFINO TIN KARDIA MOY <em>(LORD, I LEAVE MY HEART)</em></span>
+    </a>
+    <a href="english-hymns/324-kyrie-sy-me-eirinin.html" class="song-item">
+        <span class="song-number">324</span>
+        <span class="song-title">KYRIE, SY ME EIRININ <em>(LORD, YOU GAVE ME PEACE)</em></span>
+    </a>
+    <a href="english-hymns/325-me-ta-cheria-psila.html" class="song-item">
+        <span class="song-number">325</span>
+        <span class="song-title">ME TA ChERIA PsILA <em>(HANDS UP)</em></span>
+    </a>
+    <a href="english-hymns/326-mono-i-skepsi-moy-se-se.html" class="song-item">
+        <span class="song-number">326</span>
+        <span class="song-title">MONO I SKEPsI MOY SE SE <em>(JUST MY THOUGHT OF YOU)</em></span>
+    </a>
+    <a href="english-hymns/327-mpros-sto-stayro-soy.html" class="song-item">
+        <span class="song-number">327</span>
+        <span class="song-title">MPROS STO STAYRO SOY <em>(FORWARD TO YOUR CROSS)</em></span>
+    </a>
+    <a href="english-hymns/328-nychta-skepase-kai-pali.html" class="song-item">
+        <span class="song-number">328</span>
+        <span class="song-title">NYChTA SKEPASE KAI PALI <em>(NIGHT COVERED AGAIN)</em></span>
+    </a>
+    <a href="english-hymns/329-xero-kyrie-eis-eleimon.html" class="song-item">
+        <span class="song-number">329</span>
+        <span class="song-title">XERO KYRIE EIS' ELEIMON <em>(I KNOW LORD HAVE MERCY)</em></span>
+    </a>
+    <a href="english-hymns/330-otan-elthei-i-nychta.html" class="song-item">
+        <span class="song-number">330</span>
+        <span class="song-title">OTAN ELThEI I NYChTA <em>(WHEN THE NIGHT COMES)</em></span>
+    </a>
+    <a href="english-hymns/331-otan-noiotho-koyrasmenos.html" class="song-item">
+        <span class="song-number">331</span>
+        <span class="song-title">OTAN NOIOThO KOYRASMENOS <em>(WHEN I FEEL TIRED)</em></span>
+    </a>
+    <a href="english-hymns/332-otan-oi-trikymies-elthoyn.html" class="song-item">
+        <span class="song-number">332</span>
+        <span class="song-title">OTAN OI TRIKYMIES ELThOYN <em>(WHEN STORMS COME)</em></span>
+    </a>
+    <a href="english-hymns/333-panta-as-echo-kathari.html" class="song-item">
+        <span class="song-number">333</span>
+        <span class="song-title">PANTA AS EChO KAThARI <em>(ALWAYS LET ME BE CLEAN)</em></span>
+    </a>
+    <a href="english-hymns/334-panta-sto-pleyro-konta-moy.html" class="song-item">
+        <span class="song-number">334</span>
+        <span class="song-title">PANTA STO PLEYRO KONTA MOY <em>(ALWAYS BY MY SIDE)</em></span>
+    </a>
+    <a href="english-hymns/335-patera-pantokrator.html" class="song-item">
+        <span class="song-number">335</span>
+        <span class="song-title">PATERA PANTOKRATOR <em>(FATHER PANTOKRATOR)</em></span>
+    </a>
+    <a href="english-hymns/336-pote-m-alliloyia.html" class="song-item">
+        <span class="song-number">336</span>
+        <span class="song-title">POTE M' «ALLILOYIA!» <em>(NEVER M "HALLELUYAH!")</em></span>
+    </a>
+    <a href="english-hymns/337-s-agapo-christe.html" class="song-item">
+        <span class="song-number">337</span>
+        <span class="song-title">S' AGAPO, ChRISTE <em>(I LOVE YOU, CHRIST)</em></span>
+    </a>
+    <a href="english-hymns/338-san-ayra-glykia.html" class="song-item">
+        <span class="song-number">338</span>
+        <span class="song-title">SAN AYRA GLYKIA <em>(AS SWEET A BREEZE)</em></span>
+    </a>
+    <a href="english-hymns/339-stin-kardia-christe.html" class="song-item">
+        <span class="song-number">339</span>
+        <span class="song-title">STIN KARDIA, ChRISTE <em>(IN THE HEART, CHRIST)</em></span>
+    </a>
+    <a href="english-hymns/340-stis-thlipseis-stoys-ponoys.html" class="song-item">
+        <span class="song-number">340</span>
+        <span class="song-title">STIS ThLIPsEIS, STOYS PONOYS <em>(IN SORROWS, IN PAINS)</em></span>
+    </a>
+    <a href="english-hymns/341-ston-endoxo-soy-throno.html" class="song-item">
+        <span class="song-number">341</span>
+        <span class="song-title">STON ENDOXO SOY ThRONO <em>(ON YOUR GLORIOUS THRONE)</em></span>
+    </a>
+    <a href="english-hymns/342-sy-poy-kosmoys-kyvernas.html" class="song-item">
+        <span class="song-number">342</span>
+        <span class="song-title">SY POY KOSMOYS KYVERNAS <em>(YOU WHO RULE WORLDS)</em></span>
+    </a>
+    <a href="english-hymns/343-t-onoma-soy-latreyo.html" class="song-item">
+        <span class="song-number">343</span>
+        <span class="song-title">T' ONOMA SOY LATREYO <em>(I LOVE YOUR NAME)</em></span>
+    </a>
+    <a href="english-hymns/344-ta-kalytera-logia-moy.html" class="song-item">
+        <span class="song-number">344</span>
+        <span class="song-title">TA KALYTERA LOGIA MOY <em>(MY BEST WORDS)</em></span>
+    </a>
+    <a href="english-hymns/345-ta-matia-moy-psila-ypsono.html" class="song-item">
+        <span class="song-number">345</span>
+        <span class="song-title">TA MATIA MOY PsILA YPsONO <em>(MY EYES HIGH I RISE)</em></span>
+    </a>
+    <a href="english-hymns/346-ti-ki-an-ta-cheria-soy.html" class="song-item">
+        <span class="song-number">346</span>
+        <span class="song-title">TI KI AN TA ChERIA SOY <em>(WHAT IF YOUR HANDS)</em></span>
+    </a>
+    <a href="english-hymns/347-ti-mystirio.html" class="song-item">
+        <span class="song-number">347</span>
+        <span class="song-title">TI MYSTIRIO <em>(WHAT A MYSTERY)</em></span>
+    </a>
+    <a href="english-hymns/348-tis-vroches-tis-eylogias.html" class="song-item">
+        <span class="song-number">348</span>
+        <span class="song-title">TIS VROChES TIS EYLOGIAS <em>(THE RAINS OF BLESSING)</em></span>
+    </a>
+    <a href="english-hymns/349-to-ergo-soy-thee.html" class="song-item">
+        <span class="song-number">349</span>
+        <span class="song-title">TO ERGO SOY, ThEE <em>(YOUR WORK, GOD)</em></span>
+    </a>
+    <a href="english-hymns/350-to-xero-einai-i-chari-soy.html" class="song-item">
+        <span class="song-number">350</span>
+        <span class="song-title">TO XERO, EINAI I ChARI SOY <em>(I KNOW, IT'S YOUR GRACE)</em></span>
+    </a>
+    <a href="english-hymns/351-ypsose-me-yperano.html" class="song-item">
+        <span class="song-number">351</span>
+        <span class="song-title">YPsOSE ME YPERANO <em>(LIFT ME UP)</em></span>
+    </a>
+    <a href="english-hymns/352-fos-tis-psychis-moy.html" class="song-item">
+        <span class="song-number">352</span>
+        <span class="song-title">FOS TIS PsYChIS MOY <em>(LIGHT OF MY SOUL)</em></span>
+    </a>
+    <a href="english-hymns/353-christe-moy-san-syllogisto.html" class="song-item">
+        <span class="song-number">353</span>
+        <span class="song-title">ChRISTE MOY, SAN SYLLOGISTO <em>(CHRIST ME, AS I THINK)</em></span>
+    </a>
+    <a href="english-hymns/354-o-thee-tin-proseychi-moy.html" class="song-item">
+        <span class="song-number">354</span>
+        <span class="song-title">O ThEE, TIN PROSEYChI MOY <em>(OH GOD, MY PRAYER)</em></span>
+    </a>
+    <a href="english-hymns/355-o-kyrie-moy-sy-kai-thee-moy.html" class="song-item">
+        <span class="song-number">355</span>
+        <span class="song-title">O KYRIE MOY, SY, KAI ThEE MOY <em>(OH MY LORD, YOU, AND MY GOD)</em></span>
+    </a>
+    <a href="english-hymns/356-o-pater-imon.html" class="song-item">
+        <span class="song-number">356</span>
+        <span class="song-title">O PATER IMON <em>(O OUR FATHER)</em></span>
+    </a>
+    <a href="english-hymns/357-o-tin-kardia-moy.html" class="song-item">
+        <span class="song-number">357</span>
+        <span class="song-title">O! TIN KARDIA MOY <em>(Oh! MY HEART)</em></span>
+    </a>
+    <a href="english-hymns/358-o-skepsi-glykeia.html" class="song-item">
+        <span class="song-number">358</span>
+        <span class="song-title">O SKEPsI GLYKEIA <em>(OH SWEETNESS THOUGHT)</em></span>
+    </a>
+    <a href="english-hymns/359-o-ti-chara-o-kyrios-me-akoyse.html" class="song-item">
+        <span class="song-number">359</span>
+        <span class="song-title">O TI ChARA! O KYRIOS ME AKOYSE <em>(OH WHAT A JOY! THE LORD HEARD ME)</em></span>
+    </a>
+    <a href="english-hymns/360-akoyse-ti-legei-o-kyrios-moy.html" class="song-item">
+        <span class="song-number">360</span>
+        <span class="song-title">AKOYSE TI LEGEI O KYRIOS MOY <em>(LISTEN TO MY LORD)</em></span>
+    </a>
+    <a href="english-hymns/361-anaggeilate-pantoy.html" class="song-item">
+        <span class="song-number">361</span>
+        <span class="song-title">ANAGGEILATE PANTOY <em>(ADVERTISE EVERYWHERE)</em></span>
+    </a>
+    <a href="english-hymns/362-aperantos-kampos.html" class="song-item">
+        <span class="song-number">362</span>
+        <span class="song-title">APERANTOS KAMPOS <em>(ENDLESS PLAIN)</em></span>
+    </a>
+    <a href="english-hymns/363-apo-tis-groilandias.html" class="song-item">
+        <span class="song-number">363</span>
+        <span class="song-title">APO TIS GROILANDIAS <em>(FROM GREENLAND)</em></span>
+    </a>
+    <a href="english-hymns/364-dipsaei-i-psychi-moy.html" class="song-item">
+        <span class="song-number">364</span>
+        <span class="song-title">DIPsAEI I PsYChI MOY <em>(MY SOUL THIRTS)</em></span>
+    </a>
+    <a href="english-hymns/365-eis-to-ergo-to-theio.html" class="song-item">
+        <span class="song-number">365</span>
+        <span class="song-title">EIS TO ERGO TO ThEIO <em>(YOU ARE THE WORK, THE DIVINE)</em></span>
+    </a>
+    <a href="english-hymns/366-itan-mia-mera-o-iisoys.html" class="song-item">
+        <span class="song-number">366</span>
+        <span class="song-title">ITAN MIA MERA O IISOYS <em>(ONCE UPON A TIME THERE WAS JESUS)</em></span>
+    </a>
+    <a href="english-hymns/367-mia-foni-akoygetai.html" class="song-item">
+        <span class="song-number">367</span>
+        <span class="song-title">MIA FONI AKOYGETAI <em>(A VOICE IS HEARD)</em></span>
+    </a>
+    <a href="english-hymns/368-nai-tha-ergasto.html" class="song-item">
+        <span class="song-number">368</span>
+        <span class="song-title">NAI, ThA ERGASTO <em>(YES I WILL WORK)</em></span>
+    </a>
+    <a href="english-hymns/369-otan-fthaso-eis-tin-doxa.html" class="song-item">
+        <span class="song-number">369</span>
+        <span class="song-title">OTAN FThASO EIS TIN DOXA <em>(WHEN I ARRIVE IN GLORY)</em></span>
+    </a>
+    <a href="english-hymns/370-pirame-sta-cheria.html" class="song-item">
+        <span class="song-number">370</span>
+        <span class="song-title">PIRAME STA ChERIA <em>(WE HOLD HANDS)</em></span>
+    </a>
+    <a href="english-hymns/371-pos-mporo-na-synantiso.html" class="song-item">
+        <span class="song-number">371</span>
+        <span class="song-title">POS MPORO NA SYNANTISO <em>(HOW CAN I MEET)</em></span>
+    </a>
+    <a href="english-hymns/372-s-opoion-topo-to-ichnos.html" class="song-item">
+        <span class="song-number">372</span>
+        <span class="song-title">S' OPOION TOPO TO IChNOS <em>(IN ANY PLACE THE TRACE)</em></span>
+    </a>
+    <a href="english-hymns/373-speire-tin-proia.html" class="song-item">
+        <span class="song-number">373</span>
+        <span class="song-title">SPEIRE TIN PROIA <em>(SOW THE MORNING)</em></span>
+    </a>
+    <a href="english-hymns/374-sy-poy-vrikes-tin-eirini.html" class="song-item">
+        <span class="song-number">374</span>
+        <span class="song-title">SY POY VRIKES TIN EIRINI <em>(YOU WHO FOUND PEACE)</em></span>
+    </a>
+    <a href="english-hymns/375-sose-ton-paschonta.html" class="song-item">
+        <span class="song-number">375</span>
+        <span class="song-title">SOSE TON PASChONTA <em>(SAVE THE PATIENT)</em></span>
+    </a>
+    <a href="english-hymns/376-to-kirygma-toy-logoy.html" class="song-item">
+        <span class="song-number">376</span>
+        <span class="song-title">TO KIRYGMA TOY LOGOY <em>(THE PREACHING OF THE WORD)</em></span>
+    </a>
+    <a href="english-hymns/377-christiane-ergasoy.html" class="song-item">
+        <span class="song-number">377</span>
+        <span class="song-title">ChRISTIANE, ERGASOY <em>(CHRISTIAN, WORK)</em></span>
+    </a>
+    <a href="english-hymns/378-psallate-seis-to-endoxo.html" class="song-item">
+        <span class="song-number">378</span>
+        <span class="song-title">PsALLATE SEIS TO ENDOXO <em>(SING THE GLORY)</em></span>
+    </a>
+    <a href="english-hymns/379-o-poios-makria.html" class="song-item">
+        <span class="song-number">379</span>
+        <span class="song-title">O! POIOS MAKRIA <em>(Oh! WHO AWAY)</em></span>
+    </a>
+    <a href="english-hymns/380-akoysa-polles-fores.html" class="song-item">
+        <span class="song-number">380</span>
+        <span class="song-title">AKOYSA POLLES FORES <em>(HEARD MANY TIMES)</em></span>
+    </a>
+    <a href="english-hymns/381-ein-o-theos-mas-dimioyrgos.html" class="song-item">
+        <span class="song-number">381</span>
+        <span class="song-title">EIN' O ThEOS MAS DIMIOYRGOS <em>(HE IS OUR CREATOR GOD)</em></span>
+    </a>
+    <a href="english-hymns/382-paron-o-megas-iatros.html" class="song-item">
+        <span class="song-number">382</span>
+        <span class="song-title">PARON O MEGAS IATROS <em>(THE GREAT PHYSICIAN IS PRESENT)</em></span>
+    </a>
+    <a href="english-hymns/383-ti-glykeia-aggelia.html" class="song-item">
+        <span class="song-number">383</span>
+        <span class="song-title">TI GLYKEIA AGGELIA <em>(WHAT A SWEET ANNOUNCEMENT)</em></span>
+    </a>
+    <a href="english-hymns/384-alliloyia-ti-chara.html" class="song-item">
+        <span class="song-number">384</span>
+        <span class="song-title">ALLILOYIA! TI ChARA! <em>(ALLELUIA! WHAT A JOY!)</em></span>
+    </a>
+    <a href="english-hymns/385-an-o-kosmos-se-misei.html" class="song-item">
+        <span class="song-number">385</span>
+        <span class="song-title">AN O KOSMOS SE MISEI <em>(IF THE WORLD HATE YOU)</em></span>
+    </a>
+    <a href="english-hymns/386-gia-toy-christoy-ti-chari.html" class="song-item">
+        <span class="song-number">386</span>
+        <span class="song-title">GIA TOY ChRISTOY TI ChARI <em>(FOR CHRIST'S SAKE)</em></span>
+    </a>
+    <a href="english-hymns/387-den-xechna-den-xechna.html" class="song-item">
+        <span class="song-number">387</span>
+        <span class="song-title">DEN XEChNA, DEN XEChNA! <em>(DON'T FORGET, DON'T FORGET!)</em></span>
+    </a>
+    <a href="english-hymns/388-egerthit-oi-sesosmenoi.html" class="song-item">
+        <span class="song-number">388</span>
+        <span class="song-title">EGERThIT' OI SESOSMENOI <em>(THE REBELS RISE)</em></span>
+    </a>
+    <a href="english-hymns/389-ein-aytos-nikitis.html" class="song-item">
+        <span class="song-number">389</span>
+        <span class="song-title">EIN' AYTOS NIKITIS! <em>(THIS IS THE WINNER!)</em></span>
+    </a>
+    <a href="english-hymns/390-empros-se-krazei-o-christos.html" class="song-item">
+        <span class="song-number">390</span>
+        <span class="song-title">EMPROS, SE KRAZEI O ChRISTOS <em>(GO AHEAD, CHRIST IS CALLING YOU)</em></span>
+    </a>
+    <a href="english-hymns/391-erchet-i-nychta.html" class="song-item">
+        <span class="song-number">391</span>
+        <span class="song-title">ERChET' I NYChTA <em>(THE NIGHT IS COMING)</em></span>
+    </a>
+    <a href="english-hymns/392-i-trikymia-voyizei.html" class="song-item">
+        <span class="song-number">392</span>
+        <span class="song-title">I TRIKYMIA VOYIZEI <em>(THE STORM IS ROUNDING)</em></span>
+    </a>
+    <a href="english-hymns/393-tha-se-fylaei-o-theos.html" class="song-item">
+        <span class="song-number">393</span>
+        <span class="song-title">ThA SE FYLAEI O ThEOS <em>(GOD WILL KEEP YOU)</em></span>
+    </a>
+    <a href="english-hymns/394-thelo-na-pisteyo.html" class="song-item">
+        <span class="song-number">394</span>
+        <span class="song-title">ThELO NA PISTEYO <em>(I WANT TO BELIEVE)</em></span>
+    </a>
+    <a href="english-hymns/395-thoryvoi-kai-taraches.html" class="song-item">
+        <span class="song-number">395</span>
+        <span class="song-title">ThORYVOI KAI TARAChES <em>(NOISES AND DISTURBANCE)</em></span>
+    </a>
+    <a href="english-hymns/396-kai-an-oryetai-o-echthros.html" class="song-item">
+        <span class="song-number">396</span>
+        <span class="song-title">KAI AN ORYETAI O EChThROS <em>(AND IF THE ENEMY APPEARS)</em></span>
+    </a>
+    <a href="english-hymns/397-kapoia-mera-ekei-stin-iericho.html" class="song-item">
+        <span class="song-number">397</span>
+        <span class="song-title">KAPOIA MERA EKEI STIN IERIChO <em>(SOME DAY THERE IN JERICHO)</em></span>
+    </a>
+    <a href="english-hymns/398-me-opla-oyrania.html" class="song-item">
+        <span class="song-number">398</span>
+        <span class="song-title">ME OPLA OYRANIA <em>(WITH HEAVENLY WEAPONS)</em></span>
+    </a>
+    <a href="english-hymns/399-me-ton-iisoy-vadizo-asfalos.html" class="song-item">
+        <span class="song-number">399</span>
+        <span class="song-title">ME TON IISOY VADIZO ASFALOS <em>(WITH JESUS ​​I WALK SAFELY)</em></span>
+    </a>
+    <a href="english-hymns/400-menei-statheri.html" class="song-item">
+        <span class="song-number">400</span>
+        <span class="song-title">MENEI STAThERI <em>(STAYING STABLE)</em></span>
+    </a>
+    <a href="english-hymns/401-mes-ston-trachy-moy-to-dromo.html" class="song-item">
+        <span class="song-number">401</span>
+        <span class="song-title">MES STON TRAChY MOY TO DROMO <em>(THROUGH MY ROUGH ROAD)</em></span>
+    </a>
+    <a href="english-hymns/402-mes-sto-skotadi-to-pykno.html" class="song-item">
+        <span class="song-number">402</span>
+        <span class="song-title">MES STO SKOTADI TO PYKNO <em>(THROUGH THE DARKNESS THE DENSE)</em></span>
+    </a>
+    <a href="english-hymns/403-mi-fovitheis-se-lytrosa.html" class="song-item">
+        <span class="song-number">403</span>
+        <span class="song-title">MI FOVIThEIS, SE LYTROSA <em>(FEAR NOT, I REDEEMED YOU)</em></span>
+    </a>
+    <a href="english-hymns/404-nai-o-echthros-mes-sti-zoi.html" class="song-item">
+        <span class="song-number">404</span>
+        <span class="song-title">NAI, O EChThROS MES STI ZOI <em>(YES, THE ENEMY IN LIFE)</em></span>
+    </a>
+    <a href="english-hymns/405-o-dromos-soy-erimos.html" class="song-item">
+        <span class="song-number">405</span>
+        <span class="song-title">O DROMOS SOY ERIMOS <em>(YOUR ROAD IS DESERT)</em></span>
+    </a>
+    <a href="english-hymns/406-o-theos-moy-poy-pisteyo.html" class="song-item">
+        <span class="song-number">406</span>
+        <span class="song-title">O ThEOS MOY, POY PISTEYO <em>(MY GOD, IN WHOM I BELIEVE)</em></span>
+    </a>
+    <a href="english-hymns/407-o-kyrios-einai-fos-moy.html" class="song-item">
+        <span class="song-number">407</span>
+        <span class="song-title">O KYRIOS EINAI FOS MOY <em>(THE LORD IS MY LIGHT)</em></span>
+    </a>
+    <a href="english-hymns/408-o-kyrios-th-anoixei-odo-gia-me.html" class="song-item">
+        <span class="song-number">408</span>
+        <span class="song-title">O KYRIOS Th' ANOIXEI ODO GIA ME <em>(THE LORD WILL OPEN A WAY FOR ME)</em></span>
+    </a>
+    <a href="english-hymns/409-opos-to-elafi-panta.html" class="song-item">
+        <span class="song-number">409</span>
+        <span class="song-title">OPOS TO ELAFI PANTA <em>(AS THE DEER ALWAYS)</em></span>
+    </a>
+    <a href="english-hymns/410-otan-thlipseis-kai-dokimasies.html" class="song-item">
+        <span class="song-number">410</span>
+        <span class="song-title">OTAN ThLIPsEIS KAI DOKIMASIES <em>(WHEN SORROWS AND TRIALS)</em></span>
+    </a>
+    <a href="english-hymns/411-otan-thyelles-toy-vioy.html" class="song-item">
+        <span class="song-number">411</span>
+        <span class="song-title">OTAN ThYELLES TOY VIOY <em>(WHEN LIFE STORMS)</em></span>
+    </a>
+    <a href="english-hymns/412-otan-tis-zois-o-dromos.html" class="song-item">
+        <span class="song-number">412</span>
+        <span class="song-title">OTAN TIS ZOIS O DROMOS <em>(WHEN OF LIFE THE ROAD)</em></span>
+    </a>
+    <a href="english-hymns/413-otan-ton-ilio-skepazoyn.html" class="song-item">
+        <span class="song-number">413</span>
+        <span class="song-title">OTAN TON ILIO SKEPAZOYN <em>(WHEN THEY COVER THE SUN)</em></span>
+    </a>
+    <a href="english-hymns/414-panta-fero-ton-stayro-moy.html" class="song-item">
+        <span class="song-number">414</span>
+        <span class="song-title">PANTA FERO TON STAYRO MOY <em>(I ALWAYS BEAR MY CROSS)</em></span>
+    </a>
+    <a href="english-hymns/415-piste-ton-kalon-agona.html" class="song-item">
+        <span class="song-number">415</span>
+        <span class="song-title">PISTE, TON KALON AGONA <em>(BELIEVE, THE GOOD FIGHT)</em></span>
+    </a>
+    <a href="english-hymns/416-pros-tin-poli-tin-agia.html" class="song-item">
+        <span class="song-number">416</span>
+        <span class="song-title">PROS TIN POLI TIN AGIA <em>(TOWARDS THE CITY OF AGIA)</em></span>
+    </a>
+    <a href="english-hymns/417-san-stratiotis-toy-christoy.html" class="song-item">
+        <span class="song-number">417</span>
+        <span class="song-title">SAN STRATIOTIS TOY ChRISTOY <em>(AS A SOLDIER OF CHRIST)</em></span>
+    </a>
+    <a href="english-hymns/418-san-prochoro-me-to-christo.html" class="song-item">
+        <span class="song-number">418</span>
+        <span class="song-title">SAN PROChORO ME TO ChRISTO <em>(AS I PROCEED WITH CHRIST)</em></span>
+    </a>
+    <a href="english-hymns/419-san-ta-ori-poy-menoyn.html" class="song-item">
+        <span class="song-number">419</span>
+        <span class="song-title">SAN TA ORI POY MENOYN <em>(LIKE THE MOUNTAINS THAT STAY)</em></span>
+    </a>
+    <a href="english-hymns/420-san-ton-iisoy-den-echo.html" class="song-item">
+        <span class="song-number">420</span>
+        <span class="song-title">SAN TON IISOY DEN EChO <em>(LIKE JESUS ​​I HAVE NOTHING)</em></span>
+    </a>
+    <a href="english-hymns/421-sta-voyna-psila.html" class="song-item">
+        <span class="song-number">421</span>
+        <span class="song-title">STA VOYNA PsILA <em>(IN THE HIGH MOUNTAINS)</em></span>
+    </a>
+    <a href="english-hymns/422-sti-machi-tora.html" class="song-item">
+        <span class="song-number">422</span>
+        <span class="song-title">STI MAChI TORA <em>(TO BATTLE NOW)</em></span>
+    </a>
+    <a href="english-hymns/423-stirizetai-i-pisti-moy.html" class="song-item">
+        <span class="song-number">423</span>
+        <span class="song-title">STIRIZETAI I PISTI MOY <em>(MY FAITH IS UPHOLD)</em></span>
+    </a>
+    <a href="english-hymns/424-stis-thlipseis-tis-zois-moy.html" class="song-item">
+        <span class="song-number">424</span>
+        <span class="song-title">STIS ThLIPsEIS TIS ZOIS MOY <em>(IN THE SORROWS OF MY LIFE)</em></span>
+    </a>
+    <a href="english-hymns/425-sto-strato-toy-iisoy-moy.html" class="song-item">
+        <span class="song-number">425</span>
+        <span class="song-title">STO STRATO TOY IISOY MOY <em>(IN THE ARMY OF MY JESUS)</em></span>
+    </a>
+    <a href="english-hymns/426-sy-didaskalos-toy-kosmoy.html" class="song-item">
+        <span class="song-number">426</span>
+        <span class="song-title">SY DIDASKALOS TOY KOSMOY <em>(YOU TEACHER OF THE WORLD)</em></span>
+    </a>
+    <a href="english-hymns/427-to-fortio-tis-zois.html" class="song-item">
+        <span class="song-number">427</span>
+        <span class="song-title">TO FORTIO TIS ZOIS <em>(THE BURDEN OF LIFE)</em></span>
+    </a>
+    <a href="english-hymns/428-toy-christoy-oplites.html" class="song-item">
+        <span class="song-number">428</span>
+        <span class="song-title">TOY ChRISTOY OPLITES <em>(ARMY OF CHRIST)</em></span>
+    </a>
+    <a href="english-hymns/429-yparchei-vrachos-skieros.html" class="song-item">
+        <span class="song-number">429</span>
+        <span class="song-title">YPARChEI VRAChOS SKIEROS <em>(THERE IS A SKIERO ROCK)</em></span>
+    </a>
+    <a href="english-hymns/430-fereis-to-fortio.html" class="song-item">
+        <span class="song-number">430</span>
+        <span class="song-title">FEREIS TO FORTIO <em>(YOU CARRY THE LOAD)</em></span>
+    </a>
+    <a href="english-hymns/431-fotia-pantoy-anavei.html" class="song-item">
+        <span class="song-number">431</span>
+        <span class="song-title">FOTIA PANTOY ANAVEI <em>(FIRE IS LIGHTING EVERYWHERE)</em></span>
+    </a>
+    <a href="english-hymns/432-christiane-eche-tharros.html" class="song-item">
+        <span class="song-number">432</span>
+        <span class="song-title">ChRISTIANE, EChE ThARROS <em>(CHRISTIAN, HAVE COURAGE)</em></span>
+    </a>
+    <a href="english-hymns/433-o-vrache-ton-aionon.html" class="song-item">
+        <span class="song-number">433</span>
+        <span class="song-title">O VRAChE TON AIONON <em>(O ROCK OF AGES)</em></span>
+    </a>
+    <a href="english-hymns/434-o-kyrie-prostati-ischyre-mas.html" class="song-item">
+        <span class="song-number">434</span>
+        <span class="song-title">O KYRIE, PROSTATI ISChYRE MAS <em>(OH LORD, OUR MIGHTY PROTECTOR)</em></span>
+    </a>
+    <a href="english-hymns/435-o-piste-prochora.html" class="song-item">
+        <span class="song-number">435</span>
+        <span class="song-title">O PISTE, PROChORA <em>(OH BELIEVE, GO AHEAD)</em></span>
+    </a>
+    <a href="english-hymns/436-o-ti-stereo.html" class="song-item">
+        <span class="song-number">436</span>
+        <span class="song-title">O! TI STEREO <em>(Oh! WHAT A SOLID)</em></span>
+    </a>
+    <a href="english-hymns/437-amarties-soy-an-einai.html" class="song-item">
+        <span class="song-number">437</span>
+        <span class="song-title">AMARTIES SOY AN EINAI <em>(YOUR SINS IF THEY ARE)</em></span>
+    </a>
+    <a href="english-hymns/438-an-theleis-tora-n-apolytrotheis.html" class="song-item">
+        <span class="song-number">438</span>
+        <span class="song-title">AN ThELEIS TORA N' APOLYTROThEIS <em>(IF YOU WANT TO BE LIBERATED NOW)</em></span>
+    </a>
+    <a href="english-hymns/439-arage-eisai-christianos.html" class="song-item">
+        <span class="song-number">439</span>
+        <span class="song-title">ARAGE EISAI ChRISTIANOS <em>(ARE YOU A CHRISTIAN?)</em></span>
+    </a>
+    <a href="english-hymns/440-des-ta-krina.html" class="song-item">
+        <span class="song-number">440</span>
+        <span class="song-title">DES TA KRINA <em>(SEE THE LILIES)</em></span>
+    </a>
+    <a href="english-hymns/441-diati-den-epistrefeis.html" class="song-item">
+        <span class="song-number">441</span>
+        <span class="song-title">DIATI DEN EPISTREFEIS <em>(WHY AREN'T YOU COMING BACK?)</em></span>
+    </a>
+    <a href="english-hymns/442-ela-psychi-n-akoyseis.html" class="song-item">
+        <span class="song-number">442</span>
+        <span class="song-title">ELA, PsYChI, N' AKOYSEIS <em>(COME, SOUL, LISTEN)</em></span>
+    </a>
+    <a href="english-hymns/443-zitise-ti-vasileia.html" class="song-item">
+        <span class="song-number">443</span>
+        <span class="song-title">ZITISE TI VASILEIA <em>(ASK FOR THE KINGDOM)</em></span>
+    </a>
+    <a href="english-hymns/444-i-galinia-foni.html" class="song-item">
+        <span class="song-number">444</span>
+        <span class="song-title">I GALINIA FONI <em>(THE PEACEFUL VOICE)</em></span>
+    </a>
+    <a href="english-hymns/445-thelei-na-s-aggixei.html" class="song-item">
+        <span class="song-number">445</span>
+        <span class="song-title">ThELEI NA S' AGGIXEI <em>(HE WANTS TO TOUCH YOU)</em></span>
+    </a>
+    <a href="english-hymns/446-kapoios-noiazetai-gia-sena.html" class="song-item">
+        <span class="song-number">446</span>
+        <span class="song-title">KAPOIOS NOIAZETAI GIA SENA <em>(SOMEONE CARES ABOUT YOU)</em></span>
+    </a>
+    <a href="english-hymns/447-m-ena-vlemma-pisto.html" class="song-item">
+        <span class="song-number">447</span>
+        <span class="song-title">M' ENA VLEMMA PISTO <em>(WITH ONE LOOK FAITHFUL)</em></span>
+    </a>
+    <a href="english-hymns/448-mes-sti-thermi-toy-agkali.html" class="song-item">
+        <span class="song-number">448</span>
+        <span class="song-title">MES STI ThERMI TOY AGKALI <em>(IN THE HEAT OF AGALI)</em></span>
+    </a>
+    <a href="english-hymns/449-mes-ston-kosmo-koyrasmenos.html" class="song-item">
+        <span class="song-number">449</span>
+        <span class="song-title">MES STON KOSMO KOYRASMENOS <em>(THROUGH THE WORLD WEARY)</em></span>
+    </a>
+    <a href="english-hymns/450-min-ameleis-einai-kairos.html" class="song-item">
+        <span class="song-number">450</span>
+        <span class="song-title">MIN AMELEIS, EINAI KAIROS <em>(DON'T BE NEGLECTED, IT'S TIME)</em></span>
+    </a>
+    <a href="english-hymns/451-mipos-nychta-mayri.html" class="song-item">
+        <span class="song-number">451</span>
+        <span class="song-title">MIPOS NYChTA MAYRI <em>(BLACK AS NIGHT)</em></span>
+    </a>
+    <a href="english-hymns/452-o-iisoys-se-proskalei.html" class="song-item">
+        <span class="song-number">452</span>
+        <span class="song-title">O IISOYS SE PROSKALEI! <em>(JESUS ​​INVITES YOU!)</em></span>
+    </a>
+    <a href="english-hymns/453-o-christos-amartoloys.html" class="song-item">
+        <span class="song-number">453</span>
+        <span class="song-title">O ChRISTOS AMARTOLOYS <em>(CHRISTOS AMARTOLOUS)</em></span>
+    </a>
+    <a href="english-hymns/454-pistepse-eis-to-sotira.html" class="song-item">
+        <span class="song-number">454</span>
+        <span class="song-title">PISTEPsE EIS TO SOTIRA <em>(BELIEVE IN THE SAVIOR)</em></span>
+    </a>
+    <a href="english-hymns/455-poso-glyka-o-christos-se-fonazei.html" class="song-item">
+        <span class="song-number">455</span>
+        <span class="song-title">POSO GLYKA O ChRISTOS SE FONAZEI <em>(HOW SWEETLY CHRIST IS CALLING YOU)</em></span>
+    </a>
+    <a href="english-hymns/456-poy-eisai-paidi-moy-agapito.html" class="song-item">
+        <span class="song-number">456</span>
+        <span class="song-title">POY EISAI PAIDI MOY AGAPITO <em>(WHERE ARE YOU MY BELOVED CHILD)</em></span>
+    </a>
+    <a href="english-hymns/457-san-tha-erthei-i-mera.html" class="song-item">
+        <span class="song-number">457</span>
+        <span class="song-title">SAN ThA ERThEI I MERA <em>(AS IF THE DAY WILL COME)</em></span>
+    </a>
+    <a href="english-hymns/458-st-aytia-moy-antichoyn.html" class="song-item">
+        <span class="song-number">458</span>
+        <span class="song-title">ST' AYTIA MOY ANTIChOYN <em>(THEY ROOM IN MY EARS)</em></span>
+    </a>
+    <a href="english-hymns/459-sti-zoi-an-noiotheis-sychna.html" class="song-item">
+        <span class="song-number">459</span>
+        <span class="song-title">STI ZOI AN NOIOThEIS SYChNA <em>(IN LIFE IF YOU FEEL OFTEN)</em></span>
+    </a>
+    <a href="english-hymns/460-stin-agkalia-toy-christoy-mas.html" class="song-item">
+        <span class="song-number">460</span>
+        <span class="song-title">STIN AGKALIA TOY ChRISTOY MAS <em>(IN THE EMBRACE OF OUR CHRIST)</em></span>
+    </a>
+    <a href="english-hymns/461-ston-kosmo-gyro.html" class="song-item">
+        <span class="song-number">461</span>
+        <span class="song-title">STON KOSMO GYRO <em>(IN THE WORLD AROUND)</em></span>
+    </a>
+    <a href="english-hymns/462-talaipori-psychi.html" class="song-item">
+        <span class="song-number">462</span>
+        <span class="song-title">TALAIPORI PsYChI <em>(SUFFERING SOUL)</em></span>
+    </a>
+    <a href="english-hymns/463-ti-istoria-glykia.html" class="song-item">
+        <span class="song-number">463</span>
+        <span class="song-title">TI ISTORIA GLYKIA! <em>(WHAT A SWEET STORY!)</em></span>
+    </a>
+    <a href="english-hymns/464-ti-perimeneis-tora.html" class="song-item">
+        <span class="song-number">464</span>
+        <span class="song-title">TI PERIMENEIS TORA <em>(WHAT ARE YOU WAITING FOR NOW)</em></span>
+    </a>
+    <a href="english-hymns/465-yparchei-odos.html" class="song-item">
+        <span class="song-number">465</span>
+        <span class="song-title">YPARChEI ODOS <em>(THERE IS A WAY)</em></span>
+    </a>
+    <a href="english-hymns/466-yparchei-pigi.html" class="song-item">
+        <span class="song-number">466</span>
+        <span class="song-title">YPARChEI PIGI <em>(THERE IS A SOURCE)</em></span>
+    </a>
+    <a href="english-hymns/467-charis-ti-ergo.html" class="song-item">
+        <span class="song-number">467</span>
+        <span class="song-title">ChARIS! TI ERGO <em>(GRACE! WHAT A PROJECT)</em></span>
+    </a>
+    <a href="english-hymns/468-o-ela-tora-eis-to-christo.html" class="song-item">
+        <span class="song-number">468</span>
+        <span class="song-title">O! ELA TORA EIS TO ChRISTO <em>(Oh! COME NOW YOU ARE THE CHRIST)</em></span>
+    </a>
+    <a href="english-hymns/469-o-esy-p-akoys-ta-logia.html" class="song-item">
+        <span class="song-number">469</span>
+        <span class="song-title">O! ESY P' AKOYS TA LOGIA <em>(Oh! YOU WHO LISTEN TO THE WORDS)</em></span>
+    </a>
+    <a href="english-hymns/470-o-etoimase-o-christos.html" class="song-item">
+        <span class="song-number">470</span>
+        <span class="song-title">O! ETOIMASE O ChRISTOS <em>(Oh! CHRIST PREPARED)</em></span>
+    </a>
+    <a href="english-hymns/471-o-theia-krini.html" class="song-item">
+        <span class="song-number">471</span>
+        <span class="song-title">O ThEIA KRINI <em>(O DIVINE FOUNTAIN)</em></span>
+    </a>
+    <a href="english-hymns/472-arage-tha-synachthoyme.html" class="song-item">
+        <span class="song-number">472</span>
+        <span class="song-title">ARAGE ThA SYNAChThOYME <em>(WILL WE GET TOGETHER?)</em></span>
+    </a>
+    <a href="english-hymns/473-vadizoyme-gia-tin-ieroysalim.html" class="song-item">
+        <span class="song-number">473</span>
+        <span class="song-title">VADIZOYME GIA TIN IEROYSALIM! <em>(WE MARCH FOR JERUSALEM!)</em></span>
+    </a>
+    <a href="english-hymns/474-vainomen-pros-tin-patrida.html" class="song-item">
+        <span class="song-number">474</span>
+        <span class="song-title">VAINOMEN PROS TIN PATRIDA <em>(VEINOMEN TO THE HOMELAND)</em></span>
+    </a>
+    <a href="english-hymns/475-vlepoyne-ta-matia-moy.html" class="song-item">
+        <span class="song-number">475</span>
+        <span class="song-title">VLEPOYNE TA MATIA MOY <em>(THEY SEE MY EYES)</em></span>
+    </a>
+    <a href="english-hymns/476-gigantes-tha-pesoyn.html" class="song-item">
+        <span class="song-number">476</span>
+        <span class="song-title">GIGANTES ThA PESOYN <em>(GIANTS WILL FALL)</em></span>
+    </a>
+    <a href="english-hymns/477-den-zitao-ta-ployti.html" class="song-item">
+        <span class="song-number">477</span>
+        <span class="song-title">DEN ZITAO TA PLOYTI <em>(I DON'T ASK FOR RICHES)</em></span>
+    </a>
+    <a href="english-hymns/478-dyskoloi-kairoi.html" class="song-item">
+        <span class="song-number">478</span>
+        <span class="song-title">DYSKOLOI KAIROI <em>(HARD TIMES)</em></span>
+    </a>
+    <a href="english-hymns/479-eimast-emeis-laos-theoy.html" class="song-item">
+        <span class="song-number">479</span>
+        <span class="song-title">EIMAST' EMEIS LAOS ThEOY <em>(WE ARE THE PEOPLE OF GOD)</em></span>
+    </a>
+    <a href="english-hymns/480-eimast-emeis-oi-odoiporoi.html" class="song-item">
+        <span class="song-number">480</span>
+        <span class="song-title">EIMAST' EMEIS OI ODOIPOROI <em>(WE ARE THE TRAVELERS)</em></span>
+    </a>
+    <a href="english-hymns/481-eis-ta-ypsi-t-oyranoy.html" class="song-item">
+        <span class="song-number">481</span>
+        <span class="song-title">EIS TA YPsI T' OYRANOY <em>(IN THE HEIGHTS OF HEAVEN)</em></span>
+    </a>
+    <a href="english-hymns/482-erchetai-erchetai.html" class="song-item">
+        <span class="song-number">482</span>
+        <span class="song-title">ERChETAI, ERChETAI <em>(IT'S COMING, IT'S COMING)</em></span>
+    </a>
+    <a href="english-hymns/483-echo-akoysei-yparchei-mia-chora.html" class="song-item">
+        <span class="song-number">483</span>
+        <span class="song-title">EChO AKOYSEI YPARChEI MIA ChORA <em>(I HAVE HEARD THERE IS A COUNTRY)</em></span>
+    </a>
+    <a href="english-hymns/484-i-imera-einai-plision.html" class="song-item">
+        <span class="song-number">484</span>
+        <span class="song-title">I IMERA EINAI PLISION <em>(THE DAY IS NEAR)</em></span>
+    </a>
+    <a href="english-hymns/485-tha-se-doyme-ekei-pano.html" class="song-item">
+        <span class="song-number">485</span>
+        <span class="song-title">ThA SE DOYME EKEI PANO <em>(WE'LL SEE YOU UP THERE)</em></span>
+    </a>
+    <a href="english-hymns/486-tha-rthei-grigora-i-mera.html" class="song-item">
+        <span class="song-number">486</span>
+        <span class="song-title">ThA 'RThEI GRIGORA I MERA <em>(THE DAY WILL COME QUICKLY)</em></span>
+    </a>
+    <a href="english-hymns/487-thelo-na-se-ymno.html" class="song-item">
+        <span class="song-number">487</span>
+        <span class="song-title">ThELO NA SE YMNO <em>(I WANT TO PRAISE YOU)</em></span>
+    </a>
+    <a href="english-hymns/488-iisoy-moy-sy-i-zoi-moy.html" class="song-item">
+        <span class="song-number">488</span>
+        <span class="song-title">IISOY MOY, SY I ZOI MOY <em>(MY JESUS, YOU ARE MY LIFE)</em></span>
+    </a>
+    <a href="english-hymns/489-kaneis-apo-mas.html" class="song-item">
+        <span class="song-number">489</span>
+        <span class="song-title">KANEIS APO MAS <em>(YOU ARE ONE OF US)</em></span>
+    </a>
+    <a href="english-hymns/490-koitaxte-psila.html" class="song-item">
+        <span class="song-number">490</span>
+        <span class="song-title">KOITAXTE PsILA <em>(LOOK UP)</em></span>
+    </a>
+    <a href="english-hymns/491-lampros-o-dromos-t-oyranoy.html" class="song-item">
+        <span class="song-number">491</span>
+        <span class="song-title">LAMPROS O DROMOS T' OYRANOY! <em>(BRILLIANT ROAD OF HEAVEN!)</em></span>
+    </a>
+    <a href="english-hymns/492-lamprotera-ilioy-i-gi.html" class="song-item">
+        <span class="song-number">492</span>
+        <span class="song-title">LAMPROTERA ILIOY I GI <em>(BRIGHTER SUNSHINE THE EARTH)</em></span>
+    </a>
+    <a href="english-hymns/493-o-kyrios-einai-ischys-moy.html" class="song-item">
+        <span class="song-number">493</span>
+        <span class="song-title">O KYRIOS EINAI ISChYS MOY <em>(THE LORD IS MY STRENGTH)</em></span>
+    </a>
+    <a href="english-hymns/494-odo-thanatoy-ki-enochis.html" class="song-item">
+        <span class="song-number">494</span>
+        <span class="song-title">ODO ThANATOY KI ENOChIS <em>(DEATH AND GUILT STREET)</em></span>
+    </a>
+    <a href="english-hymns/495-otan-i-zoi-parelthei.html" class="song-item">
+        <span class="song-number">495</span>
+        <span class="song-title">OTAN I ZOI PARELThEI <em>(WHEN LIFE IS OVER)</em></span>
+    </a>
+    <a href="english-hymns/496-otan-pera-apo-t-asteria.html" class="song-item">
+        <span class="song-number">496</span>
+        <span class="song-title">OTAN PERA APO T' ASTERIA <em>(WHEN BEYOND THE STAR)</em></span>
+    </a>
+    <a href="english-hymns/497-pame-gia-ton-oyrano.html" class="song-item">
+        <span class="song-number">497</span>
+        <span class="song-title">PAME GIA TON OYRANO <em>(LET'S GO FOR THE SKY)</em></span>
+    </a>
+    <a href="english-hymns/498-pao-gia-na-synantiso.html" class="song-item">
+        <span class="song-number">498</span>
+        <span class="song-title">PAO, GIA NA SYNANTISO <em>(I GO, TO MEET)</em></span>
+    </a>
+    <a href="english-hymns/499-pera-apo-ton-ilio.html" class="song-item">
+        <span class="song-number">499</span>
+        <span class="song-title">PERA APO TON ILIO <em>(BEYOND THE SUN)</em></span>
+    </a>
+    <a href="english-hymns/500-poso-chairetai-i-kardia-mas.html" class="song-item">
+        <span class="song-number">500</span>
+        <span class="song-title">POSO ChAIRETAI I KARDIA MAS <em>(HOW JOYFUL IS OUR HEART)</em></span>
+    </a>
+    <a href="english-hymns/501-prosdokomen-tin-proian.html" class="song-item">
+        <span class="song-number">501</span>
+        <span class="song-title">PROSDOKOMEN TIN PROIAN <em>(EXPECTED IN THE MORNING)</em></span>
+    </a>
+    <a href="english-hymns/502-prochoro-gia-ton-oyrano.html" class="song-item">
+        <span class="song-number">502</span>
+        <span class="song-title">PROChORO GIA TON OYRANO <em>(I'M GOING FOR HEAVEN)</em></span>
+    </a>
+    <a href="english-hymns/503-pos-skirto-kai-pido-apo-chara.html" class="song-item">
+        <span class="song-number">503</span>
+        <span class="song-title">POS SKIRTO KAI PIDO APO ChARA <em>(HOW I SKIRT AND JUMP FOR JOY)</em></span>
+    </a>
+    <a href="english-hymns/504-san-elthei-i-stigmi.html" class="song-item">
+        <span class="song-number">504</span>
+        <span class="song-title">SAN ELThEI I STIGMI <em>(AS IF THE MOMENT COMES)</em></span>
+    </a>
+    <a href="english-hymns/505-se-prosmenoyme-na-rtheis.html" class="song-item">
+        <span class="song-number">505</span>
+        <span class="song-title">SE PROSMENOYME NA 'RThEIS <em>(WE ARE WAITING FOR YOU TO COME)</em></span>
+    </a>
+    <a href="english-hymns/506-sti-zoi-moy-den-echo.html" class="song-item">
+        <span class="song-number">506</span>
+        <span class="song-title">STI ZOI MOY DEN EChO <em>(IN MY LIFE I HAVEN'T)</em></span>
+    </a>
+    <a href="english-hymns/507-sotira-toy-kosmoy.html" class="song-item">
+        <span class="song-number">507</span>
+        <span class="song-title">SOTIRA TOY KOSMOY <em>(SAVIOR OF THE WORLD)</em></span>
+    </a>
+    <a href="english-hymns/508-ta-matia-moy-antikrizoyn.html" class="song-item">
+        <span class="song-number">508</span>
+        <span class="song-title">TA MATIA MOY ANTIKRIZOYN <em>(MY EYES MIRROR)</em></span>
+    </a>
+    <a href="english-hymns/509-tin-eleysi-soy-o-christe.html" class="song-item">
+        <span class="song-number">509</span>
+        <span class="song-title">TIN ELEYSI SOY, O ChRISTE <em>(AT YOUR COMING, O CHRIST)</em></span>
+    </a>
+    <a href="english-hymns/510-to-christo-moy-perimeno.html" class="song-item">
+        <span class="song-number">510</span>
+        <span class="song-title">TO ChRISTO MOY PERIMENO <em>(I AM WAITING FOR MY CHRIST)</em></span>
+    </a>
+    <a href="english-hymns/511-to-skeyos-to-ostrakino.html" class="song-item">
+        <span class="song-number">511</span>
+        <span class="song-title">TO SKEYOS TO OSTRAKINO <em>(THE OSTRAKINO UTENSIL)</em></span>
+    </a>
+    <a href="english-hymns/512-tora-arkoymai.html" class="song-item">
+        <span class="song-number">512</span>
+        <span class="song-title">TORA ARKOYMAI <em>(NOW I HAVE ENOUGH)</em></span>
+    </a>
+    <a href="english-hymns/513-chara-mas-prosmenei.html" class="song-item">
+        <span class="song-number">513</span>
+        <span class="song-title">ChARA MAS PROSMENEI <em>(JOY AWAITS US)</em></span>
+    </a>
+    <a href="english-hymns/514-psallate-ola-ta-ethni.html" class="song-item">
+        <span class="song-number">514</span>
+        <span class="song-title">PsALLATE OLA TA EThNI <em>(SING ALL NATIONS)</em></span>
+    </a>
+    <a href="english-hymns/515-psallei-i-kardia.html" class="song-item">
+        <span class="song-number">515</span>
+        <span class="song-title">PsALLEI I KARDIA <em>(THE HEART SINGS)</em></span>
+    </a>
+    <a href="english-hymns/516-psallo-eno-prochoro.html" class="song-item">
+        <span class="song-number">516</span>
+        <span class="song-title">PsALLO ENO PROChORO <em>(SINGING AS I GO)</em></span>
+    </a>
+    <a href="english-hymns/517-o-potho-kathe-mera.html" class="song-item">
+        <span class="song-number">517</span>
+        <span class="song-title">O, POThO KAThE MERA <em>(OH I CANT EVERY DAY)</em></span>
+    </a>
+    <a href="english-hymns/518-o-pos-katantise-o-kosmos.html" class="song-item">
+        <span class="song-number">518</span>
+        <span class="song-title">O! POS KATANTISE O KOSMOS <em>(Oh! HOW THE WORLD BECAME)</em></span>
+    </a>
+    <a href="english-hymns/519-o-stoy-patera-to-spiti.html" class="song-item">
+        <span class="song-number">519</span>
+        <span class="song-title">O! STOY PATERA TO SPITI <em>(Oh! FATHER'S HOME)</em></span>
+    </a>
+    <a href="english-hymns/520-o-ti-lampri-stoli.html" class="song-item">
+        <span class="song-number">520</span>
+        <span class="song-title">O, TI LAMPRI STOLI! <em>(OH WHAT A BRILLIANT OUTFIT!)</em></span>
+    </a>
+    <a href="english-hymns/521-o-fos-agapis-theos.html" class="song-item">
+        <span class="song-number">521</span>
+        <span class="song-title">O FOS! AGAPIS ThEOS <em>(O LIGHT! LOVE GOD)</em></span>
+    </a>
+    <a href="english-hymns/522-o-chora-poy-pothoi-se-plathoyn.html" class="song-item">
+        <span class="song-number">522</span>
+        <span class="song-title">O ChORA, POY POThOI SE PLAThOYN <em>(O LAND, WHERE DESIRES BEguile thee)</em></span>
+    </a>
+    <a href="english-hymns/523-afotoy-eirini.html" class="song-item">
+        <span class="song-number">523</span>
+        <span class="song-title">AFOTOY EIRINI <em>(AFOTOU IRINI)</em></span>
+    </a>
+    <a href="english-hymns/524-the-na-rthei-mia-aygi.html" class="song-item">
+        <span class="song-number">524</span>
+        <span class="song-title">ThE NA 'RThEI MIA AYGI <em>(LET A DAWN COME)</em></span>
+    </a>
+    <a href="english-hymns/525-mes-stis-zois-ta-monopatia.html" class="song-item">
+        <span class="song-number">525</span>
+        <span class="song-title">MES STIS ZOIS TA MONOPATIA <em>(THE PATHS THROUGH LIFE)</em></span>
+    </a>
+    <a href="english-hymns/526-mystiria-i-zoi-mas-kleinei.html" class="song-item">
+        <span class="song-number">526</span>
+        <span class="song-title">MYSTIRIA I ZOI MAS KLEINEI <em>(MYSTERIES LIFE CLOSES US)</em></span>
+    </a>
+    <a href="english-hymns/527-o-ilios-vasileyei.html" class="song-item">
+        <span class="song-number">527</span>
+        <span class="song-title">O ILIOS VASILEYEI <em>(THE SUN RULES)</em></span>
+    </a>
+    <a href="english-hymns/528-o-theos-as-einai-meth-imon.html" class="song-item">
+        <span class="song-number">528</span>
+        <span class="song-title">O ThEOS AS EINAI METh IMON! <em>(GOD BLESS US!)</em></span>
+    </a>
+    <a href="english-hymns/529-oli-i-zoi-moy.html" class="song-item">
+        <span class="song-number">529</span>
+        <span class="song-title">OLI I ZOI MOY <em>(MY WHOLE LIFE)</em></span>
+    </a>
+    <a href="english-hymns/530-poreyomai-se-gi-terpni.html" class="song-item">
+        <span class="song-number">530</span>
+        <span class="song-title">POREYOMAI SE GI TERPNI <em>(I'M GOING TO TERPNI LAND)</em></span>
+    </a>
+    <a href="english-hymns/531-san-ton-ilio-lampei-i-gi.html" class="song-item">
+        <span class="song-number">531</span>
+        <span class="song-title">SAN TON ILIO LAMPEI I GI <em>(THE EARTH SHINES LIKE THE SUN)</em></span>
+    </a>
+    <a href="english-hymns/532-agrypnise-o-adelfe.html" class="song-item">
+        <span class="song-number">532</span>
+        <span class="song-title">AGRYPNISE, O ADELFE <em>(WAKE UP, O BROTHER)</em></span>
+    </a>
+    <a href="english-hymns/533-erchetai-o-iisoys-christos.html" class="song-item">
+        <span class="song-number">533</span>
+        <span class="song-title">ERChETAI O IISOYS ChRISTOS! <em>(JESUS ​​CHRIST IS COMING!)</em></span>
+    </a>
+    <a href="english-hymns/534-epsalleto-panta.html" class="song-item">
+        <span class="song-number">534</span>
+        <span class="song-title">EPsALLETO PANTA <em>(EXCITED ALWAYS)</em></span>
+    </a>
+    <a href="english-hymns/535-o-christos-mas-prin-na-paei.html" class="song-item">
+        <span class="song-number">535</span>
+        <span class="song-title">O ChRISTOS MAS PRIN NA PAEI <em>(OUR CHRIST BEFORE HE GOES)</em></span>
+    </a>
+    <a href="english-hymns/536-opos-o-ilios-o-lampros.html" class="song-item">
+        <span class="song-number">536</span>
+        <span class="song-title">OPOS O ILIOS O LAMPROS <em>(LIKE THE SUN THE BRIGHT)</em></span>
+    </a>
+    <a href="english-hymns/537-otan-i-salpigga-ichisei.html" class="song-item">
+        <span class="song-number">537</span>
+        <span class="song-title">OTAN I SALPIGGA IChISEI <em>(WHEN THE TRUMPET SOUNDS)</em></span>
+    </a>
+    <a href="english-hymns/538-otan-toy-christoy-i-salpigga.html" class="song-item">
+        <span class="song-number">538</span>
+        <span class="song-title">OTAN TOY ChRISTOY I SALPIGGA <em>(WHEN OF CHRIST THE TRUMPET)</em></span>
+    </a>
+    <a href="english-hymns/539-perimeno-ospoy-na-rthei.html" class="song-item">
+        <span class="song-number">539</span>
+        <span class="song-title">PERIMENO, OSPOY NA 'RThEI <em>(I WAIT FOR IT TO COME)</em></span>
+    </a>
+    <a href="english-hymns/540-ta-simeia-toy-kosmoy.html" class="song-item">
+        <span class="song-number">540</span>
+        <span class="song-title">TA SIMEIA TOY KOSMOY <em>(THE POINTS OF THE WORLD)</em></span>
+    </a>
+    <a href="english-hymns/541-ap-agapi-o-plastis-theos.html" class="song-item">
+        <span class="song-number">541</span>
+        <span class="song-title">AP' AGAPI O PLASTIS ThEOS <em>(FOR LOVE THE FALSE GOD)</em></span>
+    </a>
+    <a href="english-hymns/542-pros-se-agapis.html" class="song-item">
+        <span class="song-number">542</span>
+        <span class="song-title">PROS SE AGAPIS <em>(TO YOU LOVE)</em></span>
+    </a>
+    <a href="english-hymns/543-o-dimioyrge-ton-panton.html" class="song-item">
+        <span class="song-number">543</span>
+        <span class="song-title">O DIMIOYRGE TON PANTON <em>(O CREATOR OF ALL)</em></span>
+    </a>
+    <a href="english-hymns/544-gia-sena-psalloyme.html" class="song-item">
+        <span class="song-number">544</span>
+        <span class="song-title">GIA SENA PsALLOYME <em>(WE SING FOR YOU)</em></span>
+    </a>
+    <a href="english-hymns/545-doxa-kai-ainon-o-thee.html" class="song-item">
+        <span class="song-number">545</span>
+        <span class="song-title">DOXA KAI AINON, O ThEE <em>(GLORY AND PRAISE, O GOD)</em></span>
+    </a>
+    <a href="english-hymns/546-doste-ti-doxa-sto-theo.html" class="song-item">
+        <span class="song-number">546</span>
+        <span class="song-title">DOSTE TI DOXA STO ThEO! <em>(GIVE THE GLORY TO GOD!)</em></span>
+    </a>
+    <a href="english-hymns/547-eimaste-edo.html" class="song-item">
+        <span class="song-number">547</span>
+        <span class="song-title">EIMASTE EDO <em>(WE ARE HERE)</em></span>
+    </a>
+    <a href="english-hymns/548-eimaste-pali-mazi.html" class="song-item">
+        <span class="song-number">548</span>
+        <span class="song-title">EIMASTE PALI MAZI <em>(WE ARE TOGETHER AGAIN)</em></span>
+    </a>
+    <a href="english-hymns/549-einai-ekeinos.html" class="song-item">
+        <span class="song-number">549</span>
+        <span class="song-title">EINAI EKEINOS <em>(IT'S HIM)</em></span>
+    </a>
+    <a href="english-hymns/550-ela-ki-esy.html" class="song-item">
+        <span class="song-number">550</span>
+        <span class="song-title">ELA KI ESY <em>(YOU COME TOO)</em></span>
+    </a>
+    <a href="english-hymns/551-eleise-me-o-thee.html" class="song-item">
+        <span class="song-number">551</span>
+        <span class="song-title">ELEISE ME, O ThEE <em>(HAVE MERCY ON ME, OH GOD)</em></span>
+    </a>
+    <a href="english-hymns/552-i-charis-toy-kyrioy.html" class="song-item">
+        <span class="song-number">552</span>
+        <span class="song-title">I ChARIS TOY KYRIOY <em>(THE GRACE OF THE LORD)</em></span>
+    </a>
+    <a href="english-hymns/553-kyrie-iisoy-christe.html" class="song-item">
+        <span class="song-number">553</span>
+        <span class="song-title">KYRIE IISOY ChRISTE <em>(LORD JESUS ​​CHRIST)</em></span>
+    </a>
+    <a href="english-hymns/554-latreyoyme.html" class="song-item">
+        <span class="song-number">554</span>
+        <span class="song-title">LATREYOYME <em>(WE LOVE IT)</em></span>
+    </a>
+    <a href="english-hymns/555-mazeytikame-edo.html" class="song-item">
+        <span class="song-number">555</span>
+        <span class="song-title">MAZEYTIKAME EDO <em>(WE GATHERED HERE)</em></span>
+    </a>
+    <a href="english-hymns/556-megali-i-chari-soy.html" class="song-item">
+        <span class="song-number">556</span>
+        <span class="song-title">MEGALI I ChARI SOY <em>(YOUR GRACE IS GREAT)</em></span>
+    </a>
+    <a href="english-hymns/557-mesa-ap-ta-matia-soy-thee.html" class="song-item">
+        <span class="song-number">557</span>
+        <span class="song-title">MESA AP' TA MATIA SOY ThEE <em>(THROUGH YOUR EYES GOD)</em></span>
+    </a>
+    <a href="english-hymns/558-patera-oyranie.html" class="song-item">
+        <span class="song-number">558</span>
+        <span class="song-title">PATERA OYRANIE <em>(HEAVENLY FATHER)</em></span>
+    </a>
+    <a href="english-hymns/559-san-ton-ilio-ein-i-agapi.html" class="song-item">
+        <span class="song-number">559</span>
+        <span class="song-title">SAN TON ILIO EIN' I AGAPI <em>(LOVE IS LIKE THE SUN)</em></span>
+    </a>
+    <a href="english-hymns/560-san-ton-poimena.html" class="song-item">
+        <span class="song-number">560</span>
+        <span class="song-title">SAN TON POIMENA <em>(LIKE A SHEPHERD)</em></span>
+    </a>
+    <a href="english-hymns/561-soy-dinoyme-ti-doxa.html" class="song-item">
+        <span class="song-number">561</span>
+        <span class="song-title">SOY DINOYME TI DOXA <em>(WE GIVE YOU THE GLORY)</em></span>
+    </a>
+    <a href="english-hymns/562-stin-paroysia-soy.html" class="song-item">
+        <span class="song-number">562</span>
+        <span class="song-title">STIN PAROYSIA SOY <em>(IN YOUR PRESENCE)</em></span>
+    </a>
+    <a href="english-hymns/563-tin-eirini-moy-dino-se-sas.html" class="song-item">
+        <span class="song-number">563</span>
+        <span class="song-title">TIN EIRINI MOY DINO SE SAS <em>(I GIVE MY PEACE TO YOU)</em></span>
+    </a>
+    <a href="english-hymns/564-tis-gis-ta-ethni-pantachoy.html" class="song-item">
+        <span class="song-number">564</span>
+        <span class="song-title">TIS GIS TA EThNI PANTAChOY <em>(OF THE EARTH THE NATIONS OF ALL TIMES)</em></span>
+    </a>
+    <a href="english-hymns/565-psalte-ston-kyrio.html" class="song-item">
+        <span class="song-number">565</span>
+        <span class="song-title">PsALTE STON KYRIO <em>(SING TO THE LORD)</em></span>
+    </a>
+    <a href="english-hymns/566-to-eleos-soy-einai-kalytero.html" class="song-item">
+        <span class="song-number">566</span>
+        <span class="song-title">TO ELEOS SOY EINAI KALYTERO <em>(YOUR MERCY IS BETTER)</em></span>
+    </a>
+    <a href="english-hymns/567-to-onoma-soy-nai-tha-ypsothei.html" class="song-item">
+        <span class="song-number">567</span>
+        <span class="song-title">TO ONOMA SOY NAI ThA YPsOThEI <em>(YOUR NAME YES WILL RISE)</em></span>
+    </a>
+    <a href="english-hymns/568-doxa-alliloyia-de-tha-klonistho.html" class="song-item">
+        <span class="song-number">568</span>
+        <span class="song-title">DOXA! ALLILOYIA! DE ThA KLONISThO <em>(GLORY! ALLELUIA! I WILL NOT BE SHOCKED)</em></span>
+    </a>
+    <a href="english-hymns/569-doxa-doxa-doxa-kapoios-me-aggixe.html" class="song-item">
+        <span class="song-number">569</span>
+        <span class="song-title">DOXA, DOXA, DOXA KAPOIOS ME AGGIXE <em>(GLORY, GLORY, GLORY SOMEONE TOUCHED ME)</em></span>
+    </a>
+    <a href="english-hymns/570-eimaste-enomenoi.html" class="song-item">
+        <span class="song-number">570</span>
+        <span class="song-title">EIMASTE ENOMENOI <em>(WE ARE UNITED)</em></span>
+    </a>
+    <a href="english-hymns/571-eimaste-oi-magoi-sofoi.html" class="song-item">
+        <span class="song-number">571</span>
+        <span class="song-title">EIMASTE OI MAGOI SOFOI <em>(WE ARE THE WISDOM MAGICIANS)</em></span>
+    </a>
+    <a href="english-hymns/572-ein-edo-ein-edo.html" class="song-item">
+        <span class="song-number">572</span>
+        <span class="song-title">EIN' EDO, EIN' EDO <em>(IT'S HERE, IT'S HERE)</em></span>
+    </a>
+    <a href="english-hymns/573-elate-niata-sto-lytroti.html" class="song-item">
+        <span class="song-number">573</span>
+        <span class="song-title">ELATE NIATA STO LYTROTI <em>(COME YOUNG TO THE REDEEMER)</em></span>
+    </a>
+    <a href="english-hymns/574-erchet-o-christos.html" class="song-item">
+        <span class="song-number">574</span>
+        <span class="song-title">ERChET' O ChRISTOS <em>(CHRIST IS COMING)</em></span>
+    </a>
+    <a href="english-hymns/575-erchetai-i-stigmi.html" class="song-item">
+        <span class="song-number">575</span>
+        <span class="song-title">ERChETAI I STIGMI <em>(THE MOMENT IS COMING)</em></span>
+    </a>
+    <a href="english-hymns/576-erchetai-o-kyrios-me-doxa.html" class="song-item">
+        <span class="song-number">576</span>
+        <span class="song-title">ERChETAI O KYRIOS ME DOXA <em>(THE LORD COMES IN GLORY)</em></span>
+    </a>
+    <a href="english-hymns/577-erchomai-sto-throno-soy-thee.html" class="song-item">
+        <span class="song-number">577</span>
+        <span class="song-title">ERChOMAI STO ThRONO SOY ThEE <em>(I COME TO YOUR THRONE GOD)</em></span>
+    </a>
+    <a href="english-hymns/578-echo-sothei-ki-echo-chara.html" class="song-item">
+        <span class="song-number">578</span>
+        <span class="song-title">EChO SOThEI KI EChO ChARA! <em>(I HAVE BEEN SAVED AND I HAVE JOY!)</em></span>
+    </a>
+    <a href="english-hymns/579-i-dynami-moy-einai.html" class="song-item">
+        <span class="song-number">579</span>
+        <span class="song-title">I DYNAMI MOY EINAI <em>(MY POWER IS)</em></span>
+    </a>
+    <a href="english-hymns/580-kathe-mera-ap-tin-aygi.html" class="song-item">
+        <span class="song-number">580</span>
+        <span class="song-title">KAThE MERA AP' TIN AYGI <em>(EVERY DAY FROM DAWN)</em></span>
+    </a>
+    <a href="english-hymns/581-koyrastikame-pia.html" class="song-item">
+        <span class="song-number">581</span>
+        <span class="song-title">KOYRASTIKAME PIA <em>(WE ARE TIRED NOW)</em></span>
+    </a>
+    <a href="english-hymns/582-makria-se-mia-fatni.html" class="song-item">
+        <span class="song-number">582</span>
+        <span class="song-title">MAKRIA SE MIA FATNI <em>(FAR AWAY IN A MANGER)</em></span>
+    </a>
+    <a href="english-hymns/583-me-to-stayro-simaia-mas-pame.html" class="song-item">
+        <span class="song-number">583</span>
+        <span class="song-title">ME TO STAYRO SIMAIA MAS PAME <em>(WITH THE CROSS FLAG WE GO)</em></span>
+    </a>
+    <a href="english-hymns/584-me-ton-kyrio-enikisame.html" class="song-item">
+        <span class="song-number">584</span>
+        <span class="song-title">ME TON KYRIO ENIKISAME <em>(WE ARE ONE WITH THE LORD)</em></span>
+    </a>
+    <a href="english-hymns/585-mikri-semni-kai-tapeini.html" class="song-item">
+        <span class="song-number">585</span>
+        <span class="song-title">MIKRI, SEMNI KAI TAPEINI <em>(SMALL, MODEST AND HUMBLE)</em></span>
+    </a>
+    <a href="english-hymns/586-sas-anaggeloyme-tin-agapi.html" class="song-item">
+        <span class="song-number">586</span>
+        <span class="song-title">SAS ANAGGELOYME TIN AGAPI <em>(WE ANNOUNCE LOVE TO YOU)</em></span>
+    </a>
+    <a href="english-hymns/587-stratiotes-toy-megaloy-vasilia.html" class="song-item">
+        <span class="song-number">587</span>
+        <span class="song-title">STRATIOTES TOY MEGALOY VASILIA <em>(SOLDIERS OF THE GREAT KING)</em></span>
+    </a>
+    <a href="english-hymns/588-ti-fysi-soy-koitazo.html" class="song-item">
+        <span class="song-number">588</span>
+        <span class="song-title">TI FYSI SOY KOITAZO <em>(I LOOK AT YOUR NATURE)</em></span>
+    </a>
+    <a href="english-hymns/589-tis-charas-to-monopati.html" class="song-item">
+        <span class="song-number">589</span>
+        <span class="song-title">TIS ChARAS TO MONOPATI <em>(THE PATH OF JOY)</em></span>
+    </a>
+    <a href="english-hymns/590-to-monopati-toy-dikaioy.html" class="song-item">
+        <span class="song-number">590</span>
+        <span class="song-title">TO MONOPATI TOY DIKAIOY <em>(THE PATH OF LAW)</em></span>
+    </a>
+    <a href="english-hymns/591-ypsonoyme-ta-cheria.html" class="song-item">
+        <span class="song-number">591</span>
+        <span class="song-title">YPsONOYME TA ChERIA <em>(WE RAISE YOUR HANDS)</em></span>
+    </a>
+    <a href="english-hymns/592-ftochoi-voskoi.html" class="song-item">
+        <span class="song-number">592</span>
+        <span class="song-title">FTOChOI VOSKOI <em>(POOR SHEPHERDS)</em></span>
+    </a>
+    <a href="english-hymns/593-fos-sto-skotadi.html" class="song-item">
+        <span class="song-number">593</span>
+        <span class="song-title">FOS STO SKOTADI <em>(LIGHT IN THE DARKNESS)</em></span>
+    </a>
+    <a href="english-hymns/594-charoymeno-mikro-paidi.html" class="song-item">
+        <span class="song-number">594</span>
+        <span class="song-title">ChAROYMENO MIKRO PAIDI <em>(HAPPY LITTLE CHILD)</em></span>
+    </a>
+    <a href="english-hymns/595-chairo-poy-aniko-sto-christo.html" class="song-item">
+        <span class="song-number">595</span>
+        <span class="song-title">ChAIRO POY ANIKO STO ChRISTO <em>(I AM GLAD THAT I BELONG TO CHRIST)</em></span>
+    </a>
+    <a href="english-hymns/596-psalle-s-ayton-ymnoys-charas.html" class="song-item">
+        <span class="song-number">596</span>
+        <span class="song-title">PsALLE S' AYTON YMNOYS ChARAS <em>(SING THIS HYMN OF JOY)</em></span>
+    </a>
+    <a href="english-hymns/597-o-ti-chari-thaymasti-alliloyia.html" class="song-item">
+        <span class="song-number">597</span>
+        <span class="song-title">O, TI ChARI ThAYMASTI! ALLILOYIA! <em>(OH WONDERFUL GRACE! ALLELUIA!)</em></span>
+    </a>
+    <a href="english-hymns/598-agios-agios-kyrios-kyrios.html" class="song-item">
+        <span class="song-number">598</span>
+        <span class="song-title">AGIOS, AGIOS! KYRIOS, KYRIOS! <em>(HOLY, HOLY! LORD, LORD!)</em></span>
+    </a>
+    <a href="english-hymns/599-akoyo-mia-glykia-foni.html" class="song-item">
+        <span class="song-number">599</span>
+        <span class="song-title">AKOYO MIA GLYKIA FONI <em>(I HEAR A SWEET VOICE)</em></span>
+    </a>
+    <a href="english-hymns/600-alalaxte-ston-kyrio.html" class="song-item">
+        <span class="song-number">600</span>
+        <span class="song-title">ALALAXTE STON KYRIO <em>(CHANGE TO THE LORD)</em></span>
+    </a>
+    <a href="english-hymns/601-alliloyia-vasilea-vasilia.html" class="song-item">
+        <span class="song-number">601</span>
+        <span class="song-title">ALLILOYIA! VASILEA, VASILIA! <em>(ALLELUIA! KING, KING!)</em></span>
+    </a>
+    <a href="english-hymns/602-alliloyia-echo-chara-polli.html" class="song-item">
+        <span class="song-number">602</span>
+        <span class="song-title">ALLILOYIA! EChO ChARA POLLI! <em>(ALLELUIA! I HAVE A LOT OF JOY!)</em></span>
+    </a>
+    <a href="english-hymns/603-an-esy-de-m-agapoyses.html" class="song-item">
+        <span class="song-number">603</span>
+        <span class="song-title">AN ESY DE M' AGAPOYSES <em>(IF YOU DIDN'T LOVE ME)</em></span>
+    </a>
+    <a href="english-hymns/604-ap-ton-oyrano-irthe-o-christos.html" class="song-item">
+        <span class="song-number">604</span>
+        <span class="song-title">AP' TON OYRANO IRThE O ChRISTOS <em>(CHRIST CAME FROM HEAVEN)</em></span>
+    </a>
+    <a href="english-hymns/605-atenise-ekei-sto-stayro.html" class="song-item">
+        <span class="song-number">605</span>
+        <span class="song-title">ATENISE EKEI STO STAYRO <em>(STARE THERE ON THE CROSS)</em></span>
+    </a>
+    <a href="english-hymns/606-ayta-ta-logia.html" class="song-item">
+        <span class="song-number">606</span>
+        <span class="song-title">AYTA TA LOGIA <em>(THESE WORDS)</em></span>
+    </a>
+    <a href="english-hymns/607-gernei-o-ilios-paei-na-svisei.html" class="song-item">
+        <span class="song-number">607</span>
+        <span class="song-title">GERNEI O ILIOS PAEI NA SVISEI <em>(THE SUN IS GOING TO GO OUT)</em></span>
+    </a>
+    <a href="english-hymns/608-gia-sena-tha-ziso.html" class="song-item">
+        <span class="song-number">608</span>
+        <span class="song-title">GIA SENA ThA ZISO <em>(FOR YOU I WILL LIVE)</em></span>
+    </a>
+    <a href="english-hymns/609-eimai-christe-moy.html" class="song-item">
+        <span class="song-number">609</span>
+        <span class="song-title">EIMAI, ChRISTE MOY <em>(I AM, MY CHRIST)</em></span>
+    </a>
+    <a href="english-hymns/610-ein-enas-ilios.html" class="song-item">
+        <span class="song-number">610</span>
+        <span class="song-title">EIN' ENAS ILIOS <em>(IT'S A SUN)</em></span>
+    </a>
+    <a href="english-hymns/611-eis-de-to-vasilea-ton-aionon.html" class="song-item">
+        <span class="song-number">611</span>
+        <span class="song-title">EIS DE TO VASILEA TON AIONON <em>(YOU ARE THE KING OF THE AGES)</em></span>
+    </a>
+    <a href="english-hymns/612-eisai-sy-to-fos.html" class="song-item">
+        <span class="song-number">612</span>
+        <span class="song-title">EISAI SY TO FOS <em>(YOU ARE THE LIGHT)</em></span>
+    </a>
+    <a href="english-hymns/613-ela-min-argeis.html" class="song-item">
+        <span class="song-number">613</span>
+        <span class="song-title">ELA, MIN ARGEIS <em>(COME, DON'T BE LATE)</em></span>
+    </a>
+    <a href="english-hymns/614-ela-tapeinosoy.html" class="song-item">
+        <span class="song-number">614</span>
+        <span class="song-title">ELA, TAPEINOSOY <em>(COME, HUMILIATE)</em></span>
+    </a>
+    <a href="english-hymns/615-enan-ilio-echo-stin-kardia.html" class="song-item">
+        <span class="song-number">615</span>
+        <span class="song-title">ENAN ILIO EChO STIN KARDIA <em>(I HAVE A SUN IN MY HEART)</em></span>
+    </a>
+    <a href="english-hymns/616-erchontai-stigmes.html" class="song-item">
+        <span class="song-number">616</span>
+        <span class="song-title">ERChONTAI STIGMES <em>(MOMENTS ARE COMING)</em></span>
+    </a>
+    <a href="english-hymns/617-zeis-kai-exoysiazeis-tis-kardies-mas.html" class="song-item">
+        <span class="song-number">617</span>
+        <span class="song-title">ZEIS! KAI EXOYSIAZEIS TIS KARDIES MAS <em>(YOU LIVE! AND YOU OWNER OUR HEARTS)</em></span>
+    </a>
+    <a href="english-hymns/618-zitas-chara.html" class="song-item">
+        <span class="song-number">618</span>
+        <span class="song-title">ZITAS ChARA <em>(YOU WANT JOY)</em></span>
+    </a>
+    <a href="english-hymns/619-zo-giati-zei-o-lytrotis-moy.html" class="song-item">
+        <span class="song-number">619</span>
+        <span class="song-title">ZO, GIATI ZEI O LYTROTIS MOY <em>(I LIVE, BECAUSE MY REDEEMER LIVES)</em></span>
+    </a>
+    <a href="english-hymns/620-tha-ithela-na-imoyna-sti-gi.html" class="song-item">
+        <span class="song-number">620</span>
+        <span class="song-title">ThA IThELA NA IMOYNA STI GI <em>(I WISH I WAS ON EARTH)</em></span>
+    </a>
+    <a href="english-hymns/621-tha-thela-na-soy-po.html" class="song-item">
+        <span class="song-number">621</span>
+        <span class="song-title">ThA 'ThELA NA SOY PO <em>(I WOULD LIKE TO TELL YOU)</em></span>
+    </a>
+    <a href="english-hymns/622-iisoy-moy-dipso.html" class="song-item">
+        <span class="song-number">622</span>
+        <span class="song-title">IISOY MOY, DIPsO <em>(JESUS, I'M THIRSTY)</em></span>
+    </a>
