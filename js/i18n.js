@@ -150,6 +150,11 @@ function updateSectionVisibility(lang) {
       englishTransliteratedSection.style.display = 'block';
       const englishList = document.getElementById('english-songs');
       if (englishList) expandCategorySection(englishList);
+    }// Show Asma Neon only in EN mode
+    if (asmaNeonSection) {
+      asmaNeonSection.style.display = 'block';
+      const asmaNeonList = document.getElementById('asma-neon-hymns');
+      if (asmaNeonList) expandCategorySection(asmaNeonList);
     }
     
   } else if (lang === 'gr') {
