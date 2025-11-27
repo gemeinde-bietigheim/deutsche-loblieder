@@ -107,6 +107,14 @@ function updateSectionVisibility(lang) {
   const greekTransliteratedSection = document.querySelector('.greek-transliterated-section');
   const greekOriginalSection = document.querySelector('.greek-original-section');
   const englishTransliteratedSection = document.getElementById('english-songs-section');
+  const asmaNeonSection = document.getElementById('asma-neon-section');
+  const asmaNeonDeSection = document.getElementById('asma-neon-de-section');
+
+  // Hide all sections first
+  [germanOriginalSection, germanEnglishSection, greekTransliteratedSection, 
+   greekOriginalSection, englishTransliteratedSection, asmaNeonSection, asmaNeonDeSection].forEach(section => {
+    if (section) section.style.display = 'none';
+  });
   
   if (lang === 'de') {
     // DE mode: German originals + Greek with German transliteration
@@ -129,6 +137,12 @@ function updateSectionVisibility(lang) {
     if (englishTransliteratedSection) {
       englishTransliteratedSection.style.display = 'none';
     }
+    // Show Asma Neon German version in DE mode
+    if (asmaNeonDeSection) {
+      asmaNeonDeSection.style.display = 'block';
+      const asmaNeonDeList = document.getElementById('asma-neon-de-hymns');
+      if (asmaNeonDeList) expandCategorySection(asmaNeonDeList);
+    }
     
   } else if (lang === 'en') {
     // EN mode: German with English translation + Greek with English transliteration
@@ -150,7 +164,8 @@ function updateSectionVisibility(lang) {
       englishTransliteratedSection.style.display = 'block';
       const englishList = document.getElementById('english-songs');
       if (englishList) expandCategorySection(englishList);
-    }// Show Asma Neon only in EN mode
+    }
+    // Show Asma Neon English version in EN mode
     if (asmaNeonSection) {
       asmaNeonSection.style.display = 'block';
       const asmaNeonList = document.getElementById('asma-neon-hymns');
