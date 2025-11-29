@@ -1,0 +1,1191 @@
+    <a href="asma-neon-hymns/001-thelo-christe-mou-pyxida-mou-na-gineis.html" class="song-item">
+        <span class="song-number">001</span>
+        <span class="song-title">ThELO ChRISTE MOY PYXIDA MOY NA GINEIS <em>(I WANT YOU, MY CHRIST, TO BE MY COMPASS)</em></span>
+    </a>
+    <a href="asma-neon-hymns/002-otan-o-ilios-pafei-na-lampei.html" class="song-item">
+        <span class="song-number">002</span>
+        <span class="song-title">OTAN O ILIOS PAYEI NA LAMPEI <em>(WHEN THE SUN STOPS SHINING)</em></span>
+    </a>
+    <a href="asma-neon-hymns/003-xero-iisou-mou.html" class="song-item">
+        <span class="song-number">003</span>
+        <span class="song-title">XERO IISOY MOY <em>(I KNOW MY JESUS WITH YOU I WILL OVERCOME)</em></span>
+    </a>
+    <a href="asma-neon-hymns/004-i-zoi-moy-itan-mayri.html" class="song-item">
+        <span class="song-number">004</span>
+        <span class="song-title">I ZOI MOY ITAN MAYRI <em>(MY LIFE WAS BLACK, DRENCHED IN TEARS IN THE MIRE OF SIN
+                                    THE HORRIBLE. PEOPLE SHOWED ME CONTEMPT AND ENMITY, UNTIL ONE DAY HIM
+                                    I MET JESUS. HE TOLD ME: "MARY I FORGIVE YOU, I FORGET YOUR MISTAKES
+                                    I WILL GO UP TO THE CROSS FOR A TERRIBLE DEATH". HE GAVE COMFORT TO THE SICK
+                                    HEALING, HOPE TO THE POOR AND LIGHT TO THE BLIND. BUT ONE DAY THEY ARRESTED HIM,
+                                    THEY TRIED HIM LIKE A ROBBER, AND EVERYONE WAS SHOUTING TO CRUCIFY HIM. - LORD WHY
+                                    THEY HATE YOU, WHY DO THEY MOCK YOU? YOU TAUGHT US GOOD, YOU SPREAD LOVE. I SAW
+                                    TO DRAG HIM UP GOLGOTHA, TO CLIMB UP, THEY WORE HIM ON THE CROSS WITH THORNS
+                                    THEY NAILED HIM. HIS BLOOD WAS RUNNING, HIS CHIN WAS FORMING, WOUNDS FILLED HIM AND
+                                    MANY SPAT ON HIM. BUT HE SHOUTED LOUDLY "IT IS DONE". FATHER, I'M SORRY
+                                    GIVE THEM SALVATION".)</em></span>
+    </a>
+    <a href="asma-neon-hymns/005-thymamai-christe-mou.html" class="song-item">
+        <span class="song-number">005</span>
+        <span class="song-title">ThYMAMAI ChRISTE MOY <em>(I REMEMBER MY CHRIST SO MANY TIMES)</em></span>
+    </a>
+    <a href="asma-neon-hymns/006-tha-ithela-na-imouna-sti-gi.html" class="song-item">
+        <span class="song-number">006</span>
+        <span class="song-title">ThA IThELA NA IMOYNA STI GI <em>(I WISH I WAS ON EARTH)</em></span>
+    </a>
+    <a href="asma-neon-hymns/007-gernei-o-ilios.html" class="song-item">
+        <span class="song-number">007</span>
+        <span class="song-title">GERNEI O ILIOS <em>(THE SUN IS GOING DOWN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/008-erchontai-stigmes.html" class="song-item">
+        <span class="song-number">008</span>
+        <span class="song-title">ERChONTAI STIGMES <em>(THERE ARE MOMENTS IN LIFE,)</em></span>
+    </a>
+    <a href="asma-neon-hymns/009-ta-kalytera-logia-moy.html" class="song-item">
+        <span class="song-number">009</span>
+        <span class="song-title">TA KALYTERA LOGIA MOY <em>(UNKNOWN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/010-ti-mystirio.html" class="song-item">
+        <span class="song-number">010</span>
+        <span class="song-title">TI MYSTIRIO <em>(WHAT A MYSTERY IS THY LOVE,)</em></span>
+    </a>
+    <a href="asma-neon-hymns/011-megala-kai-thaymasta.html" class="song-item">
+        <span class="song-number">011</span>
+        <span class="song-title">MEGALA KAI ThAYMASTA <em>(UNKNOWN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/012-opos-to-loyloydi.html" class="song-item">
+        <span class="song-number">012</span>
+        <span class="song-title">OPOS TO LOYLOYDI <em>(UNKNOWN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/013-einai-ekeinos.html" class="song-item">
+        <span class="song-number">013</span>
+        <span class="song-title">EINAI EKEINOS <em>(UNKNOWN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/014-pane-tosa-chronia.html" class="song-item">
+        <span class="song-number">014</span>
+        <span class="song-title">PANE TOSA ChRONIA <em>(IT'S BEEN SO MANY YEARS SINCE I MET YOU,)</em></span>
+    </a>
+    <a href="asma-neon-hymns/015-kyrie-afino-tin-kardia-moy.html" class="song-item">
+        <span class="song-number">015</span>
+        <span class="song-title">KYRIE AFINO TIN KARDIA MOY <em>(UNKNOWN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/016-poios-sou-moiazei.html" class="song-item">
+        <span class="song-number">016</span>
+        <span class="song-title">POIOS SOY MOIAZEI <em>(REFRAIN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/017-mesa-ap-tin-psychi-mou.html" class="song-item">
+        <span class="song-number">017</span>
+        <span class="song-title">MESA AP’ TIN PsYChI MOY <em>(FROM THE BOTTOM OF MY SOUL I LOVE YOU,)</em></span>
+    </a>
+    <a href="asma-neon-hymns/018-me-opla-ourania.html" class="song-item">
+        <span class="song-number">018</span>
+        <span class="song-title">ME OPLA OYRANIA <em>(WITH HEAVENLY WEAPONS WE MARCH FORWARD,)</em></span>
+    </a>
+    <a href="asma-neon-hymns/019-ela-ki-esy.html" class="song-item">
+        <span class="song-number">019</span>
+        <span class="song-title">ELA KI ESY <em>(UNKNOWN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/020-o-kyrios-einai-i-dynami-moy.html" class="song-item">
+        <span class="song-number">020</span>
+        <span class="song-title">O KYRIOS EINAI I DYNAMI MOY <em>(UNKNOWN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/021-glyke-amne.html" class="song-item">
+        <span class="song-number">021</span>
+        <span class="song-title">GLYKE AMNE <em>(THE LORD THE HOLY ONE CAME INTO THE WORLD HUMBLE,)</em></span>
+    </a>
+    <a href="asma-neon-hymns/022-kyrie-moy-se-ypsono.html" class="song-item">
+        <span class="song-number">022</span>
+        <span class="song-title">KYRIE MOY SE YPsONO <em>(UNKNOWN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/023-o-vasilias-mas-gennithike.html" class="song-item">
+        <span class="song-number">023</span>
+        <span class="song-title">O VASILIAS MAS GENNIThIKE <em>(OUR KING IS BORN,)</em></span>
+    </a>
+    <a href="asma-neon-hymns/024-dyskoloi-kairoi.html" class="song-item">
+        <span class="song-number">024</span>
+        <span class="song-title">DYSKOLOI KAIROI <em>(HARD TIMES, AND BAD DAYS CAME,)</em></span>
+    </a>
+    <a href="asma-neon-hymns/025-eisai-o-kalos-poimenas.html" class="song-item">
+        <span class="song-number">025</span>
+        <span class="song-title">EISAI O KALOS POIMENAS <em>(YOU ARE THE HOPE, JOY, SUNSHINE, YOU GIVE ME STRENGTH IN MY SOUL. YOU ARE IT
+                                    LIGHT, YOU ARE MY FRIEND FOREVER. YOU GIVE ME COURAGE, YOU GIVE ME
+                                    BRAVELY TO WALK HIGH TO LOOK. AND MY LIFE HAS MEANING, IT DOES
+                                    PURPOSE. YOU ARE THE GOOD SHEPHERD, MY SAVIOR CHRIST, YOUR VOICE
+                                    I RECOGNIZE AND MOVE FORWARD. I WALK IN YOUR WAY AND I FOLLOW YOU, I WANT TO
+                                    I'M CLOSE TO YOU SO I DON'T GET LOST, DON'T GET LOST.)</em></span>
+    </a>
+    <a href="asma-neon-hymns/026-iisou-ela-iisou.html" class="song-item">
+        <span class="song-number">026</span>
+        <span class="song-title">IISOY ELA IISOY <em>(I WANT TO PRAISE YOU, I WANT TO WORSHIP YOU,)</em></span>
+    </a>
+    <a href="asma-neon-hymns/027-pneyma-kai-nymfi.html" class="song-item">
+        <span class="song-number">027</span>
+        <span class="song-title">PNEYMA KAI NYMFI <em>(UNKNOWN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/028-o-logos-sou.html" class="song-item">
+        <span class="song-number">028</span>
+        <span class="song-title">O LOGOS SOY <em>(REFRAIN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/029-se-doxazo.html" class="song-item">
+        <span class="song-number">029</span>
+        <span class="song-title">SE DOXAZO <em>(MY POET AND KING,)</em></span>
+    </a>
+    <a href="asma-neon-hymns/030-dosta-ola-sto-christo.html" class="song-item">
+        <span class="song-number">030</span>
+        <span class="song-title">DOSTA OLA STO ChRISTO <em>(YOU ARE TIRED OF SEARCHING ALONE)</em></span>
+    </a>
+    <a href="asma-neon-hymns/031-milise-sto-christo.html" class="song-item">
+        <span class="song-number">031</span>
+        <span class="song-title">MILISE STO ChRISTO <em>(WHEN YOU ARE HURT AND DISAPPOINTED TALK TO CHRIST. TELL HIM
+                                    YOUR PROBLEMS ARE ALWAYS CLOSE, TALK TO CHRIST. WHEN YOU HAVE
+                                    LOSE HOPE IN LIFE TURN YOUR GAZE TO HIM. HE WILL GIVE YOU COURAGE,
+                                    WILL GIVE YOU STRENGTH AND ANSWER TO PRAYER. WHEN YOU HAVE QUESTIONS
+                                    THAT YOU CANNOT ANSWER, TALK TO CHRIST. WHEN OTHERS HAVE YOU
+                                    STEAL AND OTHERS HAVE HURT YOU TALK TO CHRIST. WHEN YOU HAVE LOST
+                                    THE HOPES IN LIFE WILL GIVE YOU COURAGE WILL GIVE YOU STRENGTH. JESUS IS
+                                    CLOSE TO YOU SALVATION, HEALING, PRAY TO CHRIST.)</em></span>
+    </a>
+    <a href="asma-neon-hymns/032-mono-esy.html" class="song-item">
+        <span class="song-number">032</span>
+        <span class="song-title">MONO ESY <em>(ONLY YOU, YOU ARE HOLY, YOU ARE UNIQUE,)</em></span>
+    </a>
+    <a href="asma-neon-hymns/033-kapoios-noiazetai.html" class="song-item">
+        <span class="song-number">033</span>
+        <span class="song-title">KAPOIOS NOIAZETAI <em>(SOMEONE CARES ABOUT YOU)</em></span>
+    </a>
+    <a href="asma-neon-hymns/034-plase-me.html" class="song-item">
+        <span class="song-number">034</span>
+        <span class="song-title">PLASE ME <em>(I KNOW IT'S YOUR GRACE THAT SAVED ME,)</em></span>
+    </a>
+    <a href="asma-neon-hymns/035-dos-moy-agapi.html" class="song-item">
+        <span class="song-number">035</span>
+        <span class="song-title">DOS MOY AGAPI <em>(UNKNOWN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/036-iisoy-moy-dipso.html" class="song-item">
+        <span class="song-number">036</span>
+        <span class="song-title">IISOY MOY DIPsO <em>(JESUS I AM THIRSTY, GIVE ME WATER. JESUS I AM THIRSTY, GIVE ME DRINK. BY
+                                    YOUR INEXHAUSTIBLE SOURCE, GIVE ME TO DRINK TO QUENCH MY THIRST, GIVE ME WATER.
+                                    YOUR HANDS TO REST, GIVE ME TO DRINK TO QUENCH MY THIRST, GIVE ME WATER, MY JESUS
+                                    I'M THIRSTY. JESUS I'M HUNGRY, GIVE ME FOOD. JESUS I'M HUNGRY, GIVE ME
+                                    BREAD. FROM YOUR WORD SO THAT I MAY BE SATISFIED, AND AT YOUR FEET TO REST, GIVE
+                                    GIVE ME YOUR HOLY BODY, STAY HERE I NEED YOU
+                                    STILL, YES YOU CAN, MY JESUS YOU. JESUS I ASK HOLY SPIRIT OF JESUS
+                                    I ASK FOR THE HOLY SPIRIT. TO BE ABLE TO FOLLOW YOUR FOOTSTEPS AND NOT
+                                    LEAVE JESUS I ASK. THE ETERNAL LIFE TO LIVE, AND WITH YOU TO
+                                    DWELL, JESUS I ASK, JESUS I ASK, ALWAYS TOGETHER.)</em></span>
+    </a>
+    <a href="asma-neon-hymns/037-eimai-eleftheros.html" class="song-item">
+        <span class="song-number">037</span>
+        <span class="song-title">EIMAI ELEYThEROS <em>(HIS MERCY, HIS MERCY,)</em></span>
+    </a>
+    <a href="asma-neon-hymns/038-s-ese-psallo-kyrie.html" class="song-item">
+        <span class="song-number">038</span>
+        <span class="song-title">S’ ESE PsALLO KYRIE <em>(I SING TO YOU LORD, I SING TO YOU HOLY ONE)</em></span>
+    </a>
+    <a href="asma-neon-hymns/039-gennithike.html" class="song-item">
+        <span class="song-number">039</span>
+        <span class="song-title">GENNIThIKE <em>(HE WAS BORN, IN THE MANGER HE WAS BORN,)</em></span>
+    </a>
+    <a href="asma-neon-hymns/040-plyne-mou-tin-kardia.html" class="song-item">
+        <span class="song-number">040</span>
+        <span class="song-title">PLYNE MOY TIN KARDIA <em>(I WALKED THROUGH LIFE UNHAPPY)</em></span>
+    </a>
+    <a href="asma-neon-hymns/041-epsaxa-gia-na-vro-lyseis.html" class="song-item">
+        <span class="song-number">041</span>
+        <span class="song-title">EPsAXA GIA NA VRO LYSEIS <em>(I SEARCHED FOR SOLUTIONS,)</em></span>
+    </a>
+    <a href="asma-neon-hymns/042-oli-i-gi-tha-doxazei.html" class="song-item">
+        <span class="song-number">042</span>
+        <span class="song-title">OLI I GI ThA DOXAZEI <em>(FATHER WE ADMIRE YOU YOU DREW US HERE)</em></span>
+    </a>
+    <a href="asma-neon-hymns/043-foni-glykia.html" class="song-item">
+        <span class="song-number">043</span>
+        <span class="song-title">FONI GLYKIA <em>(SWEET VOICE FROM HEAVEN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/044-doxa-sto-onoma-soy.html" class="song-item">
+        <span class="song-number">044</span>
+        <span class="song-title">DOXA STO ONOMA SOY <em>(GOD I PRAISE YOU, FROM THE BOTTOM OF MY HEART I LOVE YOU. YOU ARE EVERYTHING TO ME,
+                                    I EXALT YOUR NAME WITH JOY. GLORY TO YOUR NAME, GLORY TO YOUR NAME
+                                    YOU ARE THE KING, WHO LEADS US, EVERYTHING IS POSSIBLE FOR YOU LORD. GLORY TO
+                                    YOUR NAME, GLORY TO YOUR NAME. YOU ARE THE MIGHTY ONE, MY SAVIOR, MY COUNSELOR
+                                    WONDERFUL, THE LORD. AND I PRAISE YOU, JESUS CHRIST, HOW I LOVE YOU. GOD
+                                    OF PEACE, EMMANUEL, GOD FOREVER, THE LORD.)</em></span>
+    </a>
+    <a href="asma-neon-hymns/045-den-echo-dei-ton-dikaio-egkataleimmeno.html" class="song-item">
+        <span class="song-number">045</span>
+        <span class="song-title">DEN EChO DEI TON DIKAIO EGKATALEIMMENO <em>(YOU MAY GET TIRED IN YOUR LIFE)</em></span>
+    </a>
+    <a href="asma-neon-hymns/046-me-eygnomosyni.html" class="song-item">
+        <span class="song-number">046</span>
+        <span class="song-title">ME EYGNOMOSYNI <em>(YOU DID NOT EXPECT ME, GOD, TO COME TO YOU, BUT YOU CAME HERE ON EARTH. WITH A HUMAN
+                                    FORM HUMBLE SERVANT, BEFORE I CALLED YOU CALLED ME. WITH GRATITUDE TO
+                                    HEART, NOW I PRAISE YOU KING, WHO BECAME A SACRIFICE ON THE CROSS, MAY THE
+                                    EVERY SINNER.)</em></span>
+    </a>
+    <a href="asma-neon-hymns/047-s-eycharisto-thee.html" class="song-item">
+        <span class="song-number">047</span>
+        <span class="song-title">S’ EYChARISTO ThEE <em>(UNKNOWN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/048-christe-elpida-tis-zois.html" class="song-item">
+        <span class="song-number">048</span>
+        <span class="song-title">ChRISTE ELPIDA TIS ZOIS <em>(CHRIST, HOPE OF LIFE, BRIGHT MORNING STAR, HOW I LOVE YOU! FROM THE GARDEN
+                                    OF THE SOUL, I SEND YOU A PRAYER WHEEL, AND I WORSHIP YOU. YOU ARE THE SUN O
+                                    BRIGHT, YOU ARE THE GLORIOUS THEOSTRAN AND GREAT, AND THERE IS NO OTHER,
+                                    NO ONE! YES, THERE IS NO ONE ELSE, YOU LOVE ME YOU FORGIVE ME, NO ONE LIKE
+                                    AND YOU. YOUR SWEET PRESENCE STRENGTHENS MY HEART AND GIVES
+                                    COURAGE AND COURAGE. COURAGE AHEAD TO MOVE FORWARD, EVERYTHING TO
+                                    OVERCOME BECAUSE YOU ARE WITH ME, HELPER IN MY LIFE, MY JESUS. OH HOW MUCH
+                                    THANK YOU! I SING TO YOU AND WORSHIP YOU, BECAUSE YOU REIGN IN LIFE
+                                    MY, MY CHRIST YOU)</em></span>
+    </a>
+    <a href="asma-neon-hymns/049-mera-lampri.html" class="song-item">
+        <span class="song-number">049</span>
+        <span class="song-title">MERA LAMPRI <em>(THE LORD IS COMING IN GLORY)</em></span>
+    </a>
+    <a href="asma-neon-hymns/050-erchetai-o-christos.html" class="song-item">
+        <span class="song-number">050</span>
+        <span class="song-title">ERChETAI O ChRISTOS <em>(UNKNOWN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/051-s-oli-mou-ti-zoi.html" class="song-item">
+        <span class="song-number">051</span>
+        <span class="song-title">S’ OLI MOY TI ZOI <em>(ONCE AGAIN, FROM THE HEART)</em></span>
+    </a>
+    <a href="asma-neon-hymns/052-ti-thafmasti-stigmi.html" class="song-item">
+        <span class="song-number">052</span>
+        <span class="song-title">TI ThAYMASTI STIGMI <em>(WHAT A WONDERFUL MOMENT)</em></span>
+    </a>
+    <a href="asma-neon-hymns/053-gia-mena-zeis.html" class="song-item">
+        <span class="song-number">053</span>
+        <span class="song-title">GIA MENA ZEIS <em>(YOU LIVE AND RULE OUR HEARTS)</em></span>
+    </a>
+    <a href="asma-neon-hymns/054-nai-tha-rthei-i-stigmi.html" class="song-item">
+        <span class="song-number">054</span>
+        <span class="song-title">NAI, ThA ‘RThEI I STIGMI <em>(THANK YOU VERY MUCH SIR,)</em></span>
+    </a>
+    <a href="asma-neon-hymns/055-epeidi-aftos-zei.html" class="song-item">
+        <span class="song-number">055</span>
+        <span class="song-title">EPEIDI AYTOS ZEI <em>(REFRAIN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/056-den-yparchei-katadiki.html" class="song-item">
+        <span class="song-number">056</span>
+        <span class="song-title">DEN YPARChEI KATADIKI <em>(THERE IS NO CONDEMNATION TO THOSE WHO FOLLOW HIM,)</em></span>
+    </a>
+    <a href="asma-neon-hymns/057-eleise-me-o-thee.html" class="song-item">
+        <span class="song-number">057</span>
+        <span class="song-title">ELEISE ME O ThEE <em>(REFRAIN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/058-mprosta-ston-vasilia.html" class="song-item">
+        <span class="song-number">058</span>
+        <span class="song-title">MPROSTA STON VASILIA <em>(LIKE DAVID BEFORE GOD)</em></span>
+    </a>
+    <a href="asma-neon-hymns/059-san-fotia-pou-kaiei.html" class="song-item">
+        <span class="song-number">059</span>
+        <span class="song-title">SAN FOTIA POY KAIEI <em>(LIKE A BURNING FIRE, YOU ARE IN MY HEART)</em></span>
+    </a>
+    <a href="asma-neon-hymns/060-iisou-ti-doxa-sou.html" class="song-item">
+        <span class="song-number">060</span>
+        <span class="song-title">IISOY TI DOXA SOY <em>(JESUS, YOUR GLORY WE WILL SING,)</em></span>
+    </a>
+    <a href="asma-neon-hymns/061-o-iisous-einai-i-elpida-mas.html" class="song-item">
+        <span class="song-number">061</span>
+        <span class="song-title">O IISOYS EINAI I ELPIDA MAS <em>(JESUS IS OUR HOPE,)</em></span>
+    </a>
+    <a href="asma-neon-hymns/062-einai-eflogitos.html" class="song-item">
+        <span class="song-number">062</span>
+        <span class="song-title">EINAI EYLOGITOS <em>(HEAVENLY FATHER WE LOVE YOU,)</em></span>
+    </a>
+    <a href="asma-neon-hymns/063-to-aima-toy-christoy.html" class="song-item">
+        <span class="song-number">063</span>
+        <span class="song-title">TO AIMA TOY ChRISTOY <em>(UNKNOWN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/064-o-thaymasti-chari.html" class="song-item">
+        <span class="song-number">064</span>
+        <span class="song-title">O ThAYMASTI ChARI! <em>(O WONDERFUL GRACE OF GOD, WHO SAVED MY LITTLE SOUL INSTEAD OF DEATH, GAVE ME ETERNAL LIFE
+                                    LIFE. I WILL LOVE AS LONG AS I LIVE JESUS CHRIST WITH HIS SHED BLOOD
+                                    ON THE CROSS. HE TOLD US THAT FOR CHRIST WE WILL SUFFER A LOT, BUT TAKE COURAGE
+                                    HE SAYS, I CONQUERED. HE TOLD US THAT HE WILL RISE AGAIN ON EARTH, SO THAT
+                                    RAPTURE THE FAITHFUL HIGH INTO THE HEAVENS.)</em></span>
+    </a>
+    <a href="asma-neon-hymns/065-i-doxa-tis-paroysias.html" class="song-item">
+        <span class="song-number">065</span>
+        <span class="song-title">I DOXA TIS PAROYSIAS <em>(O THE GLORY OF THE PRESENCE OF THE LORD IS HOLY! ILLUMINE THE HEARTS OF YOUR FAITHFUL
+                                    CHRIST, WITH THE GRACE OF YOUR FACE AND THE GLORY OF YOUR PRESENCE
+                                    YOUR GLORIOUS PRESENCE, I GIVE HONOR AND WORSHIP. MAJESTY AND GLORY
+                                    YOU ARE CLOTHED LORD, MASTER OF HEAVEN YOU HOLY ONE, KING OF THE EARTH OH GLORIOUS!)</em></span>
+    </a>
+    <a href="asma-neon-hymns/066-me-ti-dynami-tou.html" class="song-item">
+        <span class="song-number">066</span>
+        <span class="song-title">ME TI DYNAMI TOY <em>(BY HIS POWER WE ARE VICTORIOUS,)</em></span>
+    </a>
+    <a href="asma-neon-hymns/067-perase-me-ap-tin-pyli.html" class="song-item">
+        <span class="song-number">067</span>
+        <span class="song-title">PERASE ME AP’ TIN PYLI <em>(PASS ME THROUGH THE GATE OF THE HOLY SPIRIT)</em></span>
+    </a>
+    <a href="asma-neon-hymns/068-perissotero-apo-kataktites.html" class="song-item">
+        <span class="song-number">068</span>
+        <span class="song-title">PERISSOTERO APO KATAKTITES <em>(REFRAIN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/069-eimaste-pali-mazi.html" class="song-item">
+        <span class="song-number">069</span>
+        <span class="song-title">EIMASTE PALI MAZI <em>(UNKNOWN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/070-agios-kyrios.html" class="song-item">
+        <span class="song-number">070</span>
+        <span class="song-title">AGIOS KYRIOS <em>(REFRAIN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/071-patera-aisthanomai.html" class="song-item">
+        <span class="song-number">071</span>
+        <span class="song-title">PATERA AISThANOMAI <em>(REFRAIN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/072-tin-proti-fora.html" class="song-item">
+        <span class="song-number">072</span>
+        <span class="song-title">TIN PROTI FORA <em>(EPISODE 1)</em></span>
+    </a>
+    <a href="asma-neon-hymns/073-plisiazei-i-ora.html" class="song-item">
+        <span class="song-number">073</span>
+        <span class="song-title">PLISIAZEI I ORA <em>(THE TIME IS COMING, THE MOMENT IS COMING, FAR FROM LEAVING THIS EARTH, IT'S TIME
+                                    MINUTES PASS QUICKLY, AND CHRIST WILL COME SO SUDDENLY. I AM READY
+                                    FOR A HEAVENLY FEAST, FOR A FESTIVE DINNER, GLORY TO GOD. HE WILL TAKE ME TO
+                                    HEAVEN, I WILL LIVE THERE FOREVER I WILL PRAISE HIM. COME AND YOU NOW LET'S GO
+                                    TOGETHER, GET READY NOW IS THE TIME, LIKE A THIEF IN THE NIGHT HE WILL COME
+                                    SUDDENLY, THEN WHOEVER RECEIVES HIM WILL BE RAPTURED. I HAVE PREPARED FOR HEAVEN
+                                    CELEBRATION, HOLIDAY DINNER FOR US IN HEAVEN, WITH OUR JESUS ALWAYS
+                                    THERE, THE FAITHFUL WILL LIVE FOREVER.)</em></span>
+    </a>
+    <a href="asma-neon-hymns/074-apofasi-kai-epilogi.html" class="song-item">
+        <span class="song-number">074</span>
+        <span class="song-title">APOFASI KAI EPILOGI <em>(IF YOU LOOK AROUND ONE DAY,)</em></span>
+    </a>
+    <a href="asma-neon-hymns/075-thelo-na-gino-ypiretis-sou.html" class="song-item">
+        <span class="song-number">075</span>
+        <span class="song-title">ThELO NA GINO YPIRETIS SOY <em>(I WANT TO BE YOUR SERVANT)</em></span>
+    </a>
+    <a href="asma-neon-hymns/076-poios-tha-anevei.html" class="song-item">
+        <span class="song-number">076</span>
+        <span class="song-title">POIOS ThA ANEVEI <em>(WHO WILL ASCEND TO THE HEAVENLY SIONPOIOS WILL STAND BEFORE YOUR HOLY ONE
+                                    THRONE. ONLY HE WHO HAS A PURE HEART WILL RISE UP HERE, WILL RISE UP HERE
+                                    HIGH, IT WILL ASCEND TO THE HEAVENLY ZION. MY LORD, PURE HEART, FILL IT
+                                    WITH HEAVENLY FIRE, MAKE ME RIGHTEOUS SO THAT I MAY BE IN HEAVENLY ZION
+                                    COME UP. HOLY, HOLY, HOLY, HOLY, HOLY, HOLY IS THE LORD. I WILL COME
+                                    WITH FAITH IN THE HOLY THRONE IN FRONT OF THE SERAPHIM, IN FRONT OF
+                                    CHERUBIM. AND WITH WORSHIP, PRAISE I WILL SING FOR JOY. HOLY, HOLY,
+                                    HOLY, HOLY, HOLY, HOLY IS THE LORD.)</em></span>
+    </a>
+    <a href="asma-neon-hymns/077-makarios-o-dikaios.html" class="song-item">
+        <span class="song-number">077</span>
+        <span class="song-title">MAKARIOS O DIKAIOS <em>(BLESSED IS HE WHO HAS NEVER WALKED IN THE PATH OF THE UNGODLY, NOR SAT IN IT
+                                    MOCKERS OF THE SEAT. OTHERS IN THE WAY OF GOD IS THE WILL OF THIS
+                                    ALL DAY AND ALL NIGHT HE SHOULD STUDY. HE WILL NOT BE LIKE THE TREE
+                                    HE, WHO IS ROOTED IN THE BANKS OF ABUNDANT WATERS THAT POUR OUT AND
+                                    THEY RUN. THE UNGODLY WILL NOT BE LIKE THAT, BUT THEY ARE LIKE STRAW FROM HER
+                                    EARTH'S FACE THE WIND SWEEPS IT. THAT'S WHY THE
+                                    UNGODLY IN JUDGMENT, BUT ALL GODLY IN THE ASSEMBLY OF THE RIGHTEOUS. WHY
+                                    THE LORD KNOWS THE WAY OF THE RIGHTEOUS, AND THE WAY OF THE WICKED
+                                    IN LOSS.)</em></span>
+    </a>
+    <a href="asma-neon-hymns/078-kai-meta-apo-do.html" class="song-item">
+        <span class="song-number">078</span>
+        <span class="song-title">KAI META APO ‘DO <em>(REFRAIN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/079-doxa-sto-theo-gia-ti-chari.html" class="song-item">
+        <span class="song-number">079</span>
+        <span class="song-title">DOXA STO ThEO GIA TI ChARI <em>(REFRAIN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/080-ela-christe-i-elpida-mas.html" class="song-item">
+        <span class="song-number">080</span>
+        <span class="song-title">ELA ChRISTE I ELPIDA MAS <em>(YOU BROKE LIKE ALABASTER)</em></span>
+    </a>
+    <a href="asma-neon-hymns/081-kardia-kathari.html" class="song-item">
+        <span class="song-number">081</span>
+        <span class="song-title">KARDIA KAThARI <em>(UNKNOWN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/082-min-aporeis.html" class="song-item">
+        <span class="song-number">082</span>
+        <span class="song-title">MIN APOREIS <em>(UNKNOWN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/083-mpros-sto-stafro-sou.html" class="song-item">
+        <span class="song-number">083</span>
+        <span class="song-title">MPROS STO STAYRO SOY <em>(BEFORE YOUR CROSS KNEELING,)</em></span>
+    </a>
+    <a href="asma-neon-hymns/084-i-agapi-toy.html" class="song-item">
+        <span class="song-number">084</span>
+        <span class="song-title">I AGAPI TOY <em>(HIS LOVE CHANGED MY LIFE, BROUGHT ME OUT OF THICK DARKNESS, AND FROM
+                                    PRISON. HE SET ME FREE AND NOW I LIVE NEAR HIM. I AM FAR FROM HIM
+                                    SLAVERY, AND THE SMELL OF DEATH. HIS LOVE, MARKED A PATH FOR ME
+                                    ON HIS WAY NOW YOU WALK IN FREEDOM. HE GAVE ME A TALISMAN, FOREVER
+                                    PRAYER, PROMPT ME THUS SIMPLY TO OVERCOME AND SPEAK TOGETHER. HIS LOVE,
+                                    I WAS FILLED WITH PEACE AND THE JOY THAT HE GAVE ME, IN MY HEART WILL
+                                    STAY. EVEN IF I GO AWAY, FROM SWEET TUAGALIA, I RUN BACK IMMEDIATELY TO
+                                    I FIND SOLACE IN HIM.)</em></span>
+    </a>
+    <a href="asma-neon-hymns/085-mono-s-ese.html" class="song-item">
+        <span class="song-number">085</span>
+        <span class="song-title">MONO S’ ESE <em>(UNKNOWN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/086-atenise-ekei.html" class="song-item">
+        <span class="song-number">086</span>
+        <span class="song-title">ATENISE EKEI <em>(STARE THERE AT THE CROSS,)</em></span>
+    </a>
+    <a href="asma-neon-hymns/087-erchetai-eleftheria.html" class="song-item">
+        <span class="song-number">087</span>
+        <span class="song-title">ERChETAI ELEYThERIA <em>(THE TRUMPETS SOUND AGAIN, SOUND OF HOPE, FREEDOM,)</em></span>
+    </a>
+    <a href="asma-neon-hymns/088-thelo-se-ymnisei.html" class="song-item">
+        <span class="song-number">088</span>
+        <span class="song-title">ThELO SE YMNISEI <em>(WHERE CAN I WALK AWAY FROM YOU HOW CAN I GET OUT OF YOUR SIGHT AND IF I CLIMB HIGH
+                                    IN THE SKY THERE I MEET YOU. AND IF AT DAWN I PUT ON THE WINGS
+                                    TO THE SEA, IF I AM ALONE, THAT SUYATI'S HAND WILL LEAD ME THERE
+                                    HOLD ME. I WANT TO PRAISE YOU WITH ALL MY HEART AND I OFFER MY LIFE WITH
+                                    JOY IN YOU, IN YOU CHRIST. WHAT SHOULD I FEAR, EVEN IF IT IS DARK WITH ME
+                                    COVER MY HEART AND EVEN IF IT HURTS IT WILL SHINE FOR ME AT NIGHT IT WILL BE
+                                    DAY BECAUSE YOU ARE THE LIGHT. I WANT TO PRAISE YOU WITH ALL MY HEART AND
+                                    I OFFER MY LIFE WITH JOY TO YOU, TO YOU CHRIST.)</em></span>
+    </a>
+    <a href="asma-neon-hymns/089-o-theos-kyverna.html" class="song-item">
+        <span class="song-number">089</span>
+        <span class="song-title">O ThEOS KYVERNA <em>(REFRAIN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/090-o-theos-einai-kalos.html" class="song-item">
+        <span class="song-number">090</span>
+        <span class="song-title">O ThEOS EINAI KALOS <em>(UNKNOWN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/091-s-esena-tha-effrainomai-kyrie.html" class="song-item">
+        <span class="song-number">091</span>
+        <span class="song-title">S’ ESENA ThA EYFRAINOMAI, KYRIE <em>(IF THE FIG TREE NEVER SPROUTS,)</em></span>
+    </a>
+    <a href="asma-neon-hymns/092-i-agapi-tou-diarkei.html" class="song-item">
+        <span class="song-number">092</span>
+        <span class="song-title">I AGAPI TOY DIARKEI <em>(HE DID GREAT MIRACLES,)</em></span>
+    </a>
+    <a href="asma-neon-hymns/093-chari-thafmasti.html" class="song-item">
+        <span class="song-number">093</span>
+        <span class="song-title">ChARI ThAYMASTI <em>(THANK YOU JESUS FOR FORGIVING ME)</em></span>
+    </a>
+    <a href="asma-neon-hymns/094-o-theos-einai-axios.html" class="song-item">
+        <span class="song-number">094</span>
+        <span class="song-title">O ThEOS EINAI AXIOS <em>(GOD IS WORTHY, AND A HOLY GOD)</em></span>
+    </a>
+    <a href="asma-neon-hymns/095-mera-lampri-kai-thafmasti.html" class="song-item">
+        <span class="song-number">095</span>
+        <span class="song-title">MERA LAMPRI KAI ThAYMASTI <em>(DEAR TRISEULOGITE, THAT YOU REMAINED CLOSED,)</em></span>
+    </a>
+    <a href="asma-neon-hymns/096-soy-dinoyme-ti-doxa.html" class="song-item">
+        <span class="song-number">096</span>
+        <span class="song-title">SOY DINOYME TI DOXA <em>(UNKNOWN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/097-doste-doxa-sto-theo.html" class="song-item">
+        <span class="song-number">097</span>
+        <span class="song-title">DOSTE DOXA STO ThEO <em>(THE LORD COMES WITH POWER,)</em></span>
+    </a>
+    <a href="asma-neon-hymns/098-foni-agalliasis.html" class="song-item">
+        <span class="song-number">098</span>
+        <span class="song-title">FONI AGALLIASIS <em>(UNKNOWN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/099-poso-effrainomai.html" class="song-item">
+        <span class="song-number">099</span>
+        <span class="song-title">POSO EYFRAINOMAI <em>(HOW I REJOICE, HEAVENLY FATHER,)</em></span>
+    </a>
+    <a href="asma-neon-hymns/100-eimaste-edo.html" class="song-item">
+        <span class="song-number">100</span>
+        <span class="song-title">EIMASTE EDO <em>(WE ARE HERE TO WORSHIP YOU AND ALL WE ARE TO OFFER YOU. LOVE
+                                    IN THE HEART THAT YOU PLACED, IT CRIES OUT LOUDLY TO YOU: "ABBA FATHER". WE WANT GOD
+                                    TO GIVE YOU, SOUL, HEART AND MIND, WHICH SAYS: "I LOVE YOU".)</em></span>
+    </a>
+    <a href="asma-neon-hymns/101-aima-toy-amnoy.html" class="song-item">
+        <span class="song-number">101</span>
+        <span class="song-title">AIMA TOY AMNOY <em>(UNKNOWN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/102-niotho-to-pneyma-toy-theoy.html" class="song-item">
+        <span class="song-number">102</span>
+        <span class="song-title">NIOThO TO PNEYMA TOY ThEOY <em>(UNKNOWN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/103-o-kyrios-mas-einai-pantodynamos.html" class="song-item">
+        <span class="song-number">103</span>
+        <span class="song-title">O KYRIOS MAS EINAI PANTODYNAMOS <em>(OUR LORD IS ALMIGHTY)</em></span>
+    </a>
+    <a href="asma-neon-hymns/104-otan-kano-proseychi.html" class="song-item">
+        <span class="song-number">104</span>
+        <span class="song-title">OTAN KANO PROSEYChI <em>(WHEN I PRAY MY BROTHER, I FEEL HEAVENLY POWER TOUCHING ME. LIGHT TOO
+                                    THEY TRULY FILL MY SOUL, AND THE LOVE OF GOD FLOODS ME. HALLELUJAH,
+                                    HALLELUJAH. WHEN I PRAY MY BROTHER, I FEEL STRENGTH IN MY CHEST
+                                    GREAT. HIS HOLY FORM SHINES IN ME, AND MY HEART DIVINE MELODIES
+                                    SINGS. HALLELUJAH, HALLELUJAH. WHEN I PRAY MY BROTHER, I FEEL THE
+                                    MAY THE HOLY SPIRIT GIVE ME. AND IT IS A BALM FOR MY EVERY WOUND, CHRIST'S
+                                    BLOOD THAT SOOTHES ME. HALLELUJAH, HALLELUJAH.)</em></span>
+    </a>
+    <a href="asma-neon-hymns/105-tapeina-pio-tapeina.html" class="song-item">
+        <span class="song-number">105</span>
+        <span class="song-title">TAPEINA PIO TAPEINA <em>(REFRAIN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/106-ta-ourania-anaggelloun.html" class="song-item">
+        <span class="song-number">106</span>
+        <span class="song-title">TA OYRANIA ANAGGELLOYN <em>(THE HEAVENS ANNOUNCE)</em></span>
+    </a>
+    <a href="asma-neon-hymns/107-mesa-ap-ta-matia-soy-thee.html" class="song-item">
+        <span class="song-number">107</span>
+        <span class="song-title">MESA AP’ TA MATIA SOY ThEE <em>(THROUGH YOUR EYES, GOD, I WANT TO SEE MYSELF. TO SEARCH WITH MY THOUGHTS
+                                    FIND WHAT IN MY LIFE I PITY YOU. I WANT TO PLEASE YOU, LORD, TO YOU
+                                    I GLORIFY, TO PRAISE YOU, TO ENJOY, MY EVERY MOMENT. I LIVE FOR YOU, YOU
+                                    THANK YOU)</em></span>
+    </a>
+    <a href="asma-neon-hymns/108-kathe-provlima.html" class="song-item">
+        <span class="song-number">108</span>
+        <span class="song-title">KAThE PROVLIMA <em>(EVERY PROBLEM OF YOURS HE CAN SOLVE.)</em></span>
+    </a>
+    <a href="asma-neon-hymns/109-agie-pater.html" class="song-item">
+        <span class="song-number">109</span>
+        <span class="song-title">AGIE PATER <em>(HOLY FATHER, HOLY FATHER YOU HAVE FORGIVEN US)</em></span>
+    </a>
+    <a href="asma-neon-hymns/110-doxase-tora-ton-theo.html" class="song-item">
+        <span class="song-number">110</span>
+        <span class="song-title">DOXASE TORA TON ThEO <em>(REFRAIN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/111-me-ton-kyrio-enikisame.html" class="song-item">
+        <span class="song-number">111</span>
+        <span class="song-title">ME TON KYRIO ENIKISAME <em>(REFRAIN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/112-ton-ypsose-o-theos.html" class="song-item">
+        <span class="song-number">112</span>
+        <span class="song-title">TON YPsOSE O ThEOS <em>(UNKNOWN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/113-psalle-s-ayton-ymnoys-charas.html" class="song-item">
+        <span class="song-number">113</span>
+        <span class="song-title">PsALLE S’ AYTON YMNOYS ChARAS <em>(UNKNOWN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/114-tora-psallo.html" class="song-item">
+        <span class="song-number">114</span>
+        <span class="song-title">TORA PsALLO <em>(REFRAIN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/115-t-atsali-ki-an-chtypa.html" class="song-item">
+        <span class="song-number">115</span>
+        <span class="song-title">T’ ATSALI KI AN ChTYPA <em>(EVEN IF THE STEEL STRIKES THE STONE,)</em></span>
+    </a>
+    <a href="asma-neon-hymns/116-agia-fotia.html" class="song-item">
+        <span class="song-number">116</span>
+        <span class="song-title">AGIA FOTIA <em>(MAY THE HOLY FIRE ALWAYS BURN STRONG IN THE HEARTS FOR CHRIST TO BE EDUCATED, THEN
+                                    WE WILL SING HIGH ON THE THRONE GLORY TO THE SLAIN LAMB OF GOD.HOLY FIRE
+                                    KINDLE THE SPIRIT OF GOD, TO BURN TO EARTH EVERY ERROR OF THE ENEMY, AND THEN YOU
+                                    JESUS, PEOPLE WILL SEE AND CALL ON YOUR NAME. HOLY FIRE
+                                    ALWAYS LET CHRIST BURN STRONG IN THE HEARTS TO BE EDUCATED, THEN HE WILL
+                                    WE SING HIGH ON THE THRONE GLORY TO THE SLAIN LAMB OF GOD. HOLY FIRE
+                                    KINDLE SPIRIT OF GOD, TO BURN ON EARTH EVERY ERROR OF THE ENEMY AND THEN YOU JESUS
+                                    PEOPLE WILL SEE AND CALL ON YOUR NAME. AND THEN YOU JESUS
+                                    MEN SHALL SEE AND CALL UPON THY NAME.)</em></span>
+    </a>
+    <a href="asma-neon-hymns/117-mes-sta-dynata-soy-cheria.html" class="song-item">
+        <span class="song-number">117</span>
+        <span class="song-title">MES STA DYNATA SOY ChERIA <em>(WITH YOUR STRONG HANDS, LORD, YOU HOLD ME, YOU GUIDE MY STEPS, WITH YOUR LIGHT
+                                    YOU. DEEP WITHIN ME THE SPIRIT SINGS FOR JOY MY SAVIOR AND LORD, YOU
+                                    I LOVE CHRIST. I WAS BLIND AND YOU GAVE ME LIGHT, MY NEW HEART
+                                    YOU MADE HIM LOVE YOU. WITH ONE WORD YOU RESURRECTED MY SPIRIT AND HIS
+                                    THE SHADOW OF DEATH, I FEAR NO MORE.)</em></span>
+    </a>
+    <a href="asma-neon-hymns/118-o-ase-ton-iisou-na-parei.html" class="song-item">
+        <span class="song-number">118</span>
+        <span class="song-title">O ASE TON IISOY NA PAREI <em>(OH, LET JESUS TAKE IT)</em></span>
+    </a>
+    <a href="asma-neon-hymns/119-zo-ta-logia-ekeina-christe-mou.html" class="song-item">
+        <span class="song-number">119</span>
+        <span class="song-title">ZO TA LOGIA EKEINA ChRISTE MOY <em>(I LIVE THOSE WORDS MY CHRIST)</em></span>
+    </a>
+    <a href="asma-neon-hymns/120-alalaxte-ston-kyrio.html" class="song-item">
+        <span class="song-number">120</span>
+        <span class="song-title">ALALAXTE STON KYRIO <em>(GIVE THANKS TO THE LORD, ALL THE EARTH)</em></span>
+    </a>
+    <a href="asma-neon-hymns/121-pantes-oi-laoi-krotisate-cheiras.html" class="song-item">
+        <span class="song-number">121</span>
+        <span class="song-title">PANTES OI LAOI KROTISATE ChEIRAS <em>(UNKNOWN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/122-o-fos-agapis-theos.html" class="song-item">
+        <span class="song-number">122</span>
+        <span class="song-title">O FOS AGAPIS, ThEOS! <em>(REFRAIN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/123-to-monopati-toy-dikaioy.html" class="song-item">
+        <span class="song-number">123</span>
+        <span class="song-title">TO MONOPATI TOY DIKAIOY <em>(THE PATH OF THE RIGHTEOUS IS AS BRIGHT AS THE DAWN. ALL THE MORE THE PATH
+                                    OF THE RIGHTEOUS IS AS BRIGHT AS THE DAWN. BRIGHT AS DAY, BRIGHT AS
+                                    DAY, BRIGHT AS DAY. I WAS TOUCHED ONE DAY BY MY JESUS AND MY LIFE
+                                    CHANGED. I'M NEVER THE SAME AGAIN BECAUSE NOW HE SAVED ME. I WAS LIVING IN THE
+                                    I LIVED IN DARKNESS IN SHAME. BUT NOW MY REDEEMER CAME AND GAVE ME
+                                    ETERNAL LIFE. YOU ARE THE WORDS I SING, YOU ARE THIS HYMN. YOU ARE THE NEW
+                                    ODE, FOR YOU I WANT TO SING PRAISE TO YOU I WANT TO PRAISE YOU, YOU ARE THE WONDERFUL, YOU ARE THE
+                                    COUNSELOR, YOU ARE A MIGHTY GOD. EVERY BREATH WILL PRAISE YOU WHILE NEAR YOU
+                                    LIVES. CHRIST THE SAVIOR SAVED ME, HE SET ME FREE. HE LOOSENED THE BONDS
+                                    MY, THAT'S WHY I SHOUT GLORY TO HIM. IT'S A BIG CHANGE, I HAVE A BIG CHANGE
+                                    JOY, I HAVE BEEN SAVED. FROM SLAVERY I HAVE COME TO FREEDOM OH! OH! OH! OH! WHAT A CHANGE
+                                    OH! OH! OH! OH! WHAT A CHANGE)</em></span>
+    </a>
+    <a href="asma-neon-hymns/124-ayto-to-ergo.html" class="song-item">
+        <span class="song-number">124</span>
+        <span class="song-title">AYTO TO ERGO <em>(UNKNOWN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/125-ta-matia-sikono-psila.html" class="song-item">
+        <span class="song-number">125</span>
+        <span class="song-title">TA MATIA SIKONO PsILA <em>(I LIFT MY EYES UP, I'M LOOKING FOR HELP. MY HELP IS GOD, WHO
+                                    CREATED EARTH AND HEAVEN! OH! WHO MADE EARTH AND HEAVEN. YOU WILL NEVER STUMBLE.
+                                    THE LORD WILL KEEP YOU. THE GOD OF ISRAEL WILL NOT SLEEP. NEVER
+                                    HE WILL FALL ASLEEP. NO HARM WILL TOUCH YOU. GOD IS YOUR PROTECTOR
+                                    EVERY STEP HE WILL BE YOUR GUIDE FOREVER, HE WILL BE YOUR GUIDE.)</em></span>
+    </a>
+    <a href="asma-neon-hymns/126-alliloyia-vasilea-vasilia.html" class="song-item">
+        <span class="song-number">126</span>
+        <span class="song-title">ALLILOYIA VASILEA VASILIA <em>(REFRAIN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/127-pilino-skeyos.html" class="song-item">
+        <span class="song-number">127</span>
+        <span class="song-title">PILINO SKEYOS <em>(CLAY VESSEL, SHELL VESSEL, I AM. BUT WITHIN ME I HAVE A MIRACLE, I HAVE
+                                    A TREASURE. I HAVE YOU FATHER, I HAVE YOU MY CHRIST, I HAVE YOU HOLY SPIRIT.
+                                    I HAVE YOU, FATHER, I HAVE YOU, MY CHRIST, I HAVE YOU, MY GOD. YOUR VOICE
+                                    I HEAR YOU AND I FEEL YOU TALKING TO ME. I FEEL YOU LOOKING AT ME, I FEEL YOU
+                                    YOU EMBRACE, AND YOU ARE SO CLOSE. YOU ARE BY MY SIDE FATHER, YOU ARE BY MY SIDE
+                                    MY CHRIST, BY MY SIDE YOU ARE THE HOLY SPIRIT. IN ME YOU ARE FATHER, IN ME
+                                    YOU ARE MY CHRIST, WITHIN ME YOU ARE MY GOD. I LOVE YOU FATHER, I LOVE YOU
+                                    MY CHRIST, I LOVE YOU HOLY SPIRIT. I LOVE YOU FATHER, I LOVE YOU CHRIST
+                                    MY, I LOVE YOU, MY GOD.)</em></span>
+    </a>
+    <a href="asma-neon-hymns/128-patera-moy-se-parakalo.html" class="song-item">
+        <span class="song-number">128</span>
+        <span class="song-title">PATERA MOY SE PARAKALO <em>(FATHER, PLEASE, WHERE JESUS IS I WANT TO BE AND TO SEE JOY
+                                    HIM AND HIS GLORY, THIS IS WHAT I ASK IN HEAVEN TO COME. MY EYES WILL
+                                    BEHOLD THE BEAUTY OF THE KING. THE WHITE THRONE AND THE GLORY
+                                    THEY FACE A LONG TIME WINNER. HOW AM I WAITING FOR THIS MOMENT WHEN FROM
+                                    YOUR THRONE WILL RISE AND DESCEND IN THE MIDDLE OF HEAVEN, AS I WAIT FOR HER
+                                    RAPTURE.)</em></span>
+    </a>
+    <a href="asma-neon-hymns/129-ta-cheria-sou-plathoun-zoi.html" class="song-item">
+        <span class="song-number">129</span>
+        <span class="song-title">TA ChERIA SOY PLAThOYN ZOI <em>(YOUR HANDS SHAPE LIFE,)</em></span>
+    </a>
+    <a href="asma-neon-hymns/130-an-esy-de-m-agapouses.html" class="song-item">
+        <span class="song-number">130</span>
+        <span class="song-title">AN ESY DE M’ AGAPOYSES <em>(IF YOU DIDN'T LOVE ME,)</em></span>
+    </a>
+    <a href="asma-neon-hymns/131-chamogelao-kai-tragoudao.html" class="song-item">
+        <span class="song-number">131</span>
+        <span class="song-title">ChAMOGELAO KAI TRAGOYDAO <em>(ONE DAY THE SKY OPENED FOR ME,)</em></span>
+    </a>
+    <a href="asma-neon-hymns/132-patera-pantokrator.html" class="song-item">
+        <span class="song-number">132</span>
+        <span class="song-title">PATERA PANTOKRATOR <em>(UNKNOWN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/133-doxa-ston-patera.html" class="song-item">
+        <span class="song-number">133</span>
+        <span class="song-title">DOXA STON PATERA <em>(OH GOD I WONDER HOW I COULD LIVE)</em></span>
+    </a>
+    <a href="asma-neon-hymns/134-stis-kataigides.html" class="song-item">
+        <span class="song-number">134</span>
+        <span class="song-title">STIS KATAIGIDES <em>(IN THE STORMS AND BITTERNESS OF LIFE)</em></span>
+    </a>
+    <a href="asma-neon-hymns/135-min-peis.html" class="song-item">
+        <span class="song-number">135</span>
+        <span class="song-title">MIN PEIS <em>(DON'T SAY YOU LOVE SOMEONE)</em></span>
+    </a>
+    <a href="asma-neon-hymns/136-erchetai-i-stigmi.html" class="song-item">
+        <span class="song-number">136</span>
+        <span class="song-title">ERChETAI I STIGMI <em>(UNKNOWN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/137-eisai-sy-to-pan.html" class="song-item">
+        <span class="song-number">137</span>
+        <span class="song-title">EISAI SY TO PAN <em>(YOU ARE EVERYTHING MY LORD JESUS, HALLELUJAH.)</em></span>
+    </a>
+    <a href="asma-neon-hymns/138-koitaxte-psila.html" class="song-item">
+        <span class="song-number">138</span>
+        <span class="song-title">KOITAXTE PsILA <em>(LOOK UP, CHRIST IS COMING, WORSHIP HIM, WORSHIP HIM. SING TO HIM
+                                    WITH A PURE HEART, ALL THE EARTH SHALL KNEEL BEFORE THE KING. LOOK UP,
+                                    CHRIST IS COMING, THE SIGNS TESTIFY ABOUT HIM. HE WILL COME DOWN TO
+                                    MIDHEAVEN TO TAKE THE FAITHFUL TO HIS THRONE ON HIGH. LOOK UP,
+                                    CHRIST IS COMING, EVERY BELIEVER WAITS FOR HIM. SING IT OUT LOUD TOO
+                                    HEART, ALL THE EARTH SHALL KNEEL BEFORE THE KING.)</em></span>
+    </a>
+    <a href="asma-neon-hymns/139-pote-m-alliloyia.html" class="song-item">
+        <span class="song-number">139</span>
+        <span class="song-title">POTE M’ ALLILOYIA <em>(SOMETIMES WITH HALLELUJAHS, SOMETIMES WITH HOSANNAS, OUR HEARTS ARE UNITED TO GOD
+                                    AHEAD. LIFT UP YOUR HEARTS AND BEGIN THE SWEET SONG. "GLORY
+                                    IN SAINT REDEEMER ECHOES EVERYWHERE. LET YOUR JOY BLOOM ALIVE
+                                    LITTLE FLOWER, SPREAD MYRRH AND BEAUTY OF THE GRACE OF CHRIST. FILL ME
+                                    THE SPIRIT AND OVERFLOW WITH LOVE SWEET NOTES IN THE HEARTS
+                                    THEY FALL LIKE RAIN. SHOUT: "HALLELUJAH" FOR THE WORLD TO HEAR
+                                    END. "SWEET SAVIOR, I LOVE YOU WITH ALL MY SOUL".)</em></span>
+    </a>
+    <a href="asma-neon-hymns/140-ta-cheria-sou-me-aggixan.html" class="song-item">
+        <span class="song-number">140</span>
+        <span class="song-title">TA ChERIA SOY ME AGGIXAN <em>(WHAT IF YOUR HANDS TOUCHED ME)</em></span>
+    </a>
+    <a href="asma-neon-hymns/141-ena-dromo-kainourgio-charazo.html" class="song-item">
+        <span class="song-number">141</span>
+        <span class="song-title">ENA DROMO KAINOYRGIO ChARAZO <em>(REFRAIN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/142-i-foni-tou-kyriou.html" class="song-item">
+        <span class="song-number">142</span>
+        <span class="song-title">I FONI TOY KYRIOY <em>(THE VOICE OF THE LORD WILL BE HEARD IN ALL THE EARTH,)</em></span>
+    </a>
+    <a href="asma-neon-hymns/143-iisou-mou-s-agapo.html" class="song-item">
+        <span class="song-number">143</span>
+        <span class="song-title">IISOY MOY S’ AGAPO <em>(MY JESUS, I LOVE YOU, BECAUSE YOU HAVE LOVED ME.)</em></span>
+    </a>
+    <a href="asma-neon-hymns/144-kapou-pio-psila.html" class="song-item">
+        <span class="song-number">144</span>
+        <span class="song-title">KAPOY PIO PsILA <em>(SOMEWHERE HIGHER THAN THE STAR THE LIGHT)</em></span>
+    </a>
+    <a href="asma-neon-hymns/145-lampros-o-dromos.html" class="song-item">
+        <span class="song-number">145</span>
+        <span class="song-title">LAMPROS O DROMOS <em>(BRIGHT IS THE WAY OF HEAVEN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/146-imouna-monachos.html" class="song-item">
+        <span class="song-number">146</span>
+        <span class="song-title">IMOYNA MONAChOS <em>(I WAS ALONE IN THE DARK)</em></span>
+    </a>
+    <a href="asma-neon-hymns/147-eisai-iisoy-to-katafygio.html" class="song-item">
+        <span class="song-number">147</span>
+        <span class="song-title">EISAI IISOY TO KATAFYGIO <em>(YOU ARE JESUS MY REFUGE HELP IN MY SORROWS, MY FORTRESS ETC
+                                    LIBERATOR, MY FATHER AND FRIEND TOGETHER. YOU ARE WITH ME AND ALL
+                                    I HAVE PEACE, JOY IN LIFE. YOU QUENCH MY THIRST WITH LIVING WATERS, WITH YOU MY SOUL
+                                    LIVES AGAIN. YOU ARE JESUS MY REFUGE HELP IN MY SORROWS, THE
+                                    MY FORTRESS AND THE LIBERATOR, MY FATHER AND FRIEND TOGETHER. AS I WALK IN
+                                    VALLEYS OF DEATH I'M NEVER AFRAID BECAUSE, I FEEL YOU CLOSE, YOU COMFORT ME, YES ME
+                                    YOU CAN'T REFUSE.)</em></span>
+    </a>
+    <a href="asma-neon-hymns/148-mia-ekklisia-echei-o-christos.html" class="song-item">
+        <span class="song-number">148</span>
+        <span class="song-title">MIA EKKLISIA EChEI O ChRISTOS <em>(CHRIST HAS A CHURCH,)</em></span>
+    </a>
+    <a href="asma-neon-hymns/149-stin-agapi-moy-epese-i-pagonia.html" class="song-item">
+        <span class="song-number">149</span>
+        <span class="song-title">STIN AGAPI MOY EPESE I PAGONIA <em>(FROST FELL IN MY LOVE AND DARKNESS IN MY EYES. AS I KNELT AT
+                                    CRUCIFIED FOREBRIGHT LIGHT SHONE IN THE HEART. ON THE CROSS ON THE CROSS WITH
+                                    A SWEET LOOK, MY HEART WAS FLOODED WITH LIGHT, HOLY LIGHT. AS I KNELT AT
+                                    DIM BRIGHT LIGHT SHONE IN THE HEART. OH, WHAT A SWEET LOOK ENTERS
+                                    IN THE SOUL, HE HAS HOPE, LOVE, AFFECTION. HE REVIVES THE DEAD, GIVES LIGHT TO THE DEAD
+                                    BLIND, HE RESURRECTS HEART AND SOUL. TO THE CROSS TO THE CROSS WITH A LOOK
+                                    SWEETIE, MY HEART WAS FLOODED WITH LIGHT, HOLY LIGHT. OH, WHAT A SWEET LOOK ENTERS ME
+                                    IN THE SOUL, IT RESURRECTS ME AND GIVES ME LIFE. I WILL NEVER STOP HOPING FOR YOU
+                                    OH, MY CHRIST, ETERNAL GOD. AND IF I EVER GET TIRED OF THE BURDENS OF THE EARTH, JESUS
+                                    DON'T FORGET TO COME. TO THE CROSS TO THE CROSS WITH A SWEET LOOK N
+                                    MY HEART WAS FLOODED WITH LIGHT, HOLY LIGHT. AND IF I EVER TIRE OF ITS BURDENS
+                                    EARTH, JESUS, DON'T BE LATE IN COMING.)</em></span>
+    </a>
+    <a href="asma-neon-hymns/150-s-eycharistoyme-oloi.html" class="song-item">
+        <span class="song-number">150</span>
+        <span class="song-title">S’ EYChARISTOYME OLOI <em>(UNKNOWN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/151-o-theos-mas.html" class="song-item">
+        <span class="song-number">151</span>
+        <span class="song-title">O ThEOS MAS <em>(OUR GOD IS STRONG, OUR CONQUEROR, THE LEADER OF OUR LIFE, HE DWELLS IN
+                                    HEAVEN. OUR GOD IS THE ETERNAL LIFE, THE HOPE OF OUR SOUL,
+                                    DWELLS IN HEAVEN. OUR GOD IS STRONG AND CONQUERS THE ENEMY
+                                    OF OUR SOUL, DWELLS IN HEAVEN.)</em></span>
+    </a>
+    <a href="asma-neon-hymns/152-o-kyrie-s-eycharisto-thee.html" class="song-item">
+        <span class="song-number">152</span>
+        <span class="song-title">O, KYRIE S’ EYChARISTO ThEE <em>(UNKNOWN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/153-thelei-na-s-aggixei.html" class="song-item">
+        <span class="song-number">153</span>
+        <span class="song-title">ThELEI NA S’ AGGIXEI <em>(REFRAIN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/154-mipos-theleis.html" class="song-item">
+        <span class="song-number">154</span>
+        <span class="song-title">MIPOS ThELEIS <em>(DO YOU WANT TO SEE?)</em></span>
+    </a>
+    <a href="asma-neon-hymns/155-enomenoi-mazi.html" class="song-item">
+        <span class="song-number">155</span>
+        <span class="song-title">ENOMENOI MAZI <em>(REFRAIN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/156-nychta-glykia.html" class="song-item">
+        <span class="song-number">156</span>
+        <span class="song-title">NYChTA GLYKIA <em>(SWEET NIGHT, HOW YOUR STARS SHINE)</em></span>
+    </a>
+    <a href="asma-neon-hymns/157-eflogimene-thee.html" class="song-item">
+        <span class="song-number">157</span>
+        <span class="song-title">EYLOGIMENE ThEE <em>(WHO AM I TO ENTER YOUR PEOPLE,)</em></span>
+    </a>
+    <a href="asma-neon-hymns/158-anoixe-moy-tin-kardia.html" class="song-item">
+        <span class="song-number">158</span>
+        <span class="song-title">ANOIXE MOY TIN KARDIA <em>(UNKNOWN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/159-megali-i-chari-soy.html" class="song-item">
+        <span class="song-number">159</span>
+        <span class="song-title">MEGALI I ChARI SOY <em>(UNKNOWN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/160-asotos-yios.html" class="song-item">
+        <span class="song-number">160</span>
+        <span class="song-title">ASOTOS YIOS <em>(MY CHILD YOU DEAR)</em></span>
+    </a>
+    <a href="asma-neon-hymns/161-me-ta-cheria-psila.html" class="song-item">
+        <span class="song-number">161</span>
+        <span class="song-title">ME TA ChERIA PsILA <em>(UNKNOWN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/162-kontra-pros-to-refma.html" class="song-item">
+        <span class="song-number">162</span>
+        <span class="song-title">KONTRA PROS TO REYMA <em>(AGAINST THE STREAM, AGAINST)</em></span>
+    </a>
+    <a href="asma-neon-hymns/163-reei-zoi.html" class="song-item">
+        <span class="song-number">163</span>
+        <span class="song-title">REEI ZOI <em>(LIFE FLOWS FROM YOU JESUS)</em></span>
+    </a>
+    <a href="asma-neon-hymns/164-echo-esena-christe-moy.html" class="song-item">
+        <span class="song-number">164</span>
+        <span class="song-title">EChO ESENA ChRISTE MOY <em>(UNKNOWN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/165-i-psychi-moy-dipsaei-gia-se.html" class="song-item">
+        <span class="song-number">165</span>
+        <span class="song-title">I PsYChI MOY DIPsAEI GIA SE <em>(LORD MY SOUL THIRSTS FOR YOU MY HEART LONGS CHRIST FOR A TOUCH
+                                    YOURS. LIFE WITH THE WORLD IS LONELY, I STRUGGLE, I TRY, I WANT THE HUG
+                                    YOU. I AM ASKING YOU, COME LORD, SO THAT I CAN SEE YOU AND REST NEAR YOU, TAKE EVERYTHING
+                                    BURDENS. SEND ME STRENGTH TO WALK IN YOUR NARROW WAY, COME
+                                    GIVE ME GRACE. LORD YOU OFFERED YOUR LIFE AND SHED YOUR BLOOD FOR
+                                    TO REDEEM ME. YOU KEPT THE BURDENS ON THE CROSS AND MY SORROWS. SAINT
+                                    YOU GAVE ME SPIRIT TO STRENGTHEN ME. I NOW HAVE GREAT JOY IN MY HEART
+                                    IN ME YOUR PEACE NOW REIGNS. AND I COME TO ENTER INTO YOUR PRESENCE 
+                                    AND TO YOUR HOLY MOUNTAIN MAY MY SOUL ASCEND.)</em></span>
+    </a>
+    <a href="asma-neon-hymns/166-glyke-iisoy-moy.html" class="song-item">
+        <span class="song-number">166</span>
+        <span class="song-title">GLYKE IISOY MOY <em>(AS I LOOK UP, HIGH IN THE SKY. YOU I GAZE, YOUR GAZE
+                                    I TOUCH YOUR PALPABLE HAND, I TALK WITH YOU. MY SWEET JESUS, IN MY EMBRACE
+                                    I WANT TO PERCH ON YOU, TO REST. I ASK YOU, YOU
+                                    I HOPE, I WIPE THE TEARS AND FOLLOW YOU. MY SWEET JESUS. THE LOOK
+                                    I TURN TO SHEELPIDA, MY FAITHFUL FORTRESS, MY FORTRESS AND MY REFUGE
+                                    YOU ARE MY ROCK AND MY SUPPORT. MY SWEET JESUS TRUTH AND LIGHT
+                                    MY DEAR GUIDE, YOU ARE MY ROAD, WHEN I AM AFRAID, I RUN TO YOU
+                                    YOU GIVE ME DEEP PEACE IN MY SOUL. MY SWEET JESUS, IN YOUR ARMS
+                                    I WANT TO PERCH AND REST. I ASK YOU, I HOPE IN YOU, I WIPE THE
+                                    TEARS AND I FOLLOW YOU. MY SWEET JESUS.)</em></span>
+    </a>
+    <a href="asma-neon-hymns/167-kyrie-eis-i-zoi.html" class="song-item">
+        <span class="song-number">167</span>
+        <span class="song-title">KYRIE EIS’ I ZOI <em>(UNKNOWN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/168-eisai-sy-to-fos.html" class="song-item">
+        <span class="song-number">168</span>
+        <span class="song-title">EISAI SY TO FOS <em>(YOU ARE THE LIGHT THE CREATOR)</em></span>
+    </a>
+    <a href="asma-neon-hymns/169-einai-ilios-o-christos.html" class="song-item">
+        <span class="song-number">169</span>
+        <span class="song-title">EINAI ILIOS O ChRISTOS <em>(THERE IS A SUN IN THE SKY,)</em></span>
+    </a>
+    <a href="asma-neon-hymns/170-efge-doule-mou-piste-ki-agathe.html" class="song-item">
+        <span class="song-number">170</span>
+        <span class="song-title">EYGE DOYLE MOY PISTE KI AGAThE <em>(REFRAIN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/171-poios-ta-matia-ton-tyflon.html" class="song-item">
+        <span class="song-number">171</span>
+        <span class="song-title">POIOS TA MATIA TON TYFLON <em>(WHO THE EYES OF THE BLIND)</em></span>
+    </a>
+    <a href="asma-neon-hymns/172-dexou-ton-ymno-mas-kyrie.html" class="song-item">
+        <span class="song-number">172</span>
+        <span class="song-title">DEXOY TON YMNO MAS KYRIE <em>(REFRAIN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/173-simaia-agapis.html" class="song-item">
+        <span class="song-number">173</span>
+        <span class="song-title">SIMAIA AGAPIS <em>(REFRAIN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/174-leo-ena-antio.html" class="song-item">
+        <span class="song-number">174</span>
+        <span class="song-title">LEO ENA ANTIO <em>(UNKNOWN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/175-eimaste-enomenoi.html" class="song-item">
+        <span class="song-number">175</span>
+        <span class="song-title">EIMASTE ENOMENOI … <em>(WE ARE ALL UNITED WITH CHRIST)</em></span>
+    </a>
+    <a href="asma-neon-hymns/176-poios-ein-aytos.html" class="song-item">
+        <span class="song-number">176</span>
+        <span class="song-title">POIOS EIN’ AYTOS <em>(UNKNOWN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/177-eimai-christe-moy-i-agapi-soy.html" class="song-item">
+        <span class="song-number">177</span>
+        <span class="song-title">EIMAI ChRISTE MOY I AGAPI SOY <em>(UNKNOWN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/178-kyrie-eisai-megalos.html" class="song-item">
+        <span class="song-number">178</span>
+        <span class="song-title">KYRIE EISAI MEGALOS <em>(LORD, YOU ARE GREAT, LORD, YOU ARE HOLY, LORD, THANK YOU, THAT I MET YOU TOO
+                                    ME. LORD YOU ARE MY LIFE, LORD YOU ARE MY SAVIOR, LORD I THANK YOU TOO
+                                    I WILL ALWAYS LOVE YOU. WHY DID I TAKE SO LONG TO MEET YOU IN MY LIFE,
+                                    SHE WAS BLACK, BUT YOU WERE ALWAYS BY MY SIDE.)</em></span>
+    </a>
+    <a href="asma-neon-hymns/179-tha-thela-na-sou-po.html" class="song-item">
+        <span class="song-number">179</span>
+        <span class="song-title">ThA ‘ThELA NA SOY PO <em>(I WOULD LIKE TO TELL YOU THE TRUTH CLEARLY)</em></span>
+    </a>
+    <a href="asma-neon-hymns/180-o-faros.html" class="song-item">
+        <span class="song-number">180</span>
+        <span class="song-title">O FAROS <em>(WITH THE STORM YOU FOUND YOURSELF FAR AWAY)</em></span>
+    </a>
+    <a href="asma-neon-hymns/181-min-argeis.html" class="song-item">
+        <span class="song-number">181</span>
+        <span class="song-title">MIN ARGEIS <em>(REFRAIN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/182-me-akoyse.html" class="song-item">
+        <span class="song-number">182</span>
+        <span class="song-title">ME AKOYSE <em>(UNKNOWN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/183-me-to-christo.html" class="song-item">
+        <span class="song-number">183</span>
+        <span class="song-title">ME TO ChRISTO <em>(WITH CHRIST AS IF I BEGAN TO BEWITCH AND IT IS WATER. HE COMFORTED ME, HE
+                                    BREAK AWAY FROM EVIL, CHRIST, I THANK YOU. MAY HIS GRACE COME WITH YOU TOO
+                                    SEE AND LIVE IN PEACE NOW. HE CHANGED THEM ALL AND CARVED PATHS, ONLY
+                                    THIS LIVING CHRIST. WITH CHRIST I OVERCOME TEMPTATION, HE GIVES ME WINGS
+                                    TO FLY. HE GAVE ME LIFE AND CLEANSED ME, FROM THE PAST THAT HE NO LONGER REMEMBERS.)</em></span>
+    </a>
+    <a href="asma-neon-hymns/184-psalte-ston-kyrio.html" class="song-item">
+        <span class="song-number">184</span>
+        <span class="song-title">PsALTE STON KYRIO <em>(SING TO THE LORD, PRAISE HIM, SING TO THE LIVING GOD. LIFT UP YOUR VOICE, YOU ARE THE
+                                    EARTH, GAVE ETERNAL LIFE. JESUS, YOUR GRACE IS DIVINE, WONDERFUL, BEYOND ALL
+                                    LOGIC. WE RAISE OUR VOICE TO YOU REDEEMER, YOU GAVE ETERNAL LIFE.)</em></span>
+    </a>
+    <a href="asma-neon-hymns/185-ypsoste-ta-cheria-pros-ton-ourano.html" class="song-item">
+        <span class="song-number">185</span>
+        <span class="song-title">YPsOSTE TA ChERIA PROS TON OYRANO <em>(RAISE YOUR HANDS TO THE SKY,)</em></span>
+    </a>
+    <a href="asma-neon-hymns/186-kane-me-organo.html" class="song-item">
+        <span class="song-number">186</span>
+        <span class="song-title">KANE ME ORGANO <em>(REFRAIN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/187-o-iisoys-ein-edo.html" class="song-item">
+        <span class="song-number">187</span>
+        <span class="song-title">O IISOYS EIN’ EDO <em>(JESUS IS HERE, JESUS IS HERE. HE HAS THE POWER TO YOU
+                                    SAVE! HE HAS THE POWER TO HEAL YOU! HE HAS THE POWER TO SET YOU FREE! O
+                                    JESUS IS HERE!)</em></span>
+    </a>
+    <a href="asma-neon-hymns/188-agios-einai-o-theos.html" class="song-item">
+        <span class="song-number">188</span>
+        <span class="song-title">AGIOS EINAI O ThEOS <em>(IN YOUR PRESENCE, HOLY GOD,)</em></span>
+    </a>
+    <a href="asma-neon-hymns/189-kathe-proi-san-xypniso.html" class="song-item">
+        <span class="song-number">189</span>
+        <span class="song-title">KAThE PROI SAN XYPNISO <em>(EVERY MORNING AS SOON AS I WAKE UP I BEGIN TO SING, TO ESETA MY LIPS AND MY HEART RISE
+                                    FATHER, MY HEART IS FILLED WITH MUCH GRATITUDE FOR YOUR FAITHFULNESS
+                                    AND YOUR MERCY TO ME. I WILL GLORIFY YOU MY GOD, FOREVER, I WILL GLORIFY
+                                    YOU FOREVER. I WILL PRAISE YOU, MY GOD, FOREVER, I WILL PRAISE YOU.)</em></span>
+    </a>
+    <a href="asma-neon-hymns/190-o-sotiras-zei.html" class="song-item">
+        <span class="song-number">190</span>
+        <span class="song-title">O SOTIRAS ZEI <em>(HE REDEEMS HEARTS HE HEALS WOUNDS)</em></span>
+    </a>
+    <a href="asma-neon-hymns/191-me-deos-stekomai-mprosta-soy.html" class="song-item">
+        <span class="song-number">191</span>
+        <span class="song-title">ME DEOS STEKOMAI MPROSTA SOY <em>(UNKNOWN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/192-i-agapi-sou-m-eleftherose.html" class="song-item">
+        <span class="song-number">192</span>
+        <span class="song-title">I AGAPI SOY M’ ELEYThEROSE <em>(REFRAIN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/193-otan-vlepo-tin-agiotita-soy.html" class="song-item">
+        <span class="song-number">193</span>
+        <span class="song-title">OTAN VLEPO TIN AGIOTITA SOY <em>(UNKNOWN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/194-gia-sena-psalloyme.html" class="song-item">
+        <span class="song-number">194</span>
+        <span class="song-title">GIA SENA PsALLOYME <em>(UNKNOWN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/195-ton-esteile-o-pateras.html" class="song-item">
+        <span class="song-number">195</span>
+        <span class="song-title">TON ESTEILE O PATERAS <em>(THE FATHER SENT HIM ON A DARK NIGHT)</em></span>
+    </a>
+    <a href="asma-neon-hymns/196-ktise-me.html" class="song-item">
+        <span class="song-number">196</span>
+        <span class="song-title">KTISE ME <em>(BUILD ME AGAIN, HOW I WANT TO BE LIKE YOU,)</em></span>
+    </a>
+    <a href="asma-neon-hymns/197-san-ton-poimena.html" class="song-item">
+        <span class="song-number">197</span>
+        <span class="song-title">SAN TON POIMENA <em>(UNKNOWN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/198-eis-de-ton-vasilea.html" class="song-item">
+        <span class="song-number">198</span>
+        <span class="song-title">EIS DE TON VASILEA <em>(UNKNOWN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/199-to-onoma-soy-thee.html" class="song-item">
+        <span class="song-number">199</span>
+        <span class="song-title">TO ONOMA SOY ThEE <em>(UNKNOWN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/200-stenagmoi-kai-thrinoi.html" class="song-item">
+        <span class="song-number">200</span>
+        <span class="song-title">STENAGMOI KAI ThRINOI <em>(GROANS AND WAILS ARE HEARD SO OFTEN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/201-kathe-mera-ap-tin-aygi.html" class="song-item">
+        <span class="song-number">201</span>
+        <span class="song-title">KAThE MERA AP’ TIN AYGI <em>(UNKNOWN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/202-osanna.html" class="song-item">
+        <span class="song-number">202</span>
+        <span class="song-title">OSANNA <em>(REFRAIN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/203-san-ekeini-ti-gynaika.html" class="song-item">
+        <span class="song-number">203</span>
+        <span class="song-title">SAN EKEINI TI GYNAIKA <em>(LIKE THAT WOMAN FROM SAMARIA,)</em></span>
+    </a>
+    <a href="asma-neon-hymns/204-enas-ein-o-dromos.html" class="song-item">
+        <span class="song-number">204</span>
+        <span class="song-title">ENAS EIN’ O DROMOS <em>(ONE WAY, ONE WAY,)</em></span>
+    </a>
+    <a href="asma-neon-hymns/205-latreyoyme.html" class="song-item">
+        <span class="song-number">205</span>
+        <span class="song-title">LATREYOYME <em>(UNKNOWN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/206-prin-chronia-s-na-ploio.html" class="song-item">
+        <span class="song-number">206</span>
+        <span class="song-title">PRIN ChRONIA S΄ NA PLOIO <em>(YEARS AGO, CHRIST WAS ON A SHIP)</em></span>
+    </a>
+    <a href="asma-neon-hymns/207-zitas-chara.html" class="song-item">
+        <span class="song-number">207</span>
+        <span class="song-title">ZITAS ChARA <em>(YOU ASK FOR JOY IN THE HIGH MOUNTAINS, IN BLUE SEA AND SKY, BUT WINTER TOO
+                                    HEAVY GLOOM HIDES THIS JOY FROM YOU. YOU ASK FOR JOY IN GOLD
+                                    WE KEEP FRIENDLY OPEN COMPANY, BUT THE SOBS OF TRUTH
+                                    MOMENTS FIND YOU IN LONELINESS. YOU ASK FOR JOY WITH EVERY HEART TO SEE
+                                    EVERYONE'S LOOK IS BRILLIANT. BUT IN THE BITTER, HARD LIFE SHE NESTLES
+                                    FROST. SINGER OF THE NEW GENERATION, I WILL SING A HYMN EVERYWHERE
+                                    JOY, CHRIST'S LIFE AND YOURS IF BORN, YOU WILL THEN HAVE JOY
+                                    FIND JOY IN CHRIST LOOKING AT THE OPEN BLOODY EMBRACE, WHEREVER
+                                    IF YOU FIND CHRIST THE REDEEMER, YOU WILL BE FILLED WITH JOY.)</em></span>
+    </a>
+    <a href="asma-neon-hymns/208-ti-fysi-soy-koitazo.html" class="song-item">
+        <span class="song-number">208</span>
+        <span class="song-title">TI FYSI SOY KOITAZO <em>(I LOOK AT YOUR NATURE, I MARVEL AT YOUR WONDERFUL WISDOM. YOU ARE A GREAT GOD,
+                                    THERE IS NO OTHER SO GREAT. THY WORKS MY WONDERS SPEAK OF
+                                    THIS GRACE THAT BENEFICES, WITH POWER. THE DAWNS BREAK, THE STARS SHINE
+                                    AND ALL SING WITH ONE VOICE. GLORY HALLELUJAH, GLORY HALLELUJAH, HALLELUJAH,
+                                    AMEN. AT CALVARY I LOOK, I WONDER AT YOUR WONDROUS WISDOM. HOW
+                                    JUSTICE AND SWEET PEACE MET THERE. THY WORK MY WONDROUS
+                                    HE SPEAKS OF THIS GRACE THAT MAKES GOOD, GIVES LIFE. TURNING TO CHRIST, ME
+                                    BLOOD REDEEMED ALL SING WITH ONE VOICE. GLORY HALLELUJAH, GLORY
+                                    HALLELUJAH HALLELUJAH, AMEN.)</em></span>
+    </a>
+    <a href="asma-neon-hymns/209-ekfrasi-ouranou.html" class="song-item">
+        <span class="song-number">209</span>
+        <span class="song-title">EKFRASI OYRANOY <em>(HEAVEN IS NOT IN THE STARS FAR AWAY,)</em></span>
+    </a>
+    <a href="asma-neon-hymns/210-o-kyrios-edo-sti-gi.html" class="song-item">
+        <span class="song-number">210</span>
+        <span class="song-title">O KYRIOS EDO STI GI <em>(THE LORD TAUGHT HERE ON EARTH FOR LOVE,)</em></span>
+    </a>
+    <a href="asma-neon-hymns/211-gia-sena-tha-ziso.html" class="song-item">
+        <span class="song-number">211</span>
+        <span class="song-title">GIA SENA ThA ZISO <em>(UNKNOWN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/212-vouvoi-skyftoi-kai-fortomenoi.html" class="song-item">
+        <span class="song-number">212</span>
+        <span class="song-title">VOYVOI SKYFTOI KAI FORTOMENOI <em>(MUTE CROUCHED AND LOADED)</em></span>
+    </a>
+    <a href="asma-neon-hymns/213-otan-ton-ilio-skepazoun.html" class="song-item">
+        <span class="song-number">213</span>
+        <span class="song-title">OTAN TON ILIO SKEPAZOYN <em>(WHEN THE SUN IS COVERED BY THICK BLACK CLOUDS,)</em></span>
+    </a>
+    <a href="asma-neon-hymns/214-apo-t-ouranou-ti-doxa.html" class="song-item">
+        <span class="song-number">214</span>
+        <span class="song-title">APO T’ OYRANOY TI DOXA <em>(THE SON OF GOD CAME FROM THE GLORY OF HEAVEN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/215-o-ti-chari-thaymasti.html" class="song-item">
+        <span class="song-number">215</span>
+        <span class="song-title">O TI ChARI ThAYMASTI <em>(OH WHAT A WONDERFUL GRACE, HALLELUJAH CHRIST LOVES ME, HALLELUJAH SHED HIS BLOOD,
+                                    HALLELUJAH CROSS OF CALVARY, HALLELUJAH. HALLELUJAH, HALLELUJAH
+                                    CROSS OF GOLGOTHA HALLELUJAH. ERASE THE PAST, HALLELUJAH GIVE JOY
+                                    AND LIGHT, HALLELUJAH EVERY SINNER, HALLELUJAH SAVIOR CHRIST,
+                                    HALLELUJAH. HALLELUJAH, HALLELUJAH SAVIOR CHRIST HALLELUJAH. WHAT
+                                    WONDERFUL SAVIOR, HALLELUJAH IS JESUS CHRIST, HALLELUJAH COME NOW TO
+                                    CHRIST, HALLELUJAH AND YOU WITH US, HALLELUJAH. HALLELUJAH,
+                                    HALLELUJAH AND YOU WITH US HALLELUJAH.)</em></span>
+    </a>
+    <a href="asma-neon-hymns/216-skepi-moy-i-agapi-soy.html" class="song-item">
+        <span class="song-number">216</span>
+        <span class="song-title">SKEPI MOY I AGAPI SOY <em>(UNKNOWN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/217-eithe-na-eskizes-thee-tous-ouranous.html" class="song-item">
+        <span class="song-number">217</span>
+        <span class="song-title">EIThE NA ESKIZES ThEE TOYS OYRANOYS <em>(MAY YOU REND THE HEAVENS GOD,)</em></span>
+    </a>
+    <a href="asma-neon-hymns/218-agios-agios-agios.html" class="song-item">
+        <span class="song-number">218</span>
+        <span class="song-title">AGIOS, AGIOS, AGIOS <em>(UNKNOWN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/219-san-agrimi.html" class="song-item">
+        <span class="song-number">219</span>
+        <span class="song-title">SAN AGRIMI <em>(UNKNOWN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/220-i-agapi-soy-christe-moy-edose-zoi.html" class="song-item">
+        <span class="song-number">220</span>
+        <span class="song-title">I AGAPI SOY ChRISTE MOY EDOSE ZOI <em>(YOUR LOVE CHRIST GAVE ME LIFE AND NOW I LIVE AGAIN AND AGAIN FROM THE BEGINNING
+                                    YOUR LOVE CHRIST GAVE ME JOY I SING TO YOU, HALLELUJAH. YOUR LIGHT SHINES,
+                                    IT SHINES, IT SHINES, IT LIGHTS UP EVERY HEART. YOU WILL LIVE FOREVER, WE WILL LIVE TOO
+                                    WE WILL SING THE HOSANNA, HALLELUJAH. IN YOUR HANDS YOU HOLD THE
+                                    STARS AND EARTH I AM SAFE WITH YOU. THAT'S WHY I TOO WILL SING TO YOU, I WILL
+                                    I SING WHILE I LIVE, TO YOU THE CREATOR, HALLELUJAH.)</em></span>
+    </a>
+    <a href="asma-neon-hymns/221-enas-einai-o-dromos.html" class="song-item">
+        <span class="song-number">221</span>
+        <span class="song-title">ENAS EINAI O DROMOS <em>(UNKNOWN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/222-iisoy-moy-dioxe-to-fovo.html" class="song-item">
+        <span class="song-number">222</span>
+        <span class="song-title">IISOY MOY, DIOXE TO FOVO <em>(UNKNOWN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/223-pos-mporeis-choris-ayton.html" class="song-item">
+        <span class="song-number">223</span>
+        <span class="song-title">POS MPOREIS ChORIS AYTON <em>(HOW CAN YOU LIVE, WALK, BREATHE, TALK WITHOUT HIM?
+                                    CHRIST? HOW CAN YOU, IN A FOREIGN LAND, REALLY ASK HOW YOU REJOICE AND SING?
+                                    LIFELESS? HOW CAN YOU TALK ABOUT LOVE AWAY FROM HIM? AFTER BEING A MONK
+                                    YOU FIGHT FOR A CARESS. HOW DO YOU SAY YOU HAVE LIGHT, YOUR SUN BECAME DOMES
+                                    YOUR EYES ARE CLOSED IN THE DARK. SEE THE TEARS THAT FLOW THROUGH THEM
+                                    TUPOU'S EYES WERE FIXED ON YOUR SOUL. TELL ME THAT THE HEART DOESN'T BREAK
+                                    LOOKING AT THE CROSS OF THOSE WHERE YOUR REDEMPTION TOOK PLACE? CAN YOU TELL HER?
+                                    ASK THE EARTH FOR PEACE AFTER YOU SEE TURMOIL IN YOUR SOUL? HOW DO YOU ASK VERO NA
+                                    FIND YOUR THIRST QUENCHED IN THE DESERT OF THE DRY WORLD? SAY
+                                    DID YOU TURN AWAY FROM YOUR FATHER? YOU LEFT YOUR CITY AND LOVED IT
+                                    STRANGER. HE RETURNS TO THE JOY OF HIS HOMELAND WHERE SAFETY AND LOVE ARE IN YOU
+                                    HE WAITS. LOOK AT HIS HANDS WOUNDS THORNS IN HIS HEAD HE HURTS AND DOES NOT SPEAK,
+                                    BUT HE IS LOOKING AT YOU. TELL ME HOW THE SOUL DID NOT BEND WHILE LOOKING AT THE BLOOD OF THE CROSS THAT
+                                    DOES THE EARTH DRIP WITH LOVE?)</em></span>
+    </a>
+    <a href="asma-neon-hymns/224-aniko-se-kapoion.html" class="song-item">
+        <span class="song-number">224</span>
+        <span class="song-title">ANIKO SE KAPOION <em>(I BELONG TO SOMEONE AND SURRENDERED TO HIM)</em></span>
+    </a>
+    <a href="asma-neon-hymns/225-san-afra-glykia.html" class="song-item">
+        <span class="song-number">225</span>
+        <span class="song-title">SAN AYRA GLYKIA <em>(LIKE A SWEET BREEZE)</em></span>
+    </a>
+    <a href="asma-neon-hymns/226-aytos-poy-katoikei.html" class="song-item">
+        <span class="song-number">226</span>
+        <span class="song-title">AYTOS POY KATOIKEI <em>(UNKNOWN)</em></span>
+    </a>
+    <a href="asma-neon-hymns/227-chareite-irthe-i-ora.html" class="song-item">
+        <span class="song-number">227</span>
+        <span class="song-title">ChAREITE IRThE I ORA <em>(REJOICE, IT'S TIME TO GO)</em></span>
+    </a>
+    <a href="asma-neon-hymns/228-echo-sothei.html" class="song-item">
+        <span class="song-number">228</span>
+        <span class="song-title">EChO SOThEI <em>(I HAVE BEEN SAVED AND I HAVE JOY. I HAVE BEEN SAVED THROUGH CORRUPTION. BY FAITH I WENT TO
+                                    CROSS, WITH FAITH I WENT TO CHRIST, MY BLOOD, WASH MY LITTLE HEART
+                                    BE SAVED. THE WORLD DOES NOT DEFEAT ME ANYMORE. NO POWER DEFEATS ME. I AM CLOSE TO ME
+                                    CHRIST IS STRONG, I HAVE THE ROCK TO LEAN ON WHEN EVIL COMES TO ME
+                                    WINS. I WILL ALWAYS LIVE WITH CHRIST. I WILL ALWAYS LIVE AND PRAISE HIM. I WILL BE FULL
+                                    I HAVE A HEART WITH JOY AND WINGS WITH FAITH, ALWAYS WITH CHRIST
+                                    I'LL LIVE FOREVER. AND WHEN I'M IN HEAVEN. AND I'LL SEE HIM GLORIOUS,
+                                    BRILLIANT. STEFANI THEN BRILLIANT I WILL WEAR EVEN TO THE ANGELS THE DANCE, ALWAYS WITH
+                                    MY CHRIST, I WILL LIVE FOREVER.)</em></span>
+    </a>
+    <a href="asma-neon-hymns/229-ekei-sto-golgotha.html" class="song-item">
+        <span class="song-number">229</span>
+        <span class="song-title">EKEI STO GOLGOThA <em>(THERE ON CALVARY I SEE THE SAVIOR)</em></span>
+    </a>
+    <a href="asma-neon-hymns/230-xero-kyrie-eis-eleimon.html" class="song-item">
+        <span class="song-number">230</span>
+        <span class="song-title">XERO KYRIE EIS’ ELEIMON <em>(I KNOW LORD IS MERCIFUL)</em></span>
+    </a>
+    <a href="asma-neon-hymns/231-kapoia-mera-o-theos-esteile.html" class="song-item">
+        <span class="song-number">231</span>
+        <span class="song-title">KAPOIA MERA O ThEOS ESTEILE <em>(ONE DAY GOD SENT HIS SON TO DIE FOR ME! WHAT A GREAT GIFT THAT WAS
+                                    MORE PRECIOUS THAN ANY TREASURE, MY FATHER IN HEAVEN, GRANT MY PRAYER
+                                    SEND ME AND REDEEM ME MY CHRIST I AM WAITING FOR YOU. FORGIVE ME LORD THAT
+                                    I SINNED AGAINST YOU. I LIVED AWAY FROM YOU WITHOUT YOUR PRESENCE. YOU GAVE ME
+                                    THE GIFTS OF HEAVEN YOU GAVE ME ETERNAL LIFE HOW COULD I REFUSE YOU
+                                    TURN MY BACK TO THE CROSS. MY FATHER, GRANT MY PRAYER
+                                    SEND ME AND REDEEM ME MY CHRIST I AM WAITING FOR YOU. FORGIVE ME LORD THAT
+                                    I HAVE SINNED AGAINST YOU AS I HAVE LIVED AWAY FROM YOU WITHOUT YOUR PRESENCE. YOU LORD ME
+                                    I HAVE BEEN WAITING FOR YEARS TO RETURN TO SETI. YOUR WARM EMBRACE HAS OPENED ME
+                                    MY LIFE YOU ARE FULL AGAIN. I THANK YOU FATHER ON YOUR THRONE
+                                    I GO AND PRAY TO YOU AND MY HEART OPENS TO WHAT I HAVE ASKED YOU
+                                    YOU HAVE GIVEN ME ETERNAL GRATITUDE I WILL HAVE IN ME CHRIST.)</em></span>
+    </a>
+    <a href="asma-neon-hymns/232-kyrie-otan-sou-milo.html" class="song-item">
+        <span class="song-number">232</span>
+        <span class="song-title">KYRIE OTAN SOY MILO <em>(LORD WHEN I SPEAK TO YOU)</em></span>
+    </a>
